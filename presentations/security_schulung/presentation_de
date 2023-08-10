@@ -230,22 +230,7 @@ _color: white
 
 ![bg](assets/fallbeispiel_4_resultat.png)
 
----
 
-<!--
-_backgroundColor: #0d3862
-_color: white
--->
-
-<h1 style=margin-bottom:75px>
-Wertvolle Daten
-</h1>
-
-<i class="fa-regular fa-credit-card fa-xl" style="margin-right:50px;font-size:75px"></i> <p>Zahlungsdaten<p>
-
-<i class="fa-solid fa-people-roof fa-xl" style="margin-right:50px"></i> Private Daten
-
-<i class="fa-solid fa-laptop-medical fa-xl" style="margin-right:50px"></i> Gesundheitsdaten
 
 ---
 
