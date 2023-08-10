@@ -1,0 +1,1570 @@
+---
+marp: true
+theme: default
+class: invert
+style: |
+  .columns {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.5rem;
+  }
+  .columns2 {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 3rem;
+  }
+  section ol {
+    font-size: 25px;
+  }
+  @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css'
+paginate: true  
+---
+
+<!--
+_backgroundColor: #black
+_color: white
+-->
+<!-- _paginate: skip -->
+
+<div class="columns">
+
+<div>
+
+<img src="assets/white_occ.png" style="margin-bottom: 200px"/>
+
+# Security Awareness Schulung
+
+Carl Strömstedt
+
+
+</div>
+<div>
+</div>
+</div>
+
+![bg](assets/titelbild.jpg)
+
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Carl Strömstedt
+
+- IT Applikationsentwickler
+- Hobbies
+  - Bouldern
+  - Lesen
+  - Reisen
+
+
+![bg right:33%](assets/carl.jpg)
+
+---
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+
+![bg center: 80%](assets/grafik_1.png)
+
+
+
+---
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Daten
+# Informationen
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+
+# 3 Blöcke
+
+- Informationssicherheit
+- Malware & Phising
+- Authentifizierung
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+# Block 1
+## Informationssicherheit
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Was bedeutet Informationssicherheit?
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+## Informationssicherheit
+
+- IS beinhaltet Sicherstellung der **Vertraulichkeit**, **Integrität** und **Verfügbarkeit** von Informationen.
+- IS wird gewährleistet, wenn ausreichend **technische**, **bauliche** und **organisatorische** Schutzmassnahmen getroffen wurden.
+- IS wird durch jeden einzelnen beeinträchtigt, gewährleistet oder verbessert.
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+
+<h1>
+  <i class="fa-solid fa-mask fa-xl" style="margin-right: 15px"></i> Vertraulichkeit
+</h1>
+
+<i class="fa-solid fa-pen-fancy fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Definition
+
+Schutz vor unbefugtem Zugriff auf sensitive Informationen, um die Privatsphäre und Geheimhaltung zu wahren.
+
+<i class="fa-solid fa-tools fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Beispiel
+
+Nur autorisierte Mitarbeiter haben Zugang zu Finanzdaten, um sicherzustellen, dass sensible Informationen nicht öffentlich werden.
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-file-shield fa-xl" style="margin-right: 15px"></i> Integrität
+</h1>
+
+<i class="fa-solid fa-pen-fancy fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Definition
+
+Sicherstellung der Korrektheit und Unveränderlichkeit von Daten, um unautorisierte Manipulation oder Verfälschung zu verhindern.
+
+<i class="fa-solid fa-tools fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Beispiel
+
+Durch Einsatz von digitalen Signaturen wird sichergestellt, dass ein Dokument von einem bestimmten Absender stammt und unverändert ist.
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-clock fa-xl" style="margin-right: 15px"></i> Verfügbarkeit
+</h1>
+
+<i class="fa-solid fa-pen-fancy fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Definition
+
+Gewährleistung der ständigen Zugänglichkeit von Informationen und Ressourcen, um Unterbrechungen und Ausfälle zu minimieren.
+
+<i class="fa-solid fa-tools fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Beispiel
+
+Durch regelmäßige Wartung und redundante Serverinfrastruktur wird sichergestellt, dass eine Webseite jederzeit erreichbar ist.
+
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+
+# Fallbeispiele
+
+1. Ein Mitarbeitender findet nach einer Sitzung einen Fehler im genehmigten Protokoll. Die Bereinigung dieses Fehlers würde den Inhalt des Beschlusses verändern. Er nimmt die Änderung trotzdem vor und legt das angepasste Protokoll ohne Information an die Kollegen und Vermerk einer Änderung auf der Geschäftsablage ab.
+
+2. Ein Mitarbeitender findet nach einer Sitzung einen Fehler im genehmigten Protokoll. Die Bereinigung dieses Fehlers würde den Inhalt des Beschlusses verändern. Er nimmt die Änderung trotzdem vor und legt das angepasste Protokoll ohne Information an die Kollegen und Vermerk einer Änderung auf der Geschäftsablage ab.
+
+3. Es kann nicht auf wichtige Geschäftsdaten zugegriffen werden, weil der IT-Dienstleister ein kurzfristiges, unangekündigtes Wartungsfenster durchführt, um die Software zu aktualisieren.
+
+4. Es kann nicht auf wichtige Geschäftsdaten zugegriffen werden, weil der IT-Dienstleister ein kurzfristiges, unangekündigtes Wartungsfenster durchführt, um die Software zu aktualisieren.
+
+---
+
+![bg](assets/fallbeispiel_1.png)
+
+---
+
+![bg](assets/fallbeispiel_1_resultat.png)
+
+---
+
+![bg](assets/fallbeispiel_2.png)
+
+---
+
+![bg](assets/fallbeispiel_2_resultat.png)
+
+---
+
+
+![bg](assets/fallbeispiel_3.png)
+
+---
+
+![bg](assets/fallbeispiel_3_resultat.png)
+
+---
+
+
+![bg](assets/fallbeispiel_4.png)
+
+---
+
+![bg](assets/fallbeispiel_4_resultat.png)
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Wertvolle Daten
+
+<i class="fa-regular fa-credit-card fa-xl" style="margin-right:50px"></i> Zahlungsdaten
+
+<i class="fa-solid fa-people-roof fa-xl" style="margin-right:50px"></i> Private Daten
+
+<i class="fa-solid fa-laptop-medical fa-xl" style="margin-right:50px"></i> Gesundheitsdaten
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Motivation Angreifer
+
+<div class="columns">
+<div>
+
+<h2>
+  Wirtschaftlich <i class="fa-solid fa-sack-dollar fa-xl" style="margin-left: 15px"></i> 
+</h2>
+
+- Eigene Bereicherung
+- Elimination der Konkurrenz
+- Verbessern der Marktstellung
+
+</div>
+<div>
+<h2>
+  Politisch <i class="fa-solid fa-check-to-slot fa-xl" style="margin-left: 15px"></i> 
+</h2>
+
+- Beeinflussung von Wahlen
+- Imageschaden eines Konkurrenten
+- Verbreitung von religiösen oder politischen Inhalten.
+
+</div>
+<div>
+
+<h2>
+  Persönlich <i class="fa-solid fa-user fa-xl" style="margin-left: 15px"></i> 
+</h2>
+
+- Bestätigung
+- „For the LULZ“ (Amüsierung)
+- Erschleichen von Vorteilen
+
+</div>
+</div>
+
+---
+
+
+<!--
+_backgroundColor: white
+_color: black
+-->
+
+![bg center: 99%](assets/schwachstelle_1.png)
+
+---
+
+<!--
+_backgroundColor: white
+_color: black
+-->
+
+![bg center: 99%](assets/schwachstelle_2.png)
+
+
+---
+
+<!--
+_backgroundColor: white
+_color: black
+-->
+
+![bg center: 99%](assets/schwachstelle_3.png)
+
+---
+
+<!--
+_backgroundColor: white
+_color: black
+-->
+
+![bg center: 99%](assets/schwachstelle_4.png)
+
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Vermögenswerte und Klassifizierung
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Anforderungen an Vermögenswerte
+
+Vertraulichkeit <i class="fa-solid fa-mask fa-xl" style="margin-left:20px"></i> 
+
+Integrität <i class="fa-solid fa-file-shield fa-xl" style="margin-left:20px"></i> 
+
+Verfügbarkeit <i class="fa-solid fa-clock-rotate-left fa-xl" style="margin-left:20px"></i> 
+
+---
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Klassifizierungen
+
+
+<div class="columns">
+<div>
+
+<h2>
+  Wieso? 
+</h2>
+
+Hilft uns Vorgaben zu Definieren
+
+</div>
+<div>
+<h2>
+  Was?
+</h2>
+
+Alle Informationen und Vermögenswerte
+
+</div>
+<div>
+
+<h2>
+  Welche Klassifizierungen? 
+</h2>
+
+- Geheim
+- Vertraulich
+- Intern
+- Öffentlich
+
+</div>
+</div>
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+<h1>
+  Vertraulich <i class="fa-solid fa-shield fa-xl" style="margin-left: 15px"></i> 
+</h1>
+
+## Aufbewahrung
+
+<i class="fa-solid fa-lock fa-xl" style="margin-right:20px"></i> Nur Berechtigte haben Zugriff 
+
+## Transport
+
+<i class="fa-solid fa-lock fa-xl" style="margin-right:20px"></i> Nur verschlüsselt und nicht telefonisch
+
+## Bearbeitung
+
+<i class="fa-solid fa-binoculars fa-xl" style="margin-right:20px"></i> Kopieren nicht erlaubt & überwachter Ausdruck
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+<h1>
+  Intern <i class="fa-solid fa-shield-halved fa-xl" style="margin-left: 15px"></i> 
+</h1>
+
+## Aufbewahrung
+
+<i class="fa-solid fa-building-circle-check fa-xl" style="margin-right:20px"></i> Alle innerhalb der Firma haben Zugriff
+
+## Transport
+
+<i class="fa-solid fa-unlock fa-xl" style="margin-right:20px"></i>  Unverschlüsselter austausch erlaubt
+
+## Bearbeitung
+
+<i class="fa-solid fa-pencil fa-xl" style="margin-right:20px"></i> Ändern, Kopieren, Drucken bei Bedarf erlaubt 
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+<h1>
+  Öffentlich <i class="fa-solid fa-people-group fa-xl" style="margin-left: 15px"></i> 
+</h1>
+
+## Aufbewahrung
+
+<i class="fa-solid fa-box-open fa-xl" style="margin-right:20px"></i> Alle haben zugriff
+
+## Transport
+
+<i class="fa-solid fa-people-group fa-xl" style="margin-right:20px"></i> Jeglicher Austausch erlaubt
+
+## Bearbeitung
+
+<i class="fa-solid fa-binoculars fa-check" style="margin-right:20px"></i> Änderungen müssen Nachvollziehbar sein
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Informationssicherheitsvorfälle
+
+---
+
+<!--
+_backgroundColor: white
+_color: black
+-->
+
+![bg center: 99%](assets/vorfall_1.png)
+
+---
+
+<!--
+_backgroundColor: white
+_color: black
+-->
+
+![bg center: 99%](assets/vorfall_2.png)
+
+---
+
+<!--
+_backgroundColor: white
+_color: black
+-->
+
+![bg center: 99%](assets/vorfall_3.png)
+
+---
+
+<!--
+_backgroundColor: white
+_color: black
+-->
+
+![bg center: 99%](assets/vorfall_4.png)
+
+---
+
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+# Erster Block - Fazit
+
+---
+
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+# Erster Block - Fazit
+
+<div class="columns">
+<div>
+
+## 3 Schutzziele
+
+- Vertraulichkeit
+- Integrität
+- Verfügbarkeit
+
+</div>
+<div>
+
+## Risiko
+
+Schwachstellen durch Schutzmassnahmen sichern
+
+</div>
+<div>
+
+## 3 Klassifizierungen
+
+- Vertraulich
+- Intern
+- Öffentlich
+
+</div>
+</div>
+
+<!-- 5 Minuten Pause
+ -->
+
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Block 2
+
+## Malware
+
+
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+
+<div class="columns2" style="margin-left: 200px; padding-top: 75px">
+<div>
+
+<i class="fa-solid fa-virus-covid fa-xl" style="font-size:120px"></i> 
+<p style="margin-top: 40px; font-size: 50px">Viren</p>
+
+
+</div>
+<div>
+<i class="fa-solid fa-horse fa-xl" style="font-size:120px"></i>
+<p style="margin-top: 40px; font-size: 50px">Trojaner</p>
+
+
+</div>
+<div>
+
+<i class="fa-solid fa-user-secret fa-xl" style="font-size: 120px"></i>
+<p style="margin-top: 40px; font-size: 50px">Spyware</p>
+
+</div>
+<div>
+
+<i class="fa-solid fa-arrow-down-up-lock fa-xl" style="font-size: 120px"></i>
+<p style="margin-top: 40px; font-size: 50px">Ransomware</p>
+</div>
+
+</div>
+
+
+<!-- Zusammengesetztes Wort aus malicious (böse) software
+Virus: häufigste Art, benötigt Userinteraktion  Danach selbstreplizierend. Wurm  Untergruppe von Virus (schlängelt sich durch Netzwerk)
+
+Trojaner: Backdoor (hintertür) zieht weitere Malware nach oder stiehlt Daten
+
+Spyware: Datendiebstal, oftmals lange unbemerkt
+
+Ransomware: Deutlich auf Vormarsch  Cryptolocker Erpressung (Verschlüsselung)
+ -->
+
+ ---
+
+ <!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+<h1>
+  <i class="fa-solid fa-virus fa-xl" style="margin-right: 15px"></i> Viren  
+</h1>
+
+Schadprogramme, die sich an andere Dateien anhängen und sich selbst replizieren können.
+
+<i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Verbreitung
+
+Durch infizierte Dateien, E-Mail-Anhänge oder infizierte Webseiten.
+
+<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Schadenspotential
+
+Zerstörung von Daten, Systemabstürze, Verbreitung über Netzwerke.
+
+ ---
+
+ <!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+<h1>
+  <i class="fa-solid fa-horse fa-xl" style="margin-right: 15px"></i> Trojaner 
+</h1>
+
+Tarnen sich als legitime Software, um unbemerkt in Systeme einzudringen. 
+
+Öffnet Hintertüren, stiehlt Daten oder ermöglicht Fernsteuerung.
+
+<i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Verbreitung
+
+Durch gefälschte E-Mail-Anhänge, infizierte Downloads oder Drive-by-Downloads.
+
+<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Schadenspotential
+
+Datendiebstahl, Identitätsmissbrauch, Systemübernahme.
+
+ ---
+
+ <!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+<h1>
+  <i class="fa-solid fa-user-secret fa-xl" style="margin-right: 15px"></i> Spyware 
+</h1>
+
+Sammelt heimlich Informationen über Nutzer*innen und ihre Aktivitäten.
+
+<i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Verbreitung
+
+Durch Software-Bündelung, infizierte Links oder Drive-by-Downloads.
+
+<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Schadenspotential
+
+Datenschutzverletzungen, Identitätsdiebstahl, finanzielle Verluste.
+
+---
+
+ <!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+<h1>
+  <i class="fa-solid fa-arrow-down-up-lock fa-xl" style="margin-right: 15px"></i> Ransomware
+</h1>
+
+Sperrt oder verschlüsselt Daten, fordert Lösegeld zur Wiederherstellung.
+
+<i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Verbreitung
+
+Durch infizierte E-Mail-Anhänge, Exploit-Kits oder schadhafte Downloads.
+
+<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Schadenspotential
+
+Datenverlust, finanzielle Verluste, Betriebsunterbrechungen.
+
+---
+
+![bg center: 80%](assets/blackcat.png)
+
+<!-- link: https://www.microsoft.com/en-us/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware/
+ -->
+
+---
+
+ <!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+
+# Angriffskomponenten
+
+Was verwenden die Angreifer für ihre Attacken?
+
+---
+
+
+ <!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+
+# Technik
+
+- Drive-by-Download
+- Infizierte Links
+- Software-Bündelung
+
+# Soziale Ebene
+
+- Social Engineering
+
+---
+
+
+ <!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+
+# Technik
+
+- Drive-by-Download <i class="fa-solid fa-globe fa-xl" style="margin-left: 15px"></i>
+- Drive-by-Installer <i class="fa-solid fa-arrow-down fa-xl" style="margin-left: 15px"></i>
+- E-Mail-Anhänge <i class="fa-solid fa-envelope fa-xl" style="margin-left: 15px"></i>
+- Software-Bündelung <i class="fa-solid fa-box fa-xl" style="margin-left: 15px"></i>
+
+---
+
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-globe fa-xl" style="margin-right: 15px"></i> Drive-by-Download
+</h1>
+
+Automatischer Download von Malware beim Besuch einer infizierten Webseite.
+
+<i class="fa-solid fa-gears fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Mechanismus
+
+Ausnutzung von Sicherheitslücken im Browser oder Plugins, um Schadcode einzuschleusen.
+
+<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Risiken
+
+Unbemerkte Infektion, Verbreitung von Viren, Trojanern oder Ransomware.
+
+---
+<!--
+_backgroundColor: #f4f1ec
+_color: black
+-->
+
+
+
+![bg center: 70%](assets/drive_by_1.gif)
+
+<!-- link: https://us.norton.com/blog/malware/what-are-drive-by-downloads
+ -->
+
+---
+
+<!--
+_backgroundColor: #f4f1ec
+_color: black
+-->
+
+
+![bg center: 70%](assets/drive_by_2.png)
+
+---
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-envelope fa-xl" style="margin-right: 15px"></i> E-Mail-Anhänge
+</h1>
+
+Anhänge die beim öffnen Schwachstellen in Software (wie Dokumentenlesern) ausnützen, um Malware zu installieren.
+
+<i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Funktionsweise
+
+Ausnutzung von Software-Schwachstellen, Ausführen von Makros
+
+<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Risiken
+
+Unbemerkte Infektion, Installation von Rootkits, Datendiebstahl.
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-box fa-xl" style="margin-right: 15px"></i> Software-Bündelung
+</h1>
+
+Malware wird zusammen mit legitimer Software gebündelt und bei der Installation mit installiert.
+
+<i class="fa-solid fa-gears fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Mechanismus
+
+Nutzer:innen bemerken die Malware oft nicht, da sie vertrauenswürdige Software als Tarnung verwendet.
+
+<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Risiken
+
+Unbefugter Datenzugriff, Spyware, Trojaner-Infektionen.
+
+---
+
+![bg](assets/drive_by_installer.png)
+
+---
+
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-tree fa-xl" style="margin-right: 15px"></i> Rootkits
+</h1>
+
+Rootkits sind bösartige Software, die tief in ein Computersystem eindringt und zugriff auf verschiedenen Ebenen erhält.
+
+
+<i class="fa-solid fa-gears fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Mechanismus
+
+Durch Zugriff auf Systemebene können Rootkits Administrationsbefugnisse erlangen und Systeme kompromittieren.
+
+<i class="fa-solid fa-search-minus fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Risiken
+
+Unbefugter Datenzugriff, Tarnung von Malware
+
+---
+
+<!--
+_backgroundColor: #f4f1ec
+_color: white
+-->
+
+![bg center: 60%](assets/rootkit.png)
+
+---
+
+
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+<h1>
+  <i class="fa-solid fa-shield-alt fa-xl" style="margin-right: 15px"></i> Schutz vor Malware
+</h1>
+
+<i class="fa-solid fa-lock fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Softwareaktualisierungen
+
+Halte dein Betriebssystem und alle Programme auf dem neuesten Stand, um bekannte Sicherheitslücken zu schließen.
+
+<i class="fa-solid fa-envelope fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Vorsicht bei E-Mails
+
+Öffne keine E-Mail-Anhänge oder klicke nicht auf Links von unbekannten oder verdächtigen Absendern.
+
+<i class="fa-solid fa-user-shield fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Verhaltensbewusstsein
+
+Sei vorsichtig beim Herunterladen von Dateien aus dem Internet und vermeide fragwürdige Webseiten.
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Soziale Ebene
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Social Engineering
+
+Manipulation von Menschen, durch ausnutzung von Vertrauen, Neugier oder Druck, um vertrauliche Informationen preiszugeben oder unerlaubte Handlungen auszuführen.
+
+## Methoden
+
+- Phishing 
+- Vishing (Telefon)
+- Pretexting (Vortäuschen falscher Identität)
+
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-fish fa-xl" style="margin-right: 15px"></i> Phishing
+</h1>
+
+Täuschung von Nutzer:innen, um vertrauliche Informationen wie Passwörter oder Finanzdaten zu stehlen.
+
+<i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Methoden
+
+Gefälschte E-Mails, Webseiten oder soziale Medien, die echt aussehen, um Vertrauen zu erwecken.
+
+<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Gefahren
+
+Identitätsdiebstahl, finanzielle Verluste, Zugriff auf persönliche Konten.
+
+---
+
+<!--
+_backgroundColor: #f4f1ec
+_color: white
+-->
+
+![bg center: 90%](assets/phictionary_1.png)
+
+---
+
+
+<!--
+_backgroundColor: #f4f1ec
+_color: white
+-->
+
+![bg center: 90%](assets/phictionary_2.png)
+
+---
+
+
+<!--
+_backgroundColor: #f4f1ec
+_color: white
+-->
+
+![bg center: 90%](assets/phictionary_3.png)
+
+---
+
+<!--
+_backgroundColor: #f4f1ec
+_color: white
+-->
+
+![bg center: 90%](assets/phictionary_4.png)
+
+---
+
+<!--
+_backgroundColor: #f4f1ec
+_color: white
+-->
+
+![bg center: 90%](assets/phictionary_5.png)
+
+---
+
+<!--
+_backgroundColor: #f4f1ec
+_color: white
+-->
+
+![bg center: 90%](assets/phictionary_6.png)
+
+---
+
+<!--
+_backgroundColor: #f39c12
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-phone-volume fa-xl" style="margin-right: 15px"></i> Vishing
+</h1>
+
+<i class="fa-solid fa-info-circle fa-2xl" style="margin-right:20px; margin-top: 45px; margin-bottom: 30px"></i> Was ist Vishing?
+
+- Vishing steht für "Voice Phishing"
+- Eine Betrugsmethode, bei der Betrüger sich am Telefon als legitime Organisationen ausgeben, um vertrauliche Informationen zu erlangen.
+
+
+
+<i class="fa-solid fa-shield-alt fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 30px"></i> Schutz
+
+- Sei misstrauisch gegenüber unerwarteten Anrufen
+- Verifiziere die Identität des Anrufers
+- Gib niemals vertrauliche Informationen am Telefon preis
+
+
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-drumstick-bite fa-xl" style="margin-right: 15px"></i> Baiting
+</h1>
+
+Locken von Nutzer:innen mit Versprechen von Belohnungen oder Vorteilen, um Malware zu verbreiten.
+
+<i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Taktiken
+
+Infizierte USB-Sticks, gefälschte Software-Downloads, betrügerische Angebote.
+
+<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Risiken
+
+Unbemerkte Installation von Malware, Verlust vertraulicher Daten.
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-water fa-xl" style="margin-right: 15px"></i> Watering-Hole Attack
+</h1>
+
+Kompromittierung einer Website, die häufig von den Zielpersonen besucht wird, um sie mit Malware zu infizieren.
+
+<i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Vorgehen
+
+Identifizierung beliebter Zielpersonen, Infizierung der bevorzugten Websites.
+
+<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Auswirkungen
+
+Unerkannte Malware-Verbreitung, Ausspionieren der Zielgruppe.
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-dumpster fa-xl" style="margin-right: 15px"></i> Dumpster Diving
+</h1>
+
+Suchen nach sensiblen Informationen in physischem Müll, um Zugriff auf vertrauliche Daten zu erhalten.
+
+<i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Ziel
+
+
+Papierdokumente, veraltete Hardware, ungeschredderte Informationen.
+
+<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Risiken
+
+Diebstahl vertraulicher Daten, Identitätsdiebstahl.
+
+
+
+---
+
+<!--
+_backgroundColor: #cf7030
+_color: white
+-->
+
+<h1>
+  <i class="fa-solid fa-shield-alt fa-xl" style="margin-right: 15px"></i> Phishing-Erkennung
+</h1>
+
+<i class="fa-solid fa-pencil fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Grammatik und Anrede
+
+Achte auf schlechte Grammatik und allgemeine Anreden wie "Sehr geehrte Damen und Herren". 
+
+<i class="fa-solid fa-gift fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Unglaubliche Angebote
+
+Wenn etwas zu gut klingt, um wahr zu sein, ist es wahrscheinlich nicht echt.
+
+<i class="fa-solid fa-envelope fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Sensible Datenanfragen
+
+Gib niemals sensible Informationen aufgrund von E-Mail-Anfragen weiter. Banken würden solche Informationen niemals per E-Mail anfordern.
+
+---
+
+<!--
+_backgroundColor: #cf7030
+_color: white
+-->
+
+<i class="fa-solid fa-user-friends fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Unbekannte Absender
+
+Lösche unaufgeforderte E-Mails von unbekannten Absendern oder Diensten, die du nicht nutzt. Öffne sie nicht und klicke nicht auf Links oder Anhänge.
+
+<i class="fa-solid fa-clock fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Zeitdruck
+
+Sei misstrauisch bei E-Mails, die dringendes Handeln erfordern. Betrüger erzeugen oft künstlichen Druck, um dich zum überstürzten Handeln zu bewegen.
+
+<i class="fa-solid fa-at fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Falsche E-Mail-Adressen und Domänennamen
+
+Prüfe verdächtige E-Mails auf korrekte Absenderadressen und Domänennamen. Impulsives Handeln könnte dazu führen, subtile Details zu übersehen.
+
+
+
+
+---
+
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+# Zweiter Block - Fazit
+
+---
+
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+# Zweiter Block - Fazit
+
+<div class="columns">
+<div>
+
+## Malware
+
+- Viren
+- Trojaner
+- Spyware
+- Ransomware
+
+</div>
+<div>
+
+## Technik
+
+- Drive-by-Download 
+- Drive-by-Installer 
+- E-Mail-Anhänge 
+- Software-Bündelung 
+
+</div>
+<div>
+
+
+
+## Soziale Ebene
+
+- Phishing
+- Vishing (Telefon)
+- Pretexting (Vortäuschen falscher Identität)
+
+</div>
+<div>
+
+## Social Engineering
+
+Manipulation von Menschen durch ausnutzung von Emotionen
+
+</div>
+</div>
+
+<!-- 5 Minuten Pause
+ -->
+
+
+---
+
+# Was macht Open Circle dagegen?
+
+Intrusion Detection System (IDS) - Wazuh?
+
+Spam-Filter
+
+...
+
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Block 3
+## Authentifizierung & Verhaltensweisen
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Authentisierung 
+
+Benutzer*in gibt Benutzernamen und Passwort ein
+
+Behauptung einer Identität
+
+# Authentifizierung 
+
+Server prüft bestehende Nutzer*innen auf Benutzername und Passwort 
+
+Überprüfung der Identität
+
+---
+
+
+<!--
+_backgroundColor: #2c3e50
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-fingerprint fa-xl" style="margin-right: 15px"></i> Formen der Authentifizierung
+</h1>
+
+<i class="fa-solid fa-brain fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Wissen (Passwörter)
+
+- Benutzername und geheimes Passwort
+- Anfällig für Phishing und soziale Ingenieurstechniken
+
+<i class="fa-solid fa-key fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Besitz (Physische Keys)
+
+- Hardware-Token, Smartcards, USB-Schlüssel
+- Erhöhte Sicherheit, benötigt physischen Zugriff
+
+<i class="fa-solid fa-eye-slash fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Biometrie
+
+- Fingerabdruck, Gesichtserkennung, Iris-Scan
+- Einzigartige körperliche Merkmale als Identifikation
+
+---
+
+<!--
+_backgroundColor: #2c3e50
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-hammer fa-xl" style="margin-right: 15px"></i> Brute Forcing
+</h1>
+
+<i class="fa-solid fa-clock fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Was ist Brute Forcing?
+
+- Methode, bei der alle möglichen Kombinationen ausprobiert werden
+- Ziel: Passwort oder geheime Informationen erraten
+
+<i class="fa-solid fa-hourglass-half fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Beispiel
+
+- Passwort: "secure123"
+- Komplexität: Kleinbuchstaben, Zahlen
+- Durchschnittliche Zeit zum Knacken: Wochen bis Monate
+
+
+
+
+---
+
+
+
+<!--
+_backgroundColor: #d16258
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-lines-leaning fa-xl" style="margin-right: 15px"></i> Dominoeffekt bei Mehrfachverwendung 
+</h1>
+
+<i class="fa-solid fa-lock fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 25px"></i> Was ist der Dominoeffekt?
+
+- Verwendung desselben Passworts für verschiedene Konten
+- Wenn ein Konto kompromittiert wird, sind andere gefährdet
+
+<i class="fa-solid fa-warning fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 25px"></i> Gefahren
+
+- Ein geknacktes Passwort ermöglicht Zugriff auf andere Konten
+- Angreifer nutzen diese Schwachstelle aus
+
+<i class="fa-solid fa-user-lock fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 25px"></i> Beispiel
+
+- Konto A mit demselben Passwort wie Konto B
+- Konto A wird kompromittiert
+- Angreifer haben Zugang zu Konto B
+
+
+---
+
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+<h1>
+<i class="fa-solid fa-circle-check fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Passwortempfehlungen
+</h1>
+
+<i class="fa-solid fa-dice-one fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Verwende für jedes Konto ein einzigartiges Passwort
+
+
+<i class="fa-solid fa-list-check fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i>Nutze Passwort-Manager zur Verwaltung
+
+<i class="fa-solid fa-key fa-xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i><i class="fa-solid fa-key fa-xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Multi-Faktor-Authentifizierung (MFA) verwenden
+
+
+---
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+<h1>
+  <i class="fa-solid fa-key fa-xl" style="margin-right: 15px"></i> Passwort-Manager
+</h1>
+
+<i class="fa-solid fa-question fa-2xl" style="margin-right:20px; margin-top: 35px; margin-bottom: 25px"></i> Warum Passwort-Manager?
+
+- Speichert und verwaltet sichere Passwörter
+- Erzeugt zufällige, komplexe Passwörter
+
+<i class="fa-solid fa-plus fa-2xl" style="margin-right:20px; margin-top: 35px; margin-bottom: 25px"></i> Vorteile
+
+- Kein Auswendiglernen nötig
+- Schützt vor Mehrfachverwendung von Passwörtern
+- Erhöht die Sicherheit von Online-Konten
+
+<i class="fa-solid fa-gears fa-2xl" style="margin-right:20px; margin-top: 20px; margin-bottom: 25px"></i> Funktionsweise
+
+- Master-Passwort für den Zugriff
+- Sichere Speicherung verschlüsselter Passwortdaten
+
+---
+
+<!--
+_backgroundColor: black
+_color: white
+-->
+
+<img src="assets/white_color_occ.png" style="height:80px"></img> 
+
+# Passwort-Manager
+
+Mit dem Passwort-Manager Safe kannst du Logins, Passwörter und andere sensible Daten erfassen, verwalten und teilen. 
+
+- Browser Plugin
+
+- Hosting in der Schweiz
+
+- 2-Faktor-Authentifizierung
+
+![bg right:40%](assets/vault.png)
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Verhaltensweisen
+
+## Verhalten in öffentlichen Netzwerken <i class="fa-solid fa-wifi fa-xl" style="margin-left: 15px"></i>
+
+## Clean-Desk-Policy <i class="fa-solid fa-spray-can-sparkles fa-xl" style="margin-left: 15px"></i>
+
+---
+
+<!--
+_backgroundColor: #2980b9
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-wifi fa-xl" style="margin-right: 15px"></i> Verhalten in öffentlichen Netzwerken
+</h1>
+
+<i class="fa-solid fa-lock fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Öffentliche Netzwerke
+
+- Gefahr von MitM-Angriffen und Datenspionage
+- Vermeide Online-Banking und sensitive Aktivitäten
+
+<i class="fa-solid fa-user-shield fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Verhaltenstipps
+
+- Deaktiviere Dateifreigabe und Netzwerkfreigaben
+- Verwende sichere Websites (HTTPS)
+- Nutze VPN für verschlüsselte Verbindung
+
+<i class="fa-solid fa-car-tunnel fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Virtuelles Privates Netzwerk (VPN)
+
+- Verschlüsselt Internetverkehr über sicheren Tunnel
+
+
+
+---
+
+<!--
+_backgroundColor: #5f8f9e
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-spray-can-sparkles fa-xl" style="margin-right: 15px"></i> Clean Desk Policy
+</h1>
+
+<i class="fa-solid fa-question-circle fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Warum eine Clean Desk Policy?
+
+Die Clean Desk Policy hilft bei der Wahrung der VIV-Prinzipien:
+
+- Vertraulichkeit
+- Integrität
+- Verfügbarkeit
+
+<i class="fa-solid fa-lock fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Sicherheitsrisiken
+
+Ein nicht aufgeräumter Arbeitsplatz kann Sicherheitsrisiken bergen:
+
+- Benutzung eines eingeloggten Nutzerkontos
+- Einblick in vertrauliche Unterlagen
+
+---
+
+<!--
+_backgroundColor: #5f8f9e
+_color: white
+-->
+
+<i class="fa-solid fa-trash fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Umsetzung
+
+Die Policy beinhaltet:
+
+- Regelmäßiges Aufräumen des Arbeitsplatzes
+- Ausloggen bei Verlassen
+- Keine Hinweise auf vertrauliche Daten
+
+<i class="fa-solid fa-user-secret fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Schutz vor Spionage
+
+Verhindert Spionage durch:
+
+- Eigene Angestellte
+- Anheuerung von Drittpersonen (z.B. Putzfrauen)
+- Identitätsmissbrauch
+
+
+
+---
+
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+# Dritter Block - Fazit
+
+---
+
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+# Dritter Block - Fazit
+
+<div class="columns">
+<div>
+
+## Passwortempfehlungen
+
+- Verwende für jedes Konto ein einzigartiges Passwort
+
+- Nutze Passwort-Manager zur Verwaltung
+
+- Multi-Faktor-Authentifizierung (MFA) verwenden
+
+</div>
+<div>
+
+## Clean-Desk-Policy
+
+Die Clean Desk Policy hilft bei der Wahrung der VIV-Prinzipien
+
+</div>
+<div>
+
+
+
+
+</div>
+<div>
+
+
+
+</div>
+</div>
+
+<!-- 5 Minuten Pause
+ -->
+
+
+---
+
+
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+
+# Links
+
+- E-Mail Adresse prüfen 
+https://haveibeenpwned.com
+- Passwort prüfen 
+https://haveibeenpwned.com/passwords
+- Nationales Zentrum für Cybersicherheit: https://www.melani.admin.ch/melani/de/home.html
+- Passwort Safe 
+https://www.open-circle.ch/passwort-manager/
+- Information is beautiful https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
+
+
+
+--- 
+
+![bg](assets/open_circle_stef.png)
+
+---
+
+![bg](assets/open_circle_end.png)
