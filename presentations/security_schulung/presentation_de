@@ -70,20 +70,12 @@ _color: white
 -->
 
 
-![bg center: 80%](assets/grafik_1.png)
+![bg center: 80%](assets/nzz.png)
 
 
 
 ---
-<!--
-_backgroundColor: #0d3862
-_color: white
--->
 
-# Daten
-# Informationen
-
----
 
 <!--
 _backgroundColor: #0d3862
@@ -93,9 +85,9 @@ _color: white
 
 # 3 Blöcke
 
-- Informationssicherheit
-- Malware & Phising
-- Authentifizierung
+- ### Informationssicherheit
+- ### Malware & Phising
+- ### Authentifizierung & Verhaltensweisen
 
 ---
 
@@ -192,8 +184,9 @@ _backgroundColor: #0d3862
 _color: white
 -->
 
-
-# Fallbeispiele
+<h1 style="margin-bottom: -5px">
+ Fallbeispiele
+</h1>
 
 1. Ein Mitarbeitender findet nach einer Sitzung einen Fehler im genehmigten Protokoll. Die Bereinigung dieses Fehlers würde den Inhalt des Beschlusses verändern. Er nimmt die Änderung trotzdem vor und legt das angepasste Protokoll ohne Information an die Kollegen und Vermerk einer Änderung auf der Geschäftsablage ab.
 
@@ -244,13 +237,53 @@ _backgroundColor: #0d3862
 _color: white
 -->
 
-# Wertvolle Daten
+<h1 style=margin-bottom:75px>
+Wertvolle Daten
+</h1>
 
-<i class="fa-regular fa-credit-card fa-xl" style="margin-right:50px"></i> Zahlungsdaten
+<i class="fa-regular fa-credit-card fa-xl" style="margin-right:50px;font-size:75px"></i> <p>Zahlungsdaten<p>
 
 <i class="fa-solid fa-people-roof fa-xl" style="margin-right:50px"></i> Private Daten
 
 <i class="fa-solid fa-laptop-medical fa-xl" style="margin-right:50px"></i> Gesundheitsdaten
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+<h1 style="margin-bottom:20px; font-size:55px">
+Wertvolle Daten
+</h1>
+
+<div class="columns2" style="margin-left: 0px; padding-top: 75px">
+<div>
+
+<i class="fa-solid fa-credit-card fa-xl" style="font-size:100px"></i> 
+<p style="margin-top: 40px; font-size: 40px">Zahlungsdaten</p>
+
+
+</div>
+<div>
+<i class="fa-solid fa-people-roof fa-xl" style="font-size:100px"></i>
+<p style="margin-top: 40px; font-size: 40px">Private Daten</p>
+
+
+</div>
+<div>
+
+<i class="fa-solid fa-laptop-medical fa-xl" style="font-size: 100px"></i>
+<p style="margin-top: 40px; font-size: 40px">Gesundheitsdaten</p>
+
+</div>
+<div>
+
+
+</div>
+
+</div>
 
 ---
 
@@ -585,7 +618,7 @@ _color: white
 -->
 
 
-<div class="columns2" style="margin-left: 200px; padding-top: 75px">
+<div class="columns2" style="margin-left: 150px; padding-top: 75px">
 <div>
 
 <i class="fa-solid fa-virus-covid fa-xl" style="font-size:120px"></i> 
@@ -819,7 +852,7 @@ _color: white
 
 Anhänge die beim öffnen Schwachstellen in Software (wie Dokumentenlesern) ausnützen, um Malware zu installieren.
 
-<i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Funktionsweise
+<i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Mechanismus
 
 Ausnutzung von Software-Schwachstellen, Ausführen von Makros
 
@@ -869,7 +902,7 @@ Rootkits sind bösartige Software, die tief in ein Computersystem eindringt und 
 
 Durch Zugriff auf Systemebene können Rootkits Administrationsbefugnisse erlangen und Systeme kompromittieren.
 
-<i class="fa-solid fa-search-minus fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Risiken
+<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Risiken
 
 Unbefugter Datenzugriff, Tarnung von Malware
 
@@ -894,7 +927,7 @@ _color: white
   <i class="fa-solid fa-shield-alt fa-xl" style="margin-right: 15px"></i> Schutz vor Malware
 </h1>
 
-<i class="fa-solid fa-lock fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Softwareaktualisierungen
+<i class="fa-solid fa-arrow-rotate-left fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Softwareaktualisierungen
 
 Halte dein Betriebssystem und alle Programme auf dem neuesten Stand, um bekannte Sicherheitslücken zu schließen.
 
@@ -1012,7 +1045,7 @@ _color: white
 ---
 
 <!--
-_backgroundColor: #f39c12
+_backgroundColor: #c78928
 _color: white
 -->
 <h1>
@@ -1158,7 +1191,9 @@ _backgroundColor: #187d4d
 _color: white
 -->
 
-# Zweiter Block - Fazit
+<h1 style="margin-bottom:-20px">
+Zweiter Block - Fazit
+</h1>
 
 <div class="columns">
 <div>
@@ -1294,8 +1329,9 @@ _color: white
 <i class="fa-solid fa-hourglass-half fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Beispiel
 
 - Passwort: "secure123"
-- Komplexität: Kleinbuchstaben, Zahlen
-- Durchschnittliche Zeit zum Knacken: Wochen bis Monate
+- Theoretische zeit zum Knacken: Wochen bis Monate
+
+ <i class="fa-solid fa-triangle-exclamation fa-2xl" style="margin-top:25px; margin-left:25px; margin-right:15px"></i> Wörterlisten kürzen diese Zeit drastisch
 
 
 
@@ -1367,9 +1403,9 @@ _color: white
 
 - Kein Auswendiglernen nötig
 - Schützt vor Mehrfachverwendung von Passwörtern
-- Erhöht die Sicherheit von Online-Konten
 
-<i class="fa-solid fa-gears fa-2xl" style="margin-right:20px; margin-top: 20px; margin-bottom: 25px"></i> Funktionsweise
+
+<i class="fa-solid fa-gears fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 25px"></i> Funktionsweise
 
 - Master-Passwort für den Zugriff
 - Sichere Speicherung verschlüsselter Passwortdaten
