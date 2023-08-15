@@ -535,6 +535,76 @@ _color: black
 ---
 
 <!--
+_backgroundColor: #cf7030
+_color: white
+-->
+
+# Vorgehen bei einem Sicherheitsvorfall
+
+
+
+
+---
+
+<!--
+_backgroundColor: #cf7030
+_color: white
+-->
+
+
+<i class="fa-solid fa-user-shield fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 15px"></i> Verdacht
+
+- Wenn du etwas Verdächtiges bemerkst, zögere nicht.
+- Unsere Experten klären die Situation für dich ab.
+
+<i class="fa-solid fa-exclamation-triangle fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 15px"></i> Melden
+
+- Am besten meldest du dich telefonisch oder erstellst ein Support-Ticket.
+- Wir stehen dir zur Seite und helfen bei der Lösung.
+
+<i class="fa-solid fa-envelope fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 15px"></i> Weiterleiten
+
+- Verdächtige Phishing-E-Mails bitte an support@open-circle.ch weiterleiten.
+- Du kannst auch Screenshots an das Ticket anhängen, um weitere Informationen bereitzustellen.
+
+<!--
+Scheuhe nich davor zurrück dich dazu zu melden
+-->
+
+
+---
+
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+
+# Was macht Open Circle dagegen?
+
+<i class="fa-solid fa-window-maximize fa-2xl" style="margin-right:33px; margin-top: 25px; margin-bottom: 35px"></i> DNS-Filtering
+
+<i class="fa-solid fa-envelope-open-text fa-2xl" style="margin-right:40px; margin-top: 25px; margin-bottom: 35px"></i>Spam-Filtering
+
+<i class="fa-solid fa-sync fa-2xl" style="margin-right:40px; margin-top: 25px; margin-bottom: 35px"></i>Regelmässige Updates von Server & Clients
+
+<i class="fa-solid fa-user-shield fa-2xl" style="margin-right:25px; margin-top: 25px; margin-bottom: 35px"></i>2-Faktor-Authentifizierung
+
+<i class="fa-solid fa-user-pen fa-2xl" style="margin-right:20px; margin-top: 25px; margin-bottom: 35px"></i> Awareness-Schulungen
+
+- Anwender sensibilisieren
+- Gefahrenbewusstsein fördern
+
+<!--
+Betonen dass wir vieles machen, aber schlussendlich ist es der User der den grössten unterschied macht
+
+Darum diese Schulung
+-->
+
+
+---
+
+<!--
 _backgroundColor: #187d4d
 _color: white
 -->
@@ -574,6 +644,16 @@ Schwachstellen durch Schutzmassnahmen sichern
 - Vertraulich
 - Intern
 - Öffentlich
+
+</div>
+<div>
+
+## Sicherheitsvorfall
+
+Unsicher? Misstrauisch?
+
+<i class="fa-solid fa-arrow-right fa-xl" style="margin-right: 10px"></i> Melden
+
 
 </div>
 </div>
@@ -1398,29 +1478,6 @@ Manipulation von Menschen durch ausnutzung von Emotionen
 
 <!-- 5 Minuten Pause
  -->
-
-
----
-
-# Was macht Open Circle dagegen?
-
-Intrusion Detection System (IDS) - Wazuh?
-
-Spam-Filter
-
-Greenbone
-
-Logs
-
-Backups
-
-
-...
-
-<!--
-_backgroundColor: #187d4d
-_color: white
--->
 
 
 ---
