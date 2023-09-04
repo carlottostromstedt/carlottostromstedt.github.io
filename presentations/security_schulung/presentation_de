@@ -37,13 +37,14 @@ _color: white
 
 Carl Strömstedt
 
-
 </div>
 <div>
 </div>
 </div>
 
 ![bg](assets/titelbild.jpg)
+
+
 
 ---
 
@@ -55,17 +56,35 @@ _color: white
 
 ![bg center: 70%](assets/die_post.PNG)
 
+<!--
+Vermutlich haben die meisten von euch schon mal solch eine SMS gekriegt
+-->
+
+
+
 ---
 
 ![bg center: 48%](assets/amaazon_1.PNG)
+
+<!--
+Und oder so eine Email
+-->
 
 ---
 
 ![bg center: 90%](assets/nzz.png)
 
+<!--
+Und vielleicht habt ihr auch schon von Hackerattacken und Ransomware attacken online oder in der Zeitung gelesen
+-->
+
 ---
 
 ![bg center: 70%](assets/attack.gif)
+
+<!--
+  Fakt ist: Jeden Tag werden tausende von attackn ausgeführt
+-->
 
 ---
 
@@ -82,6 +101,16 @@ _color: white
 - ### Informationssicherheit
 - ### Malware & Phishing
 - ### Passwörter & Verhaltensweisen
+
+<!--
+Heute in dieser Schulung werden wir mal hinter die Kulissen schauen. 
+
+Wir werdend die theoretischen Hintergründe von Informationssicherheit kennenlernen
+
+Wir werden Malware und Phishing anschauen
+
+Und wir werden auch Passwörter und empfehlungenen bezüglich Verhaltensweisen am Arbeitsplatz und im digitalen Umfeld anschauen
+-->
 
 ---
 
@@ -133,6 +162,14 @@ _color: white
 - IS beinhaltet Sicherstellung der **Vertraulichkeit**, **Integrität** und **Verfügbarkeit** von Informationen.
 - IS wird gewährleistet, wenn ausreichend **technische**, **bauliche** und **organisatorische** Schutzmassnahmen getroffen wurden.
 - IS wird durch jeden einzelnen beeinträchtigt, gewährleistet oder verbessert.
+
+<!--
+Gewährleistung von den 3 Schutzzielen
+
+Durch infrastruktur
+
+Durch das Individuum
+-->
 
 ---
 
@@ -210,14 +247,24 @@ _color: white
 
 4. Ein Mitarbeiter klickt auf einen Link in einer Nachricht mit der Aufforderung, seinen Lotto-Gewinn einzufordern. Er bestätigt die Installation eines Zertifikats im Browser, um auf die gewünschte Seite zugreifen zu können. Sämtliche Daten, die er versendet und empfängt, werden nun von jemand Drittem entschlüsselt, eingesehen und für einen Betrug verändert.
 
+<!--
+So for practice i have 4 case studies. I will give you a few minutes time to read through the case studies and then i will start an anonymous zoom poll. 
+
+You should answer based on which of our 3 security goals are violated in each of the 4 cases. There is the possiblity of more than one violation.
+-->
+
 ---
+
+<!--
+So we will now go through each of the case studies and have look at what the answers would be
+-->
 
 <!--
 _backgroundColor: #0d3862
 _color: white
 -->
 
-# Zoom Poll / Quizz
+# Zoom Poll / Quiz
 
 ---
 
@@ -293,6 +340,22 @@ Beispiele für wertvolle und sensitive Informationen
 
 </div>
 
+<!--
+So we've established a defintion of Information Security and of it's components. Which i hope you were able to understand
+
+Now that we have answered the question of **what** information security is? We will talk about the **why**
+
+We have a lot of data nowadays and not only in quantity but the data we have is often also very valuable
+
+So this can be for example:
+
+- financial data
+- personal data
+- health data
+
+The value of this data naturally provides an incentive and motivation
+-->
+
 ---
 
 <!--
@@ -336,6 +399,18 @@ _color: white
 </div>
 </div>
 
+
+<!--
+
+So we can defintely understand that there many incentives to conduct and attack
+
+We have the economical motivators
+
+And then especially with social media as well have political motivations
+
+and personal motivations
+-->
+
 ---
 
 
@@ -346,6 +421,12 @@ _color: black
 
 ![bg center: 99%](assets/schwachstelle_1.png)
 
+<!--
+So these attackers have their motivations and we have our information / our data.
+
+The attackers try find vulnerabilities which they can exploit
+-->
+
 ---
 
 <!--
@@ -355,6 +436,11 @@ _color: black
 
 ![bg center: 99%](assets/schwachstelle_2.png)
 
+<!--
+So these attackers have their motivations and we have our information / our data.
+
+The attackers try find vulnerabilities which they can exploit
+-->
 
 ---
 
@@ -365,6 +451,11 @@ _color: black
 
 ![bg center: 99%](assets/schwachstelle_3.png)
 
+<!--
+We then take protective measurements to patch or to protect these vulnerabilities.
+-->
+
+
 ---
 
 <!--
@@ -374,6 +465,15 @@ _color: black
 
 ![bg center: 99%](assets/schwachstelle_4.png)
 
+<!--
+This then hinders further attacks. For the moment.But this is a cylical process.
+
+We continuously want to ensure that we have the correct protective measurements applied.
+
+What should be noted is that we try to deploy protective measurements proportionally, based on the value of our information / data.
+
+And to help us with this we have classifications
+-->
 
 ---
 
@@ -383,6 +483,12 @@ _color: white
 -->
 
 # Klassifizierungen von Informationen
+
+<!--
+
+It helps us group data based on different factors
+
+-->
 
 ---
 
@@ -398,6 +504,13 @@ Vertraulichkeit <i class="fa-solid fa-mask fa-xl" style="margin-left:20px"></i>
 Integrität <i class="fa-solid fa-file-shield fa-xl" style="margin-left:20px"></i> 
 
 Verfügbarkeit <i class="fa-solid fa-clock-rotate-left fa-xl" style="margin-left:20px"></i> 
+
+
+<!--
+And once again we meet our lovely trio / triad CIA
+
+We can apply these properties to help us define our requirements when it comes to classification
+-->
 
 ---
 <!--
@@ -465,6 +578,16 @@ _color: white
 ## Bearbeitung
 
 <i class="fa-solid fa-binoculars fa-xl" style="margin-right:20px"></i> Kopieren nicht erlaubt & überwachter Ausdruck
+
+<!--
+So we have three areas which we will look at which is Storage, transport and processing of data. 
+
+And this is based on our classifcation
+
+so for confidential:...
+
+Printin is allowed butcopying is not. And when we print, the printing should be monitored.
+-->
 
 ---
 
@@ -817,6 +940,23 @@ _color: white
 - Hauptsächlich auf iranische Atomreaktoren ausgerichtet
 - Manipulierte Steuerungssysteme und führte zu physischen Schäden
 
+
+<!-- 
+Stuxnet, discovered by Sergey Ulasen, initially spread via Microsoft Windows, and targeted Siemens industrial control systems.
+
+Stuxnet has three modules: a worm that executes all routines related to the main payload of the attack; 
+
+a link file that automatically executes the propagated copies of the worm; 
+
+and a rootkit component responsible for hiding all malicious files and processes, to prevent detection of Stuxnet.[11] 
+
+It is typically introduced to the target environment via an infected USB flash drive, thus crossing any air gap. The worm then propagates across the network, scanning for Siemens Step7 software on computers controlling a PLC
+
+Stuxnet reportedly compromised Iranian PLCs, collecting information on industrial systems and causing the fast-spinning centrifuges to tear themselves apart.
+
+PLC (Programmable Logic Controllers)
+-->
+
 ---
 
  <!--
@@ -879,6 +1019,10 @@ Tarnen sich als legitime Software, um unbemerkt in Systeme einzudringen.
 Durch gefälschte E-Mail-Anhänge, infizierte Downloads oder Drive-by-Downloads.
 
 <!--
+So most definitiely famous, at least when it comes to the namesake are trojans.
+
+And as the name indicates, its about disguising an attack.
+
 Datendiebstahl, Identitätsmissbrauch, Systemübernahme.
 -->
 
@@ -934,6 +1078,9 @@ Datenverlust, finanzielle Verluste, Betriebsunterbrechungen.
 ![bg center: 80%](assets/blackcat.png)
 
 <!-- link: https://www.microsoft.com/en-us/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware/
+ 
+ This is an example of a message which is sent after black cat ransomware, which is a type of ransomware, was used for an attack
+ 
  -->
 
 ---
@@ -947,6 +1094,12 @@ _color: white
 # Angriffskomponenten
 
 Was verwenden die Angreifer für ihre Attacken?
+
+<!--
+So we talked about malware and i commented on the spread of it.
+
+So attackers use different attack components to get malware on systems
+-->
 
 ---
 
@@ -1006,6 +1159,10 @@ Automatischer Download von Malware beim Besuch einer infizierten Webseite.
 Ausnutzung von Sicherheitslücken im Browser oder Plugins, um Schadcode einzuschleusen.
 
 <!--
+So drive by downloads are downloads done in a drive by, well for browsing it would just be visiting a home page
+
+Leveraging javascript
+
 Unbemerkte Infektion, Verbreitung von Viren, Trojanern oder Ransomware.
 -->
 ---
@@ -1030,6 +1187,10 @@ _color: black
 
 
 ![bg center: 70%](assets/drive_by_2.png)
+
+<!--
+So the recommendation here for unauthorized drive by downloads, since they work without direct interactions, is to update and especially update the browser as often as possible or at least as often as it prompts you to
+-->
 
 ---
 <!--
@@ -1090,7 +1251,11 @@ Rootkits sind bösartige Software, die tief in ein Computersystem eindringt und 
 Durch Zugriff auf Systemebene können Rootkits Administrationsbefugnisse erlangen und Systeme kompromittieren.
 
 <!--
-Unbefugter Datenzugriff, Tarnung von Malware
+A technical tool used often in combination with other tools are rootkits.
+
+They basically use the different levels of access which come with different users, such as the root user where the name comes from, to get authorization to execute certain commands.
+
+It is often used to disguised, to hide other malware and their action
 -->
 
 ---
@@ -1126,6 +1291,12 @@ Halte dein Betriebssystem und alle Programme auf dem neuesten Stand, um bekannte
 
 Sei vorsichtig beim Herunterladen von Dateien aus dem Internet und vermeide fragwürdige Webseiten.
 
+<!--
+What can we do to protcet ourselves
+
+As i said before with the browsers, but also for other software and the os in general.
+-->
+
 ---
 
 <!--
@@ -1134,6 +1305,11 @@ _color: white
 -->
 
 # Soziale Ebene
+
+<!--
+Also used by attackers are social tactics which are pretty much equally as important and dangerous.
+
+-->
 
 ---
 
@@ -1150,6 +1326,11 @@ Manipulation von Menschen, durch ausnutzung von Vertrauen, Neugier oder Druck, u
 
 - Phishing 
 - Vishing (Telefon)
+
+
+<!--
+We see this with phishing and with vishing which is phishing but with voice so by telephone
+-->
 
 
 ---
@@ -1182,6 +1363,17 @@ _color: white
 
 ![bg center: 90%](assets/phictionary_1.png)
 
+<!--
+We will look at some differnt types groupings of phishing just to see what forms of it exist. These are of course not all types of phishing but some of the more prevalent tactics
+
+Account information alerts:
+
+This is usually about missing information, could be payment data or other information
+
+Also popular with things like netflix, amazon etc is account suspension based on different reasons
+
+-->
+
 ---
 
 <!--
@@ -1190,6 +1382,11 @@ _color: white
 -->
 
 ![bg center: 90%](assets/phictionary_2.png)
+
+<!--
+We have account verification phishing which is when the want you to verify your account. Often from well known companies which provide services that many users use. Gives them a big net
+-->
+
 
 ---
 
@@ -1659,12 +1856,28 @@ _color: white
 
 <i class="fa-solid fa-hourglass-half fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Beispiel
 
-- Passwort: "secure123"
-- Theoretische zeit zum Knacken: Wochen bis Monate
+- Passwort: "Secure123-"
+- Theoretische zeit zum Knacken: Seconds
 
- <i class="fa-solid fa-triangle-exclamation fa-2xl" style="margin-top:25px; margin-left:25px; margin-right:15px"></i> Wörterlisten kürzen diese Zeit drastisch
+ <i class="fa-solid fa-triangle-exclamation fa-2xl" style="margin-top:25px; margin-left:25px; margin-right:15px"></i> Wörterlisten kürzen die Zeit drastisch
 
+<!--
 
+Passwords we said are vulnerable to phishing and social engineering, but they can also be vulnerable to brute forcing
+
+I wont provide any concrete times on password brute forcing since it can change very quickly in either direction.
+
+What i will say, is that wordlists have a significant influence on the time it takes to brute force
+
+-->
+
+---
+
+![bg center: 90%](assets/brute_1.png)
+
+---
+
+![bg center: 90%](assets/brute_2.png)
 
 
 ---
@@ -1726,13 +1939,19 @@ _color: white
 
 <i class="fa-solid fa-key fa-xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i><i class="fa-solid fa-key fa-xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Multi-Faktor-Authentifizierung (MFA) verwenden
 
+<!--
+mnemonic
+
+So you could use: my favorite movie is top gun 2 from 2023 + Tom Cruise
+
+MYFMITG2F2023+tc
+
+a device such as a pattern of letters, ideas, or associations that assists in remembering something, for example Richard Of York Gave Battle In Vain for the colours of the spectrum (red, orange, yellow, green, blue, indigo, violet).
+-->
+
 
 ---
 
-
-<iframe width="1100" height="800" src="https://www.youtube.com/embed/opRMrEfAIiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
 
 <!--
 _backgroundColor: #0d3862
@@ -1779,6 +1998,15 @@ Mit dem Passwort-Manager Safe kannst du Logins, Passwörter und andere sensible 
 - 2-Faktor-Authentifizierung
 
 ![bg right:40%](assets/vault.png)
+
+---
+
+<iframe width="1100" height="800" src="https://www.youtube.com/embed/opRMrEfAIiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<!--
+Relating to passwords and also phishing and social engineering i have this short video from jimmy kimmel where they try and social engineer people
+-->
 
 ---
 

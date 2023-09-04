@@ -111,6 +111,10 @@ _color: white
 
 # What is Information Security?
 
+
+<!--
+What do we actually mean when we are talking about information security?
+-->
 ---
 
 
@@ -124,6 +128,18 @@ _color: white
 - Information security encompasses ensuring **confidentiality**, **integrity**, and **availability** of information.
 - Information security is ensured when sufficient **technical**, **physical**, and **organizational** protective measures have been implemented.
 - Information security is influenced, ensured, or improved by each individual.
+
+<!--
+We usually define information Security as security centered around the three components Security, Confidentiality and Availability of information
+
+We call it the CIA triad and it is a longstanding concept of Information Security.
+
+And we can ensure that these security goals are met when we provide infrastructure. Infrastructure in the form of technical physical and organizational protective measures.
+
+You as individuals however, also have a big influence on information security.
+
+The goal of todays training is that you should at least be able to ensure information security and maybe even improve it?
+-->
 
 ---
 
@@ -143,14 +159,12 @@ Protection against unauthorized access to sensitive information to maintain priv
 
 <i class="fa-solid fa-tools fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Example
 
-The use of digital signatures guarantees that a document originates from a specific sender and remains unaltered.
-
+Employees outside of the financial department do not have access or only have restricted access to financial documents.
 <!--
 
-CIA triad
+We can provice confidentiality if we protcet our information against unauthorized access
 
-Security goals, and basic building blocks
-
+A concrete example would be that only employees that work for the financial department should have access to all financial documents.
 -->
 
 ---
@@ -171,6 +185,12 @@ Ensuring accuracy and consistency of data as well as the completeness and reliab
 
 Digital signatures for emails ensure that a document originates from a specific sender
 
+<!--
+Integrity of Information is focuse on ensuring accuracy and consistenc of data, but also completeness and reliability of systems.
+
+We want to ensure that Documents are in an origianl state and if they are changed, then we should be able to trace these changes
+-->
+
 ---
 
 <!--
@@ -188,6 +208,14 @@ Ensuring the constant accessibility of information and resources to minimize int
 <i class="fa-solid fa-tools fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Example
 
 Regular maintenance and redundant server infrastructure ensure that a website is accessible at all times.
+
+<!--
+Availability of information is based on ensuring that there is constant access to information and resources inside of a certain timeframe.
+
+This does not have to be 24/7,but inside of the promised timeframe, we should be able to provide constant access.
+
+An example is that we as an IT provider have regular maintenance and redundant infrastructure so that our customers have access to all their services
+-->
 
 ---
 
@@ -208,6 +236,11 @@ _color: white
 
 4. An employee clicks on a link in a message claiming they've won a lottery prize. They confirm the installation of a certificate in their browser to access the desired page. All data they send and receive is now decrypted, accessed, and altered by a third party for fraudulent purposes.
 
+<!--
+So for practice i have 4 case studies. I will give you a few minutes time to read through the case studies and then i will start an anonymous zoom poll. 
+
+You should answer based on which of our 3 security goals are violated in each of the 4 cases. There is the possiblity of more than one violation.
+-->
 
 ---
 
@@ -217,6 +250,10 @@ _color: white
 -->
 
 # Zoom Poll / Quiz
+
+<!--
+So we will now go through each of the case studies and have look at what the answers would be
+-->
 
 ---
 
@@ -289,6 +326,22 @@ Examples of sensitive and valuable data
 
 </div>
 
+<!--
+So we've established a defintion of Information Security and of it's components. Which i hope you were able to understand
+
+Now that we have answered the question of **what** information security is? We will talk about the **why**
+
+We have a lot of data nowadays and not only in quantity but the data we have is often also very valuable
+
+So this can be for example:
+
+- financial data
+- personal data
+- health data
+
+The value of this data naturally provides an incentive and motivation
+-->
+
 ---
 
 <!--
@@ -332,6 +385,17 @@ _color: white
 </div>
 </div>
 
+
+<!--
+
+So we can defintely understand that there many incentives to conduct and attack
+
+We have the economical motivators
+
+And then especially with social media as well have political motivations
+
+and personal motivations
+-->
 ---
 
 
@@ -342,6 +406,12 @@ _color: black
 
 ![bg center: 99%](assets/vulnerability_1.png)
 
+<!--
+So these attackers have their motivations and we have our information / our data.
+
+The attackers try find vulnerabilities which they can exploit
+-->
+
 ---
 
 <!--
@@ -351,7 +421,11 @@ _color: black
 
 ![bg center: 99%](assets/vulnerability_2.png)
 
+<!--
+So these attackers have their motivations and we have our information / our data.
 
+The attackers try find vulnerabilities which they can exploit
+-->
 ---
 
 <!--
@@ -360,6 +434,11 @@ _color: black
 -->
 
 ![bg center: 99%](assets/vulnerability_3.png)
+
+<!--
+We then take protective measurements to patch or to protect these vulnerabilities.
+-->
+
 
 ---
 
@@ -370,6 +449,15 @@ _color: black
 
 ![bg center: 99%](assets/vulnerability_4.png)
 
+<!--
+This then hinders further attacks. For the moment.But this is a cylical process.
+
+We continuously want to ensure that we have the correct protective measurements applied.
+
+What should be noted is that we try to deploy protective measurements proportionally, based on the value of our information / data.
+
+And to help us with this we have classifications
+-->
 
 ---
 
@@ -382,8 +470,7 @@ _color: white
 
 <!--
 
-To help us with our protective measurements / safeguarding our data it is helpful to use classifications
-
+It helps us group data based on different factors
 
 -->
 
@@ -404,7 +491,9 @@ Availability <i class="fa-solid fa-clock-rotate-left fa-xl" style="margin-left:2
 
 
 <!--
-security attributes
+And once again we meet our lovely trio / triad CIA
+
+We can apply these properties to help us define our requirements when it comes to classification
 -->
 
 ---
@@ -475,6 +564,16 @@ _color: white
 
 <i class="fa-solid fa-binoculars fa-xl" style="margin-right:20px"></i> Copying not allowed & printing is monitored
 
+<!--
+So we have three areas which we will look at which is Storage, transport and processing of data. 
+
+And this is based on our classifcation
+
+so for confidential:...
+
+Printin is allowed butcopying is not. And when we print, the printing should be monitored.
+-->
+
 ---
 
 <!--
@@ -498,6 +597,14 @@ _color: white
 
 <i class="fa-solid fa-pencil fa-xl" style="margin-right:20px"></i> Changes, copying, and printing allowed as needed
 
+<!--
+
+Transport: Unenencrypted and phone calls are allowed but not in public spaces.
+
+And to note for processing is that it should be comprehensible and traceable
+
+
+-->
 ---
 
 <!--
@@ -522,6 +629,7 @@ _color: white
 
 <i class="fa-solid fa-binoculars fa-check" style="margin-right:20px"></i> Changes should be comprehensible and traceable
 
+
 ---
 
 <!--
@@ -532,7 +640,8 @@ _color: white
 # Information security incidents
 
 <!--
-So what happens when we have a security incident?
+So what happens when we are actually attacked and 
+have a security incident?
 -->
 
 ---
@@ -586,8 +695,9 @@ _color: white
 
 # Responding to a Security Incident
 
-
-
+<!--
+And if we have a Security incident, how do we respond?
+-->
 ---
 
 <!--
@@ -658,6 +768,10 @@ _color: white
 
 # Part 1 - Conclusions
 
+<!--
+So we are concluding the first part
+-->
+
 ---
 
 <!--
@@ -713,15 +827,33 @@ Feeling Uncertain? Suspicious?
 ---
 
 <!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+
+# Questions?
+
+<!--
+Do you have any questions for this first part of our training?
+-->
+
+---
+
+<!--
 _backgroundColor: #0d3862
 _color: white
 -->
 
 # Part 2
 
-## Malware
+## Malware & Social Engineering
 
+<!--
+In our second part of this training we will look at technologies leveraged by attackers
 
+What do they use? How does itwork and this also helps us to understand what we need to do to protect ourselves
+-->
 
 ---
 
@@ -809,7 +941,7 @@ _color: white
 - Discovered in 2010
 - A complex computer worm targeting industrial systems.
 
-<i class="fa-solid fa-tools fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Ziel und Auswirkungen
+<i class="fa-solid fa-tools fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Effects
 
 - Mainly targeted Iranian nuclear reactors
 - Manipulated control systems and caused damage to 1/5 of Irans reactors
@@ -844,7 +976,7 @@ _color: white
 - Exploited zero-day vulnerabilities
 - Utilized multiple attack vectors
 
-<i class="fa-solid fa-shield-alt fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Lehren
+<i class="fa-solid fa-shield-alt fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Lessons learned
 
 - Demonstrates the potential for targeted attacks on critical infrastructure
 - Emphasizes the importance of security awareness and protective measures
@@ -893,6 +1025,10 @@ Can spread through fake email attachments, infected downloads, or drive-by downl
 
 
 <!--
+So most definitiely famous, at least when it comes to the namesake are trojans.
+
+And as the name indicates, its about disguising an attack.
+
 Data theft, identity theft, complete system takeovers
 -->
 
@@ -943,7 +1079,9 @@ Data loss, financial losses, business interruptions.
 ![bg center: 80%](assets/blackcat.png)
 
 <!-- link: https://www.microsoft.com/en-us/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware/
- -->
+
+This is an example of a message which is sent after black cat ransomware, which is a type of ransomware, was used for an attack
+-->
 
 ---
 
@@ -956,6 +1094,12 @@ _color: white
 # Attack components
 
 What do attackers use for their attacks?
+
+<!--
+So we talked about malware and i commented on the spread of it.
+
+So attackers use different attack components to get malware on systems
+-->
 
 ---
 
@@ -988,7 +1132,6 @@ _color: white
 # Technical aspects
 
 - Drive-by-Download <i class="fa-solid fa-globe fa-xl" style="margin-left: 15px"></i>
-- Drive-by-Installer <i class="fa-solid fa-arrow-down fa-xl" style="margin-left: 15px"></i>
 - Email Attachments <i class="fa-solid fa-envelope fa-xl" style="margin-left: 15px"></i>
 - Software Bundling <i class="fa-solid fa-box fa-xl" style="margin-left: 15px"></i>
 
@@ -1011,6 +1154,10 @@ Automatic download of malware when visiting an infected website.
 Exploiting security vulnerabilities in the browser or plugins to inject malicious code.
 
 <!--
+So drive by downloads are downloads done in a drive by, well for browsing it would just be visiting a home page
+
+Leveraging javascript
+
 Unnoticed infection, propagation of viruses, trojans, or ransomware.
 -->
 
@@ -1039,6 +1186,11 @@ _color: black
 
 ![bg center: 70%](assets/drive_by_2.png)
 
+<!--
+So the recommendation here for unauthorized drive by downloads, since they work without direct interactions, is to update and especially update the browser as often as possible or at least as often as it prompts you to
+
+-->
+
 ---
 <!--
 _backgroundColor: #0d3862
@@ -1053,10 +1205,6 @@ Attachments that exploit vulnerabilities in software (such as document readers) 
 <i class="fa-solid fa-cogs fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Mechanism
 
 Exploiting software vulnerabilities, executing macros.
-
-<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Risiken
-
-Unnoticed infection, installation of rootkits, data theft.
 
 ---
 
@@ -1092,9 +1240,13 @@ Rootkits are malicious software that deeply infiltrates a computer system and ga
 
 By accessing the system level, rootkits can acquire administrative privileges and compromise systems.
 
-<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Risiks
+<!--
+A technical tool used often in combination with other tools are rootkits.
 
-Unauthorized data access, masking of malware.
+They basically use the different levels of access which come with different users, such as the root user where the name comes from, to get authorization to execute certain commands.
+
+It is often used to disguised, to hide other malware and their action
+-->
 
 ---
 
@@ -1129,6 +1281,12 @@ Do not open email attachments or click on links from unknown or suspicious sende
 
 Be cautious when downloading files from the internet and avoid questionable websites.
 
+<!--
+What can we do to protcet ourselves
+
+As i said before with the browsers, but also for other software and the os in general.
+-->
+
 ---
 
 <!--
@@ -1137,6 +1295,11 @@ _color: white
 -->
 
 # Social aspects
+
+<!--
+Also used by attackers are social tactics which are pretty much equally as important and dangerous.
+
+-->
 
 ---
 
@@ -1154,6 +1317,9 @@ Manipulation of individuals by exploiting trust, curiosity, or pressure to revea
 - Phishing
 - Vishing (Phone)
 
+<!--
+We see this with phishing and with vishing which is phishing but with voice so by telephone
+-->
 
 ---
 
@@ -1184,6 +1350,17 @@ _color: white
 
 ![bg center: 90%](assets/phictionary_1.png)
 
+<!--
+We will look at some differnt types groupings of phishing just to see what forms of it exist. These are of course not all types of phishing but some of the more prevalent tactics
+
+Account information alerts:
+
+This is usually about missing information, could be payment data or other information
+
+Also popular with things like netflix, amazon etc is account suspension based on different reasons
+
+-->
+
 ---
 
 
@@ -1193,6 +1370,11 @@ _color: white
 -->
 
 ![bg center: 90%](assets/phictionary_2.png)
+
+
+<!--
+We have account verification phishing which is when the want you to verify your account. Often from well known companies which provide services that many users use. Gives them a big net
+-->
 
 ---
 
@@ -1405,6 +1587,31 @@ _color: white
 
 - Browsers provide visual cues for secure connections, such as a closed padlock or "https" in the URL.
 
+<!--
+SSL (Secure Sockets Layer) encryption, and its more modern and secure replacement, TLS (Transport Layer Security)
+
+uses both asymmetric and symmetric encryption
+
+Asymmetric encryption is used to establish a secure session between a client and a server 
+
+symmetric encryption is used to exchange data within the secured session. 
+
+Differences tls ssl:
+
+Cipher suites
+
+SSL protocol offers support for Fortezza cipher suite. TLS does not offer support. TLS follows a better standardization process that makes defining of new cipher suites easier like RC4, Triple DES, AES, IDEA, etc.
+Alert messages
+
+SSL has the “No certificate” alert message. TLS protocol removes the alert message and replaces it with several other alert messages.
+Record Protocol
+
+SSL uses Message Authentication Code (MAC) after encrypting each message while TLS on the other hand uses HMAC — a hash-based message authentication code after each message encryption.
+Handshake process
+
+In SSL, the hash calculation also comprises the master secret and pad while in TLS, the hashes are calculated over handshake message.
+-->
+
 ---
 
 ![bg center: 100%](assets/ssl.png)
@@ -1519,8 +1726,7 @@ Part 2 - Conclusions
 
 ## Technology
 
-- Drive-by Download 
-- Drive-by Installer 
+- Drive-by Download  
 - Email Attachments 
 - Software Bundling 
 
@@ -1542,6 +1748,15 @@ Manipulation of people through exploitation of emotions
 </div>
 </div>
 
+---
+
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+# Questions ?
+
 <!-- 5 Minuten Pause
  -->
 
@@ -1553,7 +1768,7 @@ _backgroundColor: #0d3862
 _color: white
 -->
 
-# Block 3
+# Part 3
 ## Authentication & Behaviors
 
 ---
@@ -1625,12 +1840,14 @@ _color: white
 
 <i class="fa-solid fa-hourglass-half fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Example
 
-- Password: "secure123"
-- Estimated time to crack: Weeks to months
+- Password: "Secure123-"
+- Estimated time to crack: Seconds
 
-<i class="fa-solid fa-triangle-exclamation fa-2xl" style="margin-top:25px; margin-left:25px; margin-right:15px"></i> Wordlists significantly reduce this time
+<i class="fa-solid fa-triangle-exclamation fa-2xl" style="margin-top:25px; margin-left:25px; margin-right:15px"></i> Wordlists significantly reduce brute force time
 
 <!--
+
+Passwords we said are vulnerable to phishing and social engineering, but they can also be vulnerable to brute forcing
 
 I wont provide any concrete times on password brute forcing since it can change very quickly in either direction.
 
@@ -1638,6 +1855,13 @@ What i will say, is that wordlists have a significant influence on the time it t
 
 -->
 
+---
+
+![bg center: 90%](assets/brute_1.png)
+
+---
+
+![bg center: 90%](assets/brute_2.png)
 
 ---
 
@@ -1701,16 +1925,16 @@ _color: white
 <!--
 mnemonic
 
+So you could use: my favorite movie is top gun 2 from 2023 + Tom Cruise
+
+MYFMITG2F2023+tc
+
 a device such as a pattern of letters, ideas, or associations that assists in remembering something, for example Richard Of York Gave Battle In Vain for the colours of the spectrum (red, orange, yellow, green, blue, indigo, violet).
 -->
 
 
 ---
 
-
-<iframe width="1100" height="800" src="https://www.youtube.com/embed/opRMrEfAIiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
 
 <!--
 _backgroundColor: #0d3862
@@ -1758,6 +1982,17 @@ With the Password Manager Safe, you can save, manage, and share logins, password
 ![bg right:40%](assets/vault.png)
 
 ---
+
+
+
+<iframe width="1100" height="800" src="https://www.youtube.com/embed/opRMrEfAIiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<!--
+Relating to passwords and also phishing and social engineering i have this short video from jimmy kimmel where they try and social engineer people
+-->
+
+---
+
 
 <!--
 _backgroundColor: #0d3862
@@ -1843,7 +2078,7 @@ The policy encompasses:
 Safeguards against:
 
 - Employees
-- Third-party personnel (e.g., cleaning staff)
+- Third-party personnel
 - Misuse of identities
 
 ---
@@ -1883,7 +2118,7 @@ _color: white
 
 ## Clean Desk Policy
 
-- The Clean Desk Policy supports the VIV principles
+- The Clean Desk Policy supports the CIA principles
 
 ## Lock your screen!
 </div>
@@ -1896,6 +2131,14 @@ _color: white
 <!-- 5 Minuten Pause
  -->
 
+--- 
+
+# Questions?
+
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
 
 ---
 
