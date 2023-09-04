@@ -18,6 +18,7 @@ style: |
   }
   @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css'
 paginate: true  
+
 ---
 
 <!--
@@ -44,6 +45,43 @@ Carl Strömstedt
 
 ![bg](assets/titelbild.jpg)
 
+---
+
+<!--
+_backgroundColor: black
+_color: white
+-->
+
+
+![bg center: 70%](assets/die_post.PNG)
+
+---
+
+![bg center: 48%](assets/amaazon_1.PNG)
+
+---
+
+![bg center: 90%](assets/nzz.png)
+
+---
+
+![bg center: 70%](assets/attack.gif)
+
+---
+
+
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+
+# 3 Blöcke
+
+- ### Informationssicherheit
+- ### Malware & Phishing
+- ### Passwörter & Verhaltensweisen
 
 ---
 
@@ -63,31 +101,7 @@ _color: white
 
 ![bg right:33%](assets/carl.jpg)
 
----
-<!--
-_backgroundColor: #0d3862
-_color: white
--->
 
-
-![bg center: 80%](assets/nzz.png)
-
-
-
----
-
-
-<!--
-_backgroundColor: #0d3862
-_color: white
--->
-
-
-# 3 Blöcke
-
-- ### Informationssicherheit
-- ### Malware & Phishing
-- ### Authentifizierung & Verhaltensweisen
 
 ---
 
@@ -195,6 +209,15 @@ _color: white
 3. Es kann nicht auf wichtige Geschäftsdaten zugegriffen werden, weil der IT-Dienstleister ein kurzfristiges, unangekündigtes Wartungsfenster durchführt, um die Software zu aktualisieren.
 
 4. Ein Mitarbeiter klickt auf einen Link in einer Nachricht mit der Aufforderung, seinen Lotto-Gewinn einzufordern. Er bestätigt die Installation eines Zertifikats im Browser, um auf die gewünschte Seite zugreifen zu können. Sämtliche Daten, die er versendet und empfängt, werden nun von jemand Drittem entschlüsselt, eingesehen und für einen Betrug verändert.
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Zoom Poll / Quizz
 
 ---
 
@@ -309,7 +332,6 @@ _color: white
 
 - Bestätigung
 - „For the LULZ“ (Amüsierung)
-- Erschleichen von Vorteilen
 
 </div>
 </div>
@@ -401,7 +423,7 @@ Hilft uns Vorgaben zu Definieren
   Was?
 </h2>
 
-Alle Informationen und Vermögenswerte
+Alle Informationen und Daten
 
 </div>
 <div>
@@ -410,13 +432,16 @@ Alle Informationen und Vermögenswerte
   Welche Klassifizierungen? 
 </h2>
 
-- Geheim
 - Vertraulich
 - Intern
 - Öffentlich
 
 </div>
 </div>
+
+<!--
+Wir werden uns heute 3 Klassifizierungen anhand von ISO-Standards anschauen: Vertraulich Intern & öffentlich. Es gibt auch noch aStreng Vertraulich aber dass wird nur in gewissen bereichen wie zum beispiel in der Pharmaindustrie oder im Militärischen bereich verwendet.
+-->
 
 ---
 
@@ -462,7 +487,12 @@ _color: white
 
 ## Bearbeitung
 
-<i class="fa-solid fa-pencil fa-xl" style="margin-right:20px"></i> Ändern, Kopieren, Drucken bei Bedarf erlaubt 
+<i class="fa-solid fa-pencil fa-xl" style="margin-right:20px"></i> Ändern, Kopieren, Drucken bei Bedarf erlaubt
+
+<!--
+Änderungen sollten auch nachvollziehbar sein
+
+-->
 
 ---
 
@@ -496,6 +526,10 @@ _color: white
 
 # Informationssicherheitsvorfälle
 
+<!--
+Was passiert denn wenn wir einen Informationssicherheitsvorfall haben?
+-->
+
 ---
 
 <!--
@@ -504,6 +538,13 @@ _color: black
 -->
 
 ![bg center: 99%](assets/vorfall_1.png)
+
+
+<!--
+Wir können einen Sicherheitsvorfall anhand von unseren 3 Schutzielen einordnen.
+
+Es kann ein einzelnes Schutziel verletzt sein oder mehrere aufs mal
+-->
 
 ---
 
@@ -541,7 +582,9 @@ _color: white
 
 # Vorgehen bei einem Sicherheitsvorfall
 
-
+<!--
+Jetzt wo wir gesehen haben auf welchen Ebenen ein Sicherheitsvorfall passieren kann, schauen wir uns an wie ihr bei einem Sicherheitsvorfall vorgehen könnt.
+>
 
 
 ---
@@ -554,21 +597,25 @@ _color: white
 
 <i class="fa-solid fa-user-shield fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 15px"></i> Verdacht
 
-- Wenn du etwas Verdächtiges bemerkst, zögere nicht.
-- Unsere Experten klären die Situation für dich ab.
+- Wenn du etwas Verdächtiges bemerkst, zögere nicht und melde dich bei uns.
+
 
 <i class="fa-solid fa-exclamation-triangle fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 15px"></i> Melden
 
 - Am besten meldest du dich telefonisch oder erstellst ein Support-Ticket.
-- Wir stehen dir zur Seite und helfen bei der Lösung.
+
 
 <i class="fa-solid fa-envelope fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 15px"></i> Weiterleiten
 
 - Verdächtige Phishing-E-Mails bitte an support@open-circle.ch weiterleiten.
-- Du kannst auch Screenshots an das Ticket anhängen, um weitere Informationen bereitzustellen.
+
 
 <!--
-Scheuhe nich davor zurrück dich dazu zu melden
+Wir sind für euch da. Falls ein verdacht besteht einfach melden
+
+Unsere Experten werden sich direkt mit dem Vorfall auseinandersetzen
+
+- Du kannst auch Screenshots an das Ticket anhängen, um weitere Informationen bereitzustellen.
 -->
 
 
@@ -596,9 +643,11 @@ _color: white
 - Gefahrenbewusstsein fördern
 
 <!--
-Betonen dass wir vieles machen, aber schlussendlich ist es der User der den grössten unterschied macht
+Es gibt sehr viele technische Werkzeuge aber schlussendlich habt ihr als Individuum einen grossen einfluss auf die Informationssicherheit.
 
-Darum diese Schulung
+Daher haben wir auch heute diese Schulung:
+
+Um euch zu senisibilisiern und bit Beispielen und informationen euere Gefahrenbewusstsein zu fördern.
 -->
 
 
@@ -733,15 +782,20 @@ _color: white
   <i class="fa-solid fa-virus fa-xl" style="margin-right: 15px"></i> Viren  
 </h1>
 
-Schadprogramme, die sich an andere Dateien anhängen und sich selbst replizieren können.
+Schadprogramme, die sich durch Einschleusung in andere Systeme verbreiten
+
 
 <i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Verbreitung
 
 Durch infizierte Dateien, E-Mail-Anhänge oder infizierte Webseiten.
 
-<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Schadenspotential
+<!--
+Viren, wie der name schon Hindeutet, ist software das ähnlichkeiten zu biologischen Viren besitzt.
 
-Zerstörung von Daten, Systemabstürze, Verbreitung über Netzwerke.
+Das Ziel von Viren ist das Einschleusen in Systemen um sich dann für Verbreitung Replizieren zu können.
+
+
+-->
 
  ---
 
@@ -802,19 +856,7 @@ PLC (Programmable Logic Controllers)
 <iframe width="1100" height="800" src="https://www.youtube.com/embed/lWGijAHAv6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!-- 
-Stuxnet, discovered by Sergey Ulasen, initially spread via Microsoft Windows, and targeted Siemens industrial control systems.
-
-Stuxnet has three modules: a worm that executes all routines related to the main payload of the attack; 
-
-a link file that automatically executes the propagated copies of the worm; 
-
-and a rootkit component responsible for hiding all malicious files and processes, to prevent detection of Stuxnet.[11] 
-
-It is typically introduced to the target environment via an infected USB flash drive, thus crossing any air gap. The worm then propagates across the network, scanning for Siemens Step7 software on computers controlling a PLC
-
-Stuxnet reportedly compromised Iranian PLCs, collecting information on industrial systems and causing the fast-spinning centrifuges to tear themselves apart.
-
-PLC (Programmable Logic Controllers)
+Wir werden uns einen kurzen Trailer anschauen zu einem Dokumentarfilm über Stuxnet. Der Trailer und der Film ist ein bisschen Hollywoodig / Sensationalistisch aber ich denke es ist trotzdem wert einen kurzen Blick darauf zu werfen.
 -->
 
 ---
@@ -836,9 +878,11 @@ Tarnen sich als legitime Software, um unbemerkt in Systeme einzudringen.
 
 Durch gefälschte E-Mail-Anhänge, infizierte Downloads oder Drive-by-Downloads.
 
-<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Schadenspotential
-
+<!--
 Datendiebstahl, Identitätsmissbrauch, Systemübernahme.
+-->
+
+
 
 ---
 
@@ -857,9 +901,10 @@ Sammelt heimlich Informationen über Nutzer*innen und ihre Aktivitäten.
 
 Durch Software-Bündelung, infizierte Links oder Drive-by-Downloads.
 
-<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Schadenspotential
 
+<!--
 Datenschutzverletzungen, Identitätsdiebstahl, finanzielle Verluste.
+-->
 
 ---
 
@@ -878,9 +923,11 @@ Sperrt oder verschlüsselt Daten, fordert Lösegeld zur Wiederherstellung.
 
 Durch infizierte E-Mail-Anhänge, Exploit-Kits oder schadhafte Downloads.
 
-<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Schadenspotential
-
+<!--
 Datenverlust, finanzielle Verluste, Betriebsunterbrechungen.
+-->
+
+
 
 ---
 
@@ -910,17 +957,20 @@ _color: white
 -->
 
 
-# Technik
+<h1>
+  Technik <i class="fa-solid fa-cogs fa-xl" style="margin-right: 15px; margin-left: 20px; margin-bottom: 50px;"></i> 
+</h1>
 
-- Drive-by-Download 
-- Drive-by-Installer 
-- E-Mail-Anhänge 
-- Software-Bündelung 
+<h1>
+  Soziale Ebene <i class="fa-solid fa-users-line fa-xl" style="margin-right: 15px; margin-left: 20px"></i> 
+</h1>
 
 
-# Soziale Ebene
+<!--
+  Social Engineering
+-->
 
-- Social Engineering
+
 
 ---
 
@@ -955,10 +1005,9 @@ Automatischer Download von Malware beim Besuch einer infizierten Webseite.
 
 Ausnutzung von Sicherheitslücken im Browser oder Plugins, um Schadcode einzuschleusen.
 
-<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Risiken
-
+<!--
 Unbemerkte Infektion, Verbreitung von Viren, Trojanern oder Ransomware.
-
+-->
 ---
 <!--
 _backgroundColor: #f4f1ec
@@ -997,9 +1046,9 @@ Anhänge die beim öffnen Schwachstellen in Software (wie Dokumentenlesern) ausn
 
 Ausnutzung von Software-Schwachstellen, Ausführen von Makros
 
-<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Risiken
-
+<!--
 Unbemerkte Infektion, Installation von Rootkits, Datendiebstahl.
+-->
 
 ---
 
@@ -1017,13 +1066,10 @@ Malware wird zusammen mit legitimer Software gebündelt und bei der Installation
 
 Nutzer:innen bemerken die Malware oft nicht, da sie vertrauenswürdige Software als Tarnung verwendet.
 
-<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Risiken
 
+<!--
 Unbefugter Datenzugriff, Spyware, Trojaner-Infektionen.
-
----
-
-![bg](assets/drive_by_installer.png)
+-->
 
 ---
 
@@ -1043,9 +1089,9 @@ Rootkits sind bösartige Software, die tief in ein Computersystem eindringt und 
 
 Durch Zugriff auf Systemebene können Rootkits Administrationsbefugnisse erlangen und Systeme kompromittieren.
 
-<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Risiken
-
+<!--
 Unbefugter Datenzugriff, Tarnung von Malware
+-->
 
 ---
 
@@ -1104,7 +1150,6 @@ Manipulation von Menschen, durch ausnutzung von Vertrauen, Neugier oder Druck, u
 
 - Phishing 
 - Vishing (Telefon)
-- Pretexting (Vortäuschen falscher Identität)
 
 
 ---
@@ -1123,9 +1168,10 @@ Täuschung von Nutzer:innen, um vertrauliche Informationen wie Passwörter oder 
 
 Gefälschte E-Mails, Webseiten oder soziale Medien, die echt aussehen, um Vertrauen zu erwecken.
 
-<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Gefahren
 
+<!--
 Identitätsdiebstahl, finanzielle Verluste, Zugriff auf persönliche Konten.
+-->
 
 ---
 
@@ -1138,13 +1184,17 @@ _color: white
 
 ---
 
-
 <!--
 _backgroundColor: #f4f1ec
 _color: white
 -->
 
 ![bg center: 90%](assets/phictionary_2.png)
+
+---
+
+
+![bg center: 40%](assets/amazon_2.PNG)
 
 ---
 
@@ -1158,6 +1208,10 @@ _color: white
 
 ---
 
+![bg center: 40%](assets/paypal_attempt.png)
+
+---
+
 <!--
 _backgroundColor: #f4f1ec
 _color: white
@@ -1166,6 +1220,8 @@ _color: white
 ![bg center: 90%](assets/phictionary_4.png)
 
 ---
+
+
 
 <!--
 _backgroundColor: #f4f1ec
@@ -1176,12 +1232,24 @@ _color: white
 
 ---
 
+![bg center: 80%](assets/mahnung_1.png)
+
+---
+
+![bg center: 60%](assets/die_post.PNG)
+
+---
+
 <!--
 _backgroundColor: #f4f1ec
 _color: white
 -->
 
 ![bg center: 90%](assets/phictionary_6.png)
+
+---
+
+![bg center: 90%](assets/paypal_2.png)
 
 ---
 
@@ -1210,45 +1278,7 @@ _color: white
 
 ---
 
-<!--
-_backgroundColor: #0d3862
-_color: white
--->
-<h1>
-  <i class="fa-solid fa-drumstick-bite fa-xl" style="margin-right: 15px"></i> Baiting
-</h1>
 
-Locken von Nutzer:innen mit Versprechen von Belohnungen oder Vorteilen, um Malware zu verbreiten.
-
-<i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Taktiken
-
-Infizierte USB-Sticks, gefälschte Software-Downloads, betrügerische Angebote.
-
-<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Risiken
-
-Unbemerkte Installation von Malware, Verlust vertraulicher Daten.
-
----
-
-<!--
-_backgroundColor: #0d3862
-_color: white
--->
-<h1>
-  <i class="fa-solid fa-water fa-xl" style="margin-right: 15px"></i> Watering-Hole Attack
-</h1>
-
-Kompromittierung einer Website, die häufig von den Zielpersonen besucht wird, um sie mit Malware zu infizieren.
-
-<i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Vorgehen
-
-Identifizierung beliebter Zielpersonen, Infizierung der bevorzugten Websites.
-
-<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Auswirkungen
-
-Unerkannte Malware-Verbreitung, Ausspionieren der Zielgruppe.
-
----
 
 <!--
 _backgroundColor: #0d3862
@@ -1260,14 +1290,12 @@ _color: white
 
 Suchen nach sensiblen Informationen in physischem Müll, um Zugriff auf vertrauliche Daten zu erhalten.
 
-<i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Ziel
+<i class="fa-solid fa-crosshairs fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Ziel
 
 
 Papierdokumente, veraltete Hardware, ungeschredderte Informationen.
 
-<i class="fa-solid fa-house-chimney-crack fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Risiken
 
-Diebstahl vertraulicher Daten, Identitätsdiebstahl.
 
 
 
@@ -1315,6 +1343,16 @@ Prüfe verdächtige E-Mails auf korrekte Absenderadressen und Domänennamen. Imp
 
 ---
 
+![bg center: 60%](assets/ubs_1_upscaled.png)
+
+
+---
+
+![bg center: 60%](assets/ubs_2.jpg)
+
+
+---
+
 <!--
 _backgroundColor: #27ae60
 _color: white
@@ -1337,6 +1375,59 @@ _color: white
 
 - Schützt vor Manipulationen oder unbefugten Änderungen der Nachricht.
 - Gewährleistet, dass die Nachricht unverändert beim Empfänger ankommt.
+
+---
+
+
+<!--
+_backgroundColor: #3498db
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-certificate fa-xl" style="margin-right: 15px"></i> SSL- & TLS-Zertifikate
+</h1>
+
+<i class="fa-solid fa-stamp fa-2xl" style="margin-right:20px; margin-top: 45px; margin-bottom: 20px"></i> Funktion
+
+- SSL-Zertifikate dienen der Sicherheit und Verschlüsselung von Datenübertragungen im Internet.
+
+<i class="fa-solid fa-check-circle fa-2xl" style="margin-right:20px; margin-top: 5px; margin-bottom: 20px"></i> Vertrauen und Validierung
+
+- Browser vertrauen Websites mit gültigen SSL-Zertifikaten.
+- Zertifikate werden von Zertifizierungsstellen (CAs) ausgestellt und validiert.
+
+<i class="fa-solid fa-lock fa-2xl" style="margin-right:20px; margin-top: 5px; margin-bottom: 20px"></i> Visuelle Hinweise
+
+- Browser zeigen visuelle Hinweise für sichere Verbindungen, wie ein geschlossenes Vorhängeschloss oder "https" im URL.
+
+<!--
+SSL (Secure Sockets Layer) encryption, and its more modern and secure replacement, TLS (Transport Layer Security)
+
+uses both asymmetric and symmetric encryption
+
+Asymmetric encryption is used to establish a secure session between a client and a server 
+
+symmetric encryption is used to exchange data within the secured session. 
+
+Differences tls ssl:
+
+Cipher suites
+
+SSL protocol offers support for Fortezza cipher suite. TLS does not offer support. TLS follows a better standardization process that makes defining of new cipher suites easier like RC4, Triple DES, AES, IDEA, etc.
+Alert messages
+
+SSL has the “No certificate” alert message. TLS protocol removes the alert message and replaces it with several other alert messages.
+Record Protocol
+
+SSL uses Message Authentication Code (MAC) after encrypting each message while TLS on the other hand uses HMAC — a hash-based message authentication code after each message encryption.
+Handshake process
+
+In SSL, the hash calculation also comprises the master secret and pad while in TLS, the hashes are calculated over handshake message.
+-->
+
+---
+
+![bg center: 100%](assets/ssl.png)
 
 ---
 
@@ -1464,7 +1555,6 @@ Zweiter Block - Fazit
 
 - Phishing
 - Vishing (Telefon)
-- Pretexting (Vortäuschen falscher Identität)
 
 </div>
 <div>
@@ -1488,7 +1578,7 @@ _color: white
 -->
 
 # Block 3
-## Authentifizierung & Verhaltensweisen
+## Passwörter & Verhaltensweisen
 
 ---
 
@@ -1501,13 +1591,30 @@ _color: white
 
 Benutzer*in gibt Benutzernamen und Passwort ein
 
-Behauptung einer Identität
+**Behauptung einer Identität**
 
 # Authentifizierung 
 
 Server prüft bestehende Nutzer*innen auf Benutzername und Passwort 
 
-Überprüfung der Identität
+**Überprüfung der Identität**
+
+# Autorisierung
+
+Welche Aktionen oder Ressourcen ein authentifizierter Benutzer ausführen darf
+
+<!--
+
+Authentisierung: Vorlegen eines Nachweises für die Identität des Nutzers gegenüber dem IT-System oder der IT-Ressource, an der er sich anmelden möchte
+
+Authentifizierung prüft, ob die bereitgestellten Informationen mit den in einem Sicherheitssystem hinterlegten Daten übereinstimmen. Wenn die Überprüfung erfolgreich ist, wird der Benutzer oder das Gerät als authentisch betrachtet und erhält Zugriff auf die entsprechenden Ressourcen oder Dienste. 
+
+
+autorisierung:
+
+
+Sobald ein Benutzer authentifiziert ist, bestimmt die Autorisierung, welche Berechtigungen dieser Benutzer hat. 
+-->
 
 ---
 
@@ -1517,7 +1624,7 @@ _backgroundColor: #2c3e50
 _color: white
 -->
 <h1>
-  <i class="fa-solid fa-fingerprint fa-xl" style="margin-right: 15px"></i> Formen der Authentifizierung
+  <i class="fa-solid fa-fingerprint fa-xl" style="margin-right: 15px"></i> Formen
 </h1>
 
 <i class="fa-solid fa-brain fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Wissen (Passwörter)
@@ -1572,22 +1679,28 @@ _color: white
   <i class="fa-solid fa-lines-leaning fa-xl" style="margin-right: 15px"></i> Dominoeffekt bei Mehrfachverwendung 
 </h1>
 
-<i class="fa-solid fa-lock fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 25px"></i> Was ist der Dominoeffekt?
+<i class="fa-solid fa-lock fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 25px"></i> Was verursacht den Dominoeffekt?
+
 
 - Verwendung desselben Passworts für verschiedene Konten
-- Wenn ein Konto kompromittiert wird, sind andere gefährdet
 
 <i class="fa-solid fa-warning fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 25px"></i> Gefahren
-
+- Angreifer nützen diese Schwachstelle aus
 - Ein geknacktes Passwort ermöglicht Zugriff auf andere Konten
-- Angreifer nutzen diese Schwachstelle aus
 
-<i class="fa-solid fa-user-lock fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 25px"></i> Beispiel
+---
 
-- Konto A mit demselben Passwort wie Konto B
-- Konto A wird kompromittiert
-- Angreifer haben Zugang zu Konto B
+![bg center: 80%](assets/pwned.png)
 
+---
+
+![bg center: 110%](assets/773.png)
+
+<!--
+in January 2019, a large collection of credential stuffing lists (combinations of email addresses and passwords used to hijack accounts on other services) was discovered being distributed on a popular hacking forum. The data contained almost 2.7 billion records including 773 million unique email addresses alongside passwords
+
+Gewisse Passwortmanager haben eine ähnliche Funktion eingebaut wo Sie die hinterlegeten Passwörter kontrollieren können. 
+-->
 
 ---
 
@@ -1599,6 +1712,12 @@ _color: white
 <h1>
 <i class="fa-solid fa-circle-check fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Passwortempfehlungen
 </h1>
+
+<i class="fa-solid fa-1 fa-2xl" style="margin-right:4px; margin-top: 40px; margin-bottom: 25px"></i><i class="fa-solid fa-2 fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Mindestlänge von 12 Zeichen
+
+<i class="fa-solid fa-hashtag fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Klein- und Gross-Buchstaben, Zahlen und Sonderzeichen
+
+<i class="fa-solid fa-bridge fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Benutze Eselsbrücken mit Anfangsbuchstaben anstatt Wörter
 
 <i class="fa-solid fa-dice-one fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Verwende für jedes Konto ein einzigartiges Passwort
 
@@ -1749,7 +1868,9 @@ Verhindert Spionage durch:
 - Anheuerung von Drittpersonen (z.B. Putzfrauen)
 - Identitätsmissbrauch
 
+---
 
+![bg center: 100%](assets/lock_screen.png)
 
 ---
 
@@ -1787,15 +1908,17 @@ _color: white
 
 Die Clean Desk Policy hilft bei der Wahrung der VIV-Prinzipien
 
-</div>
-<div>
 
-
-
+## Bildschirm sperren!
 
 </div>
 <div>
 
+
+
+
+</div>
+<div>
 
 
 </div>
@@ -1826,10 +1949,15 @@ https://www.open-circle.ch/passwort-manager/
 - Information is beautiful https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
 
 
+---
 
---- 
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
 
-![bg](assets/open_circle_stef.png)
+- Phishing quiz 
+https://phishingquiz.withgoogle.com/
 
 ---
 
