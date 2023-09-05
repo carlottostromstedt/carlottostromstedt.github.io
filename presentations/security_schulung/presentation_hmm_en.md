@@ -45,21 +45,41 @@ Carl Strömstedt
 ![bg](assets/titelbild.jpg)
 
 
+
+
 ---
 
 ![bg center: 70%](assets/dhl.jpeg)
+
+<!--
+Some of you have probably received an SMS like this or similar
+-->
+
 
 ---
 
 ![bg center: 48%](assets/amaazon_1.PNG)
 
+<!--
+Many of you have probably received an email like this or similar
+-->
+
+
 ---
 
 ![bg center: 80%](assets/guardian.png)
 
+<!--
+And have probably also read about ransomware or other cyber attacks online or in the newspaper
+-->
+
 ---
 
 ![bg center: 70%](assets/attack.gif)
+
+<!--
+Fact is: There are thousands of cyber attacks happening every day
+-->
 
 ---
 
@@ -74,6 +94,16 @@ _color: white -->
 - ### Information Security
 - ### Malware & Phishing
 - ### Authentication & Behaviors
+
+<!--
+Today we will take a look behind these attacks.
+
+We will look at the theoretical parts of information sercurity in the first part
+
+We will then look at malware and phishing with technical processes including social aspects
+
+And to finishour training we will look at authentication & behaviours in digital spaces and in the workplace
+-->
 
 ---
 

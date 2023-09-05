@@ -876,15 +876,13 @@ _color: white
 </div>
 
 
-<!-- Zusammengesetztes Wort aus malicious (böse) software
-Virus: häufigste Art, benötigt Userinteraktion  Danach selbstreplizierend. Wurm  Untergruppe von Virus (schlängelt sich durch Netzwerk)
+<!-- 
+Um euch einen Überblick von Malware zu geben, werden wir heute 4 Gruppen von Malware anschauen.
 
-Trojaner: Backdoor (hintertür) zieht weitere Malware nach oder stiehlt Daten
+Es gibt viele untergruppen und varianten, aber diese 4 sollte man sicher kennen.
 
-Spyware: Datendiebstal, oftmals lange unbemerkt
 
-Ransomware: Deutlich auf Vormarsch  Cryptolocker Erpressung (Verschlüsselung)
- -->
+-->
 
  ---
 
@@ -905,11 +903,11 @@ Schadprogramme, die sich durch Einschleusung in andere Systeme verbreiten
 Durch infizierte Dateien, E-Mail-Anhänge oder infizierte Webseiten.
 
 <!--
-Viren, wie der name schon Hindeutet, ist software das ähnlichkeiten zu biologischen Viren besitzt.
+Viren, wie der name schon Hindeutet, ist software das im "Verhalten" ähnlichkeiten zu biologischen Viren besitzt.
 
 Das Ziel von Viren ist das Einschleusen in Systemen um sich dann für Verbreitung Replizieren zu können.
 
-
+Viren können auf der Softwareebene schaden an Dateisysteme versursachen, aber auch auf der Hardwareebene
 -->
 
  ---
@@ -934,6 +932,9 @@ _color: white
 
 
 <!-- 
+EinBeispiel dafür wäre das Stuxnet virus
+
+
 Stuxnet, discovered by Sergey Ulasen, initially spread via Microsoft Windows, and targeted Siemens industrial control systems.
 
 Stuxnet has three modules: a worm that executes all routines related to the main payload of the attack; 
