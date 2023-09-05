@@ -1644,16 +1644,14 @@ _color: white
 <i class="fa-solid fa-pen-fancy fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 15px"></i> Authentifizierung
 
 - E-Mail-Signaturen dienen der Identitätsbestätigung des Absenders.
-- Empfänger können sicherstellen, dass die Nachricht tatsächlich vom angegebenen Absender stammt.
+
 
 <i class="fa-solid fa-fingerprint fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 15px"></i> Vertrauenswürdigkeit
 
-- Steigert das Vertrauen der Empfänger in den Ursprung der Nachricht.
 - Hilft bei der Erkennung von Phishing und gefälschten E-Mails.
 
 <i class="fa-solid fa-file-signature fa-xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 15px"></i> Integrität
 
-- Schützt vor Manipulationen oder unbefugten Änderungen der Nachricht.
 - Gewährleistet, dass die Nachricht unverändert beim Empfänger ankommt.
 
 ---
@@ -1763,28 +1761,6 @@ _color: white
 
 - Verschlüsselung macht E-Mails zu einer persönlichen Lieferung
 - Kontrolle der Identität bevor Inhalt eingesehen werden kann
-
----
-<!--
-_backgroundColor: black
-_color: white
--->
-
-<img src="assets/white_color_occ.png" style="height:80px"></img> 
-
-<h1 style="margin-bottom: -20px" > Secure-E-Mail </h1>
-<h3> Sicher per E-Mail kommunizieren </h3>
-
-Mit dem Secure-E-Mail kannst du ganz einfach E-Mails signiert und verschlüsselt versenden. 
-
-- Signierung
-
-- Spamfilter
-
-- Outlook Add-In
-
-![bg right:40%](assets/secure.svg)
-
 
 ---
 
@@ -2063,26 +2039,7 @@ _color: white
 
 ---
 
-<!--
-_backgroundColor: black
-_color: white
--->
 
-<img src="assets/white_color_occ.png" style="height:80px"></img> 
-
-# Passwort-Manager
-
-Mit dem Passwort-Manager Safe kannst du Logins, Passwörter und andere sensible Daten erfassen, verwalten und teilen. 
-
-- Browser Plugin
-
-- Hosting in der Schweiz
-
-- 2-Faktor-Authentifizierung
-
-![bg right:40%](assets/vault.png)
-
----
 
 <iframe width="1100" height="800" src="https://www.youtube.com/embed/opRMrEfAIiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -2255,20 +2212,10 @@ https://haveibeenpwned.com
 - Passwort prüfen 
 https://haveibeenpwned.com/passwords
 - Nationales Zentrum für Cybersicherheit: https://www.melani.admin.ch/melani/de/home.html
-- Passwort Safe 
-https://www.open-circle.ch/passwort-manager/
 - Information is beautiful https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
-
-
----
-
-<!--
-_backgroundColor: #187d4d
-_color: white
--->
-
 - Phishing quiz 
 https://phishingquiz.withgoogle.com/
+
 
 ---
 
