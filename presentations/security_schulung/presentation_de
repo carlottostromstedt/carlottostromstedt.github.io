@@ -341,19 +341,17 @@ Beispiele für wertvolle und sensitive Informationen
 </div>
 
 <!--
-So we've established a defintion of Information Security and of it's components. Which i hope you were able to understand
+Jetzt haben wir eine Grundlegende Definition von informationssicherheit. Wir haben die Frage beantwortet **WAS** Informationssicherhiet ist und wir werden uns jetzt anschauen wieso wir Informationssicherheit haben?
 
-Now that we have answered the question of **what** information security is? We will talk about the **why**
+Heutzutage haben wir Daten in riesigen Mengen, aber nicht nur Quantität ist vorhanden, sondern auch Daten mit viel wert.
 
-We have a lot of data nowadays and not only in quantity but the data we have is often also very valuable
+Dies können zum Beispiel Finanzdaten sein, 
 
-So this can be for example:
+oder personen daten
 
-- financial data
-- personal data
-- health data
+und auch Gesundheitsdaten in verschiedenen Formen
 
-The value of this data naturally provides an incentive and motivation
+Der wert dieser Daten ist natürlich eine Motivation für Angreifer
 -->
 
 ---
@@ -402,13 +400,13 @@ _color: white
 
 <!--
 
-So we can defintely understand that there many incentives to conduct and attack
+Die Motivationen können aber verschieden sein
 
-We have the economical motivators
+Wir haben definitiv den Finanziellen aspekt, mit eigener Bereicherung und aber auch Schaden finanziell anrichten
 
-And then especially with social media as well have political motivations
+Aber es gibt auch die politische Motivation, soziale medien spielen hier auch eine grosse Rolle
 
-and personal motivations
+Und wir haben persönliche Motivation
 -->
 
 ---
@@ -422,9 +420,9 @@ _color: black
 ![bg center: 99%](assets/schwachstelle_1.png)
 
 <!--
-So these attackers have their motivations and we have our information / our data.
+Diese Gruppen / Individuen haben also ihre Motivationen und wir unsere Informationen / Daten
 
-The attackers try find vulnerabilities which they can exploit
+Diese Daten / Informationen, respektive die System auf die sie gelagert sind haben meisten schwachstellen in irgeinder Form
 -->
 
 ---
@@ -437,9 +435,7 @@ _color: black
 ![bg center: 99%](assets/schwachstelle_2.png)
 
 <!--
-So these attackers have their motivations and we have our information / our data.
-
-The attackers try find vulnerabilities which they can exploit
+Angreifer möchten diese Schwachstellen ausnützen um an unsere Daten zu kommen.
 -->
 
 ---
@@ -452,7 +448,7 @@ _color: black
 ![bg center: 99%](assets/schwachstelle_3.png)
 
 <!--
-We then take protective measurements to patch or to protect these vulnerabilities.
+Wir können das Schutzmassnahmen etablieren, so dass wir die Angreifer davor hindern können diuese Schwachstellen auszunützen
 -->
 
 
@@ -466,13 +462,11 @@ _color: black
 ![bg center: 99%](assets/schwachstelle_4.png)
 
 <!--
-This then hinders further attacks. For the moment.But this is a cylical process.
+Zu bemerken ist aber dass das ganze ein zyklischer prozess ist. Wir sollten immer darauf achten dass entsprechende Schutzmassnahmen im Einsatz sind.
 
-We continuously want to ensure that we have the correct protective measurements applied.
+Diese Schutzmassnahmen sollten proportional zum Wert unserer Informationen & Daten sein
 
-What should be noted is that we try to deploy protective measurements proportionally, based on the value of our information / data.
-
-And to help us with this we have classifications
+Um uns dabei zu helfen unsere Daten und Informationen zu gruppieren, haben wir klassifizierungen
 -->
 
 ---
@@ -507,9 +501,7 @@ Verfügbarkeit <i class="fa-solid fa-clock-rotate-left fa-xl" style="margin-left
 
 
 <!--
-And once again we meet our lovely trio / triad CIA
-
-We can apply these properties to help us define our requirements when it comes to classification
+Unsere VIV Prinzipien können wir hier Anwenden um Anforderungen zu definieren. Die Informationen sollten die VIV prinzipen erfüllen
 -->
 
 ---
