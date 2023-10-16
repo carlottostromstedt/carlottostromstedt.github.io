@@ -291,19 +291,14 @@ Um das ganze Einzuprägen haben wir 4 Fallbeispiele zusammengesetzt.
 Ich werde euch jetzt ein paar minuten Zeit geben um die Beispiele durchzulesen und werde nacher eine Zoom Umfrage starten. Dort könntihr Anonym abstimmen
 -->
 
----
 
 <!--
 Wir würden jetzt die einzelnen Fragen durchgehen
 -->
 
-<!--
-_backgroundColor: #0d3862
-_color: white
+
+<!-- # Zoom Poll / Quiz
 -->
-
-# Zoom Poll / Quiz
-
 ---
 
 ![bg](assets/fallbeispiel_1.png)

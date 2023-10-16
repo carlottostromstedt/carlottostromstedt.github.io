@@ -279,13 +279,13 @@ _backgroundColor: #0d3862
 _color: white
 -->
 
+<!-- 
 # Zoom Poll / Quiz
+-->
 
 <!--
 So we will now go through each of the case studies and have look at what the answers would be
 -->
-
----
 
 ![bg](assets/case_study_1.png)
 
@@ -1745,10 +1745,8 @@ _backgroundColor: #187d4d
 _color: white
 -->
 
-# Zoom Poll / Quiz
-
-
----
+<!-- # Zoom Poll / Quiz
+-->
 
 <!--
 _backgroundColor: #187d4d
@@ -2116,9 +2114,9 @@ _backgroundColor: #187d4d
 _color: white
 -->
 
+<!--
 # Zoom Poll / Quiz
-
---- 
+-->
 
 # Questions?
 
