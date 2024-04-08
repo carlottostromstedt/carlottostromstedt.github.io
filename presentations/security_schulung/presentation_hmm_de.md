@@ -329,28 +329,10 @@ _backgroundColor: #0d3862
 _color: white
 -->
 
-<h1 style="margin-bottom: -20px">
- Fallbeispiele
-</h1>
+<h2 style="margin-bottom: -20px">
+Vertraulichkeit / Integrität / Verügbarkeit - Quiz
+</h2>
 
-1. Ein Mitarbeitender findet nach einer Sitzung einen Fehler im genehmigten Protokoll. Die Bereinigung dieses Fehlers würde den Inhalt des Beschlusses verändern. Er nimmt die Änderung trotzdem vor und legt das angepasste Protokoll ohne Information an die Kollegen und Vermerk einer Änderung auf der Geschäftsablage ab.
-
-2. Ein Mitarbeitender des Verkaufs telefoniert im Zug. Er bespricht dabei lautstark Details einer Offerte, so dass den Anwesenden im Zug die betroffene Firma sowie die Schlüsselpersonen, der Umfang und die Kosten des Auftrags bekannt sind.
-
-3. Es kann nicht auf wichtige Geschäftsdaten zugegriffen werden, weil der IT-Dienstleister ein kurzfristiges, unangekündigtes Wartungsfenster durchführt, um die Software zu aktualisieren.
-
-4. Ein Mitarbeiter klickt auf einen Link in einer Nachricht mit der Aufforderung, seinen Lotto-Gewinn einzufordern. Er bestätigt die Installation eines Zertifikats im Browser, um auf die gewünschte Seite zugreifen zu können. Sämtliche Daten, die er versendet und empfängt, werden nun von jemand Drittem entschlüsselt, eingesehen und für einen Betrug verändert.
-
-<!--
-Um das ganze Einzuprägen haben wir 4 Fallbeispiele zusammengesetzt. 
-
-Ich werde euch jetzt ein paar minuten Zeit geben um die Beispiele durchzulesen und werde nacher eine Zoom Umfrage starten. Dort könntihr Anonym abstimmen
--->
-
-
-<!--
-Wir würden jetzt die einzelnen Fragen durchgehen
--->
 
 
 <!-- # Zoom Poll / Quiz
