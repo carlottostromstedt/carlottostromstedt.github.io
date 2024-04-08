@@ -330,7 +330,7 @@ _color: white
 -->
 
 <h2 style="margin-bottom: -20px">
-Vertraulichkeit / Integrität / Verügbarkeit - Quiz
+Vertraulichkeit / Integrität / Verfügbarkeit - Quiz
 </h2>
 
 
