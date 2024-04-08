@@ -16,6 +16,25 @@ style: |
   section ol {
     font-size: 25px;
   }
+
+  .footer-passive {
+    color: grey;
+  }
+  
+  .footer-outer {
+    display: flex;
+    flex-direction: row;
+    font-size: 22px; 
+    justify-content: center;
+    position: absolute; 
+    top: 665px; 
+    right: 100px;
+  }
+
+  .text-dark {
+    color: #5e5e5c;
+  }
+
   @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css'
 paginate: true  
 
@@ -145,6 +164,12 @@ _color: white
 Wir fangen mit dem ersten Block an. Informationssicherheit
 -->
 
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
 <!--
@@ -157,6 +182,13 @@ _color: white
 <!--
 Was verstehen wir unter Informationssicherheit? Wie definieren wir es?
 -->
+
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 
 ---
 
@@ -186,6 +218,12 @@ aber auch auf der Ebene des Indiviidums liegt ein grosser Einfluss. Darum auch d
 
 Unser Ziel wäre dass ihr sicher die Informationssicherheit gewährleisten könnt und vielleicht sogar auch verbessern?
 -->
+
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -217,6 +255,12 @@ Vertraulichkeit definieren wir als den Schutz vor unbefugtem Zugriff auf Informa
 Beispiel dafür wäre das nur Finanzmitarbeiter zu gewissen Finanzdaten zugang haben. Unautorisierte mitarbeiter nicht
 -->
 
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
 <!--
@@ -242,6 +286,12 @@ Beispiel wäre digtialeSignaturen. Man kan die identität des senders nachweisen
 
 -->
 
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
 <!--
@@ -265,6 +315,12 @@ Das zweite V im VIV ist Verf¨ugbarkeit. Bei der Verfügbarkeit geht es darum Zu
 
 Muss nicht umbedingt 24/7 sein, aber innerhalb des zeitraums sollten wir Verfügbarkeit garantieren können
 -->
+
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -346,24 +402,24 @@ _color: white
 Beispiele für wertvolle und sensitive Informationen
 </h1>
 
-<div class="columns2" style="margin-left: 0px; padding-top: 75px">
+<div class="columns2" style="margin-left: 0px; padding-top: 35px">
 <div>
 
-<i class="fa-solid fa-credit-card fa-xl" style="font-size:100px"></i> 
-<p style="margin-top: 40px; font-size: 40px">Zahlungsdaten</p>
+<i class="fa-solid fa-credit-card fa-xl" style="font-size: 80px"></i> 
+<p style="margin-top: 40px; font-size: 30px">Zahlungsdaten</p>
 
 
 </div>
 <div>
-<i class="fa-solid fa-people-roof fa-xl" style="font-size:100px"></i>
-<p style="margin-top: 40px; font-size: 40px">Personendaten</p>
+<i class="fa-solid fa-people-roof fa-xl" style="font-size: 80px"></i>
+<p style="margin-top: 40px; font-size: 30px">Personendaten</p>
 
 
 </div>
 <div>
 
-<i class="fa-solid fa-laptop-medical fa-xl" style="font-size: 100px"></i>
-<p style="margin-top: 40px; font-size: 40px">Gesundheitsdaten</p>
+<i class="fa-solid fa-laptop-medical fa-xl" style="font-size: 80px"></i>
+<p style="margin-top: 40px; margin-bottom: 80px; font-size: 30px">Gesundheitsdaten</p>
 
 </div>
 <div>
@@ -387,6 +443,12 @@ und auch Gesundheitsdaten in verschiedenen Formen
 Der Wert dieser Daten ist natürlich eine Motivation für Angreifer
 -->
 
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
 <!--
@@ -396,7 +458,7 @@ _color: white
 
 # Motivation Angreifer
 
-<div class="columns">
+<div class="columns" style="margin-bottom:40px;">
 <div>
 
 <h2>
@@ -421,7 +483,7 @@ _color: white
 <div>
 
 <h2>
-  Persönlich <i class="fa-solid fa-user fa-xl" style="margin-left: 15px"></i> 
+  Persönlich <i class="fa-solid fa-user fa-xl" style="margin-left: 15px;"></i> 
 </h2>
 
 - Bestätigung
@@ -442,6 +504,13 @@ Aber es gibt auch die politische Motivation, soziale medien spielen hier auch ei
 Und wir haben persönliche Motivation
 -->
 
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
+
 ---
 
 
@@ -458,6 +527,13 @@ Diese Gruppen / Individuen haben also ihre Motivationen und wir unsere Informati
 Diese Daten / Informationen, respektive die System auf die sie gelagert sind haben meistens schwachstellen in irgeinder Form
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
+
 ---
 
 <!--
@@ -470,6 +546,12 @@ _color: black
 <!--
 Angreifer möchten diese Schwachstellen ausnützen um an unsere Informationen / Daten zu kommen.
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -484,6 +566,11 @@ _color: black
 Wir können Schutzmassnahmen etablieren, so dass wir die Angreifer davor hindern diese Schwachstellen auszunützen
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -502,6 +589,12 @@ Diese Schutzmassnahmen sollten proportional zum Wert unserer Informationen & Dat
 Um uns dabei zu helfen unsere Daten und Informationen zu gruppieren, haben wir klassifizierungen
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
 <!--
@@ -516,6 +609,13 @@ _color: white
 Es hilft uns anhand von verschiedenen Kriterien unsere Daten zu gruppieren..
 
 -->
+
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 
 ---
 
@@ -536,6 +636,13 @@ Verfügbarkeit <i class="fa-solid fa-clock-rotate-left fa-xl" style="margin-left
 <!--
 Unsere VIV Prinzipien können wir hier Anwenden um Anforderungen zu definieren. Die Informationen / Daten und ihre entsprechende Klassifizierung sollten die VIV prinzipen erfüllen
 -->
+
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 
 ---
 <!--
@@ -581,6 +688,13 @@ Alle Informationen und Daten
 Wir werden uns heute 3 Klassifizierungen anhand von ISO-Standards anschauen: Vertraulich Intern & öffentlich. Es gibt auch noch Streng Vertraulich aber dass wird nur in gewissen bereichen wie zum beispiel in der Pharmaindustrie oder im Militärischen bereich verwendet.
 -->
 
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
+
 ---
 
 <!--
@@ -610,6 +724,13 @@ Wir werden die einzelnen Klassifizierungen in Bezug auf Aufbewahrung, Transport 
 Bei der Vertraulichen Klassifizierung...
 -->
 
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
+
 ---
 
 <!--
@@ -637,6 +758,13 @@ _color: white
 Änderungen sollten auch nachvollziehbar sein
 -->
 
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
+
 ---
 
 <!--
@@ -660,6 +788,13 @@ _color: white
 
 <i class="fa-solid fa-binoculars fa-check" style="margin-right:20px"></i> Änderungen müssen Nachvollziehbar sein
 
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
+
 ---
 
 <!--
@@ -674,6 +809,12 @@ Jetzt haben wir angeschaut was Informationssicherheit ist und wie wir unsere Dat
 
 Was passiert denn aber wenn wir einen Informationssicherheitsvorfall haben?
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -691,6 +832,12 @@ Wir können Sicherheitsvorfälle anhand von unseren 3 Schutzielen einordnen.
 Es kann ein einzelnes Schutziel verletzt sein oder mehrere aufs mal
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
 <!--
@@ -699,6 +846,12 @@ _color: black
 -->
 
 ![bg center: 99%](assets/vorfall_2.png)
+
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -709,6 +862,12 @@ _color: black
 
 ![bg center: 99%](assets/vorfall_3.png)
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
 <!--
@@ -717,6 +876,12 @@ _color: black
 -->
 
 ![bg center: 99%](assets/vorfall_4.png)
+
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -731,6 +896,11 @@ _color: white
 Jetzt wo wir gesehen haben auf welchen Ebenen ein Sicherheitsvorfall passieren kann, schauen wir uns an wie ihr bei einem Sicherheitsvorfall vorgehen könnt.
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -763,6 +933,11 @@ Unsere Experten werden sich direkt mit dem Vorfall auseinandersetzen
 - Du kannst auch Screenshots an das Ticket anhängen, um weitere Informationen bereitzustellen.
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -784,8 +959,11 @@ _color: white
 
 <i class="fa-solid fa-user-pen fa-2xl" style="margin-right:20px; margin-top: 25px; margin-bottom: 35px"></i> Awareness-Schulungen
 
-- Anwender sensibilisieren
-- Gefahrenbewusstsein fördern
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 <!--
 Es gibt sehr viele technische Werkzeuge aber schlussendlich habt ihr als Individuum einen grossen einfluss auf die Informationssicherheit.
@@ -805,6 +983,12 @@ _color: white
 
 # Erster Block - Fazit
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
 <!--
@@ -814,7 +998,7 @@ _color: white
 
 # Erster Block - Fazit
 
-<div class="columns">
+<div class="columns" style="margin-bottom: 30px">
 <div>
 
 ## 3 Schutzziele
@@ -855,8 +1039,30 @@ Unsicher? Misstrauisch?
 <!-- 5 Minuten Pause
  -->
 
+ <div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 
 ---
+
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+# Erster Block - Quiz
+
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
+---
+
 
 <!--
 _backgroundColor: #0d3862
@@ -867,7 +1073,11 @@ _color: white
 
 ## Malware & Phishing
 
-
+ <div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -914,6 +1124,12 @@ Es gibt viele untergruppen und varianten, aber diese 4 sollte man meiner Meinung
 
 -->
 
+ <div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
  ---
 
  <!--
@@ -941,6 +1157,12 @@ Viren können auf der Softwareebene schaden an Dateisysteme versursachen, aber a
 
 Eine art von Virus, könnte man fast schon sagen, sind Würmer. Diese bewegen sich oft durch Netzwerke um sich weiter zu verbreiten.
 -->
+
+ <div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
  ---
 
@@ -981,6 +1203,12 @@ Stuxnet reportedly compromised Iranian PLCs, collecting information on industria
 PLC (Programmable Logic Controllers)
 -->
 
+ <div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
  <!--
@@ -1014,14 +1242,26 @@ Stuxnet reportedly compromised Iranian PLCs, collecting information on industria
 PLC (Programmable Logic Controllers)
 -->
 
+ <div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
----
+
+<!-- ---
 
 <iframe width="1100" height="800" src="https://www.youtube.com/embed/lWGijAHAv6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!-- 
 Wir werden uns einen kurzen Trailer anschauen zu einem Dokumentarfilm über Stuxnet. Der Trailer und der Film ist ein bisschen Hollywoodig / Sensationalistisch aber ich denke es ist trotzdem wert einen kurzen Blick darauf zu werfen.
--->
+--> -->
+
+ <div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -1053,6 +1293,11 @@ OFt ziehen Trojaner ander Malware mit sich da sie Hintertüren öffnen.
 Datendiebstahl, Identitätsmissbrauch, Systemübernahme.
 -->
 
+ <div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 
 ---
@@ -1081,6 +1326,12 @@ Bei der Spyware geht es nicht darum direkt Schaden anzurichten, sondern um Daten
 Datenschutzverletzungen, Identitätsdiebstahl, finanzielle Verluste.
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
  <!--
@@ -1108,6 +1359,11 @@ DAten werden verschlüsselt.
 Datenverlust, finanzielle Verluste, Betriebsunterbrechungen.
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 
 ---
@@ -1137,6 +1393,12 @@ Wir haben übe rMalware geredet, was die mechanismen der verschiedenen typen sin
 Auf das Verbreiten werden wir jetzt genauer eingehen indem das wir uns Angriffskomponenten die verwendet werden anschauen
 -->
 
+ <div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
 
@@ -1160,6 +1422,12 @@ Wir werden uns die Technischen Tools / Werkzeuge anschauen
 
 Und wir werden auf die soziale Ebene eingehen.
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 
 
@@ -1188,6 +1456,12 @@ Email Anhänge und
 Softwarebündlung
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
 
@@ -1214,6 +1488,13 @@ Es werden Sicherheitslücken ausgenützt
 
 Unbemerkte Infektion, Verbreitung von Viren, Trojanern oder Ransomware.
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 <!--
 _backgroundColor: #f4f1ec
@@ -1233,6 +1514,12 @@ Die Autorisierten Drive by Downloads
 Der user klickt auf einen Link, oder lädt eine Datei herunter. Er ist also aktiv involviert und erlaubt den Download sozusagen. Er weiss aber vermutlich nicht das es schädlich ist
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
 <!--
@@ -1250,6 +1537,12 @@ Hier werden sicherheitslücken ausgenützt um scripts / code auszuführen ohne d
 
 Browser updaten
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 <!--
@@ -1271,6 +1564,12 @@ E-mail Anhänge werden bei Phishing oft eingesetzt um dann mithilfe von Schwachs
 
 Unbemerkte Infektion, Installation von Rootkits, Datendiebstahl.
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -1294,6 +1593,12 @@ Wie bei den Trojanern vorher erwähnt ist es eine effektive Taktik Malware zu ta
 
 Unbefugter Datenzugriff, Spyware, Trojaner-Infektionen.
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -1323,6 +1628,12 @@ Wenn die Software die erlaubnis hat andere Software auszuführen ist es einfach 
 Der begriff root kit bezieht sich auf den root user, der in gewissen dateisystemen als einziger im root des Systems berechtigungen hat. Bei UNIX systemen jedenfalls
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
 <!--
@@ -1344,21 +1655,24 @@ _backgroundColor: #187d4d
 _color: white
 -->
 
+<div style="margin-bottom: 40px;">
 <h1>
   <i class="fa-solid fa-shield-alt fa-xl" style="margin-right: 15px"></i> Schutz vor Malware
 </h1>
 
-<i class="fa-solid fa-arrow-rotate-left fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Softwareaktualisierungen
+<i class="fa-solid fa-arrow-rotate-left fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 35px"></i> Softwareaktualisierungen
 
 Halte dein Betriebssystem und alle Programme auf dem neuesten Stand, um bekannte Sicherheitslücken zu schließen.
 
-<i class="fa-solid fa-envelope fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Vorsicht bei E-Mails
+<i class="fa-solid fa-envelope fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 35px"></i> Vorsicht bei E-Mails
 
 Öffne keine E-Mail-Anhänge oder klicke nicht auf Links von unbekannten oder verdächtigen Absendern.
 
-<i class="fa-solid fa-user-shield fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Verhaltensbewusstsein
+<i class="fa-solid fa-user-shield fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 35px"></i> Verhaltensbewusstsein
 
 Sei vorsichtig beim Herunterladen von Dateien aus dem Internet und vermeide fragwürdige Webseiten.
+
+</div>
 
 <!--
 Ok Jetzt haben wir Gruppen von Malware angeschaut und was für Techniken verwendet werden um Malware auf ein System zu kriegen.
@@ -1372,6 +1686,12 @@ Verhaltensbewusstsein beim browsen
 Wir haben jetzt mit vorsicht und bewusstsein Begriffe erwähnt die vorallem auch auf der Sozialen Ebene relevant sind.
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
 <!--
@@ -1384,6 +1704,12 @@ _color: white
 <!--
 
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -1410,6 +1736,12 @@ Es wird druck ausgeübt.
 Das Wird beim Phishing und Vishing sehr oft eingesetzt
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 
 ---
 
@@ -1433,6 +1765,12 @@ Phishing istdie Täuschung von User um an Informationen zu kommen und um sich Zu
 
 Identitätsdiebstahl, finanzielle Verluste, Zugriff auf persönliche Konten.
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -1546,7 +1884,11 @@ _color: white
 - Verifiziere die Identität des Anrufers
 - Gib niemals vertrauliche Informationen am Telefon preis
 
-
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -1567,9 +1909,11 @@ Suchen nach sensiblen Informationen in physischem Müll, um Zugriff auf vertraul
 
 Papierdokumente, veraltete Hardware, ungeschredderte Informationen.
 
-
-
-
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -1578,21 +1922,29 @@ _backgroundColor: #cf7030
 _color: white
 -->
 
+<div style="margin-bottom:20px;">
 <h1>
   <i class="fa-solid fa-shield-alt fa-xl" style="margin-right: 15px"></i> Phishing-Erkennung
 </h1>
 
-<i class="fa-solid fa-pencil fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Grammatik und Anrede
+<i class="fa-solid fa-pencil fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 35px"></i> Grammatik und Anrede
 
 Achte auf schlechte Grammatik und allgemeine Anreden wie "Sehr geehrte Damen und Herren". 
 
-<i class="fa-solid fa-gift fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Unrealistische Angebote
+<i class="fa-solid fa-gift fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 35px"></i> Unrealistische Angebote
 
 Wenn etwas zu gut klingt, um wahr zu sein, ist es wahrscheinlich nicht echt.
 
-<i class="fa-solid fa-envelope fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Sensible Datenanfragen
+<i class="fa-solid fa-envelope fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 35px"></i> Sensible Datenanfragen
 
 Gib niemals sensible Informationen aufgrund von E-Mail-Anfragen weiter. Die meisten Institutionen würden solche Informationen niemals per E-Mail anfordern.
+</div>
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -1613,18 +1965,35 @@ Sei misstrauisch bei E-Mails, die dringendes Handeln erfordern. Betrüger erzeug
 
 Prüfe verdächtige E-Mails auf korrekte Absenderadressen und Domänennamen. Impulsives Handeln könnte dazu führen, subtile Details zu übersehen.
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
-![bg center: 60%](assets/ubs_1_upscaled.png)
+![bg center: 52%](assets/ubs_1_upscaled.png)
 
 <!--
 Diese Empfehlungen oder Richtlinien können wir hier bei diesem Beispiel gerade Anwenden
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
-![bg center: 60%](assets/ubs_2.jpg)
+![bg center: 52%](assets/ubs_2.jpg)
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -1698,6 +2067,12 @@ Handshake process
 In SSL, the hash calculation also comprises the master secret and pad while in TLS, the hashes are calculated over handshake message.
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
 ![bg center: 100%](assets/ssl.png)
@@ -1708,25 +2083,33 @@ In SSL, the hash calculation also comprises the master secret and pad while in T
 _backgroundColor: #3498db
 _color: white
 -->
-<h1 style="margin-bottom: -2px">
+<div style="margin-bottom: 50px">
+<h2 style="margin-bottom: -2px">
   Wie funktioniert Verschlüsselung?
-</h1>
+</h2>
 
-<i class="fa-solid fa-lock fa-xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 15px"></i> Verschlüsselung
+<i class="fa-solid fa-lock fa-xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 15px"></i> Verschlüsselung
 
 - Schutz von vertraulichen Informationen vor unbefugtem Zugriff.
 - Nachrichten werden in eine nicht lesbare Form umgewandelt.
 
-<i class="fa-solid fa-key fa-2xl" style="margin-right:20px; margin-top: 25px; margin-bottom: 15px"></i> Schlüssel
+<i class="fa-solid fa-key fa-2xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 15px"></i> Schlüssel
 
 - Ein Schlüssel wird benötigt, um die verschlüsselte Nachricht zu entschlüsseln.
 - Öffentliche Schlüssel für Verschlüsselung, private Schlüssel für Entschlüsselung.
 
-<i class="fa-solid fa-code fa-2xl" style="margin-right:20px; margin-top: 25px; margin-bottom: 15px"></i> Verfahren
+<i class="fa-solid fa-code fa-2xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 15px"></i> Verfahren
 
 - Symmetrische Verschlüsselung: Derselbe Schlüssel für Verschlüsselung und Entschlüsselung.
 - Asymmetrische Verschlüsselung: Zwei Schlüssel, öffentlich und privat.
 
+</div>
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -1757,6 +2140,12 @@ _color: white
 - Verschlüsselung macht E-Mails zu einer persönlichen Lieferung
 - Kontrolle der Identität bevor Inhalt eingesehen werden kann
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 ---
 
 <!--
@@ -1765,6 +2154,12 @@ _color: white
 -->
 
 # Zweiter Block - Fazit
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -1820,6 +2215,27 @@ Manipulation von Menschen durch ausnutzung von Emotionen
 <!-- 5 Minuten Pause
  -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
+---
+
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+# Zweiter Block - Quiz
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
 
 ---
 
@@ -1830,6 +2246,12 @@ _color: white
 
 # Block 3
 ## Passwörter & Verhaltensweisen
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -1867,6 +2289,12 @@ autorisierung:
 Sobald ein Benutzer authentifiziert ist, bestimmt die Autorisierung, welche Berechtigungen dieser Benutzer hat. 
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
+
 ---
 
 
@@ -1874,24 +2302,33 @@ Sobald ein Benutzer authentifiziert ist, bestimmt die Autorisierung, welche Bere
 _backgroundColor: #2c3e50
 _color: white
 -->
+<div style="margin-bottom: 50px;">
 <h1>
-  <i class="fa-solid fa-fingerprint fa-xl" style="margin-right: 15px"></i> Formen
+  <i class="fa-solid fa-fingerprint fa-md" style="margin-right: 15px"></i> Formen
 </h1>
 
-<i class="fa-solid fa-brain fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Wissen (Passwörter)
+<i class="fa-solid fa-brain fa-xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 35px"></i> Wissen (Passwörter)
 
 - Benutzername und geheimes Passwort
 - Anfällig für Phishing und soziale Ingenieurstechniken
 
-<i class="fa-solid fa-key fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Besitz (Physische Keys)
+<i class="fa-solid fa-key fa-xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 35px"></i> Besitz (Physische Keys)
 
 - Hardware-Token, Smartcards, USB-Schlüssel
 - Erhöhte Sicherheit, benötigt physischen Zugriff
 
-<i class="fa-solid fa-eye-slash fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Biometrie
+<i class="fa-solid fa-eye-slash fa-xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 35px"></i> Biometrie
 
 - Fingerabdruck, Gesichtserkennung, Iris-Scan
 - Einzigartige körperliche Merkmale als Identifikation
+
+</div>
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -1903,17 +2340,23 @@ _color: white
   <i class="fa-solid fa-hammer fa-xl" style="margin-right: 15px"></i> Brute Forcing
 </h1>
 
-<i class="fa-solid fa-clock fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Was ist Brute Forcing?
+<i class="fa-solid fa-clock fa-2xl" style="margin-right:20px; margin-top: 45px; margin-bottom: 35px"></i> Was ist Brute Forcing?
 
 - Methode, bei der alle möglichen Kombinationen ausprobiert werden
 - Ziel: Passwort oder geheime Informationen erraten
 
-<i class="fa-solid fa-hourglass-half fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Beispiel
+<i class="fa-solid fa-hourglass-half fa-2xl" style="margin-right:20px; margin-top: 35px; margin-bottom: 35px"></i> Beispiel
 
 - Passwort: "Secure123-"
 - Theoretische zeit zum Knacken: Seconds
 
  <i class="fa-solid fa-triangle-exclamation fa-2xl" style="margin-top:25px; margin-left:25px; margin-right:15px"></i> Wörterlisten kürzen die Zeit drastisch
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 <!--
 
@@ -1929,10 +2372,21 @@ What i will say, is that wordlists have a significant influence on the time it t
 
 ![bg center: 90%](assets/brute_1.png)
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
+
 ---
 
 ![bg center: 90%](assets/brute_2.png)
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -1954,6 +2408,12 @@ _color: white
 <i class="fa-solid fa-warning fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 25px"></i> Gefahren
 - Angreifer nützen diese Schwachstelle aus
 - Ein geknacktes Passwort ermöglicht Zugriff auf andere Konten
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -1977,7 +2437,7 @@ _color: white
 -->
 
 <h1>
-<i class="fa-solid fa-circle-check fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Passwortempfehlungen
+<i class="fa-solid fa-circle-check fa-2xl" style="margin-right:20px; margin-top: 25px; margin-bottom: 35px"></i> Passwortempfehlungen
 </h1>
 
 <i class="fa-solid fa-1 fa-2xl" style="margin-right:4px; margin-top: 40px; margin-bottom: 25px"></i><i class="fa-solid fa-2 fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Mindestlänge von 12 Zeichen
@@ -2003,6 +2463,12 @@ MYFMITG2F2023+tc
 a device such as a pattern of letters, ideas, or associations that assists in remembering something, for example Richard Of York Gave Battle In Vain for the colours of the spectrum (red, orange, yellow, green, blue, indigo, violet).
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
+
 
 ---
 
@@ -2013,24 +2479,30 @@ _color: white
 -->
 
 <h1>
-  <i class="fa-solid fa-key fa-xl" style="margin-right: 15px"></i> Passwort-Manager
+  <i class="fa-solid fa-key fa-md" style="margin-right: 15px"></i> Passwort-Manager
 </h1>
 
-<i class="fa-solid fa-question fa-2xl" style="margin-right:20px; margin-top: 35px; margin-bottom: 25px"></i> Warum Passwort-Manager?
+<i class="fa-solid fa-question fa-2xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 25px"></i> Warum Passwort-Manager?
 
 - Speichert und verwaltet sichere Passwörter
 - Erzeugt zufällige, komplexe Passwörter
 
-<i class="fa-solid fa-plus fa-2xl" style="margin-right:20px; margin-top: 35px; margin-bottom: 25px"></i> Vorteile
+<i class="fa-solid fa-plus fa-2xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 25px"></i> Vorteile
 
 - Kein Auswendiglernen nötig
 - Schützt vor Mehrfachverwendung von Passwörtern
 
 
-<i class="fa-solid fa-gears fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 25px"></i> Funktionsweise
+<i class="fa-solid fa-gears fa-2xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 25px"></i> Funktionsweise
 
 - Master-Passwort für den Zugriff
 - Sichere Speicherung verschlüsselter Passwortdaten
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -2042,6 +2514,12 @@ _color: white
 <!--
 Relating to passwords and also phishing and social engineering i have this short video from jimmy kimmel where they try and social engineer people
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -2056,6 +2534,12 @@ _color: white
 
 ## Clean-Desk-Policy <i class="fa-solid fa-spray-can-sparkles fa-xl" style="margin-left: 15px"></i>
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
+
 ---
 
 <!--
@@ -2066,22 +2550,26 @@ _color: white
   <i class="fa-solid fa-wifi fa-xl" style="margin-right: 15px"></i> Verhalten in öffentlichen Netzwerken
 </h1>
 
-<i class="fa-solid fa-lock fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Öffentliche Netzwerke
+<i class="fa-solid fa-lock fa-2xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 25px"></i> Öffentliche Netzwerke
 
 - Gefahr von MitM-Angriffen und Datenspionage
 - Vermeide Online-Banking und sensitive Aktivitäten
 
-<i class="fa-solid fa-user-shield fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Verhaltenstipps
+<i class="fa-solid fa-user-shield fa-2xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 25px"></i> Verhaltenstipps
 
 - Deaktiviere Dateifreigabe und Netzwerkfreigaben
 - Verwende sichere Websites (HTTPS)
 - Nutze VPN für verschlüsselte Verbindung
 
-<i class="fa-solid fa-car-tunnel fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Virtuelles Privates Netzwerk (VPN)
+<i class="fa-solid fa-car-tunnel fa-2xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 25px"></i> Virtuelles Privates Netzwerk (VPN)
 
 - Verschlüsselt Internetverkehr über sicheren Tunnel
 
-
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -2093,7 +2581,7 @@ _color: white
   <i class="fa-solid fa-spray-can-sparkles fa-xl" style="margin-right: 15px"></i> Clean Desk Policy
 </h1>
 
-<i class="fa-solid fa-question-circle fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Warum eine Clean Desk Policy?
+<i class="fa-solid fa-question-circle fa-2xl" style="margin-right:20px; margin-top:15px; margin-bottom: 35px"></i> Warum eine Clean Desk Policy?
 
 Die Clean Desk Policy hilft bei der Wahrung der VIV-Prinzipien:
 
@@ -2101,12 +2589,18 @@ Die Clean Desk Policy hilft bei der Wahrung der VIV-Prinzipien:
 - Integrität
 - Verfügbarkeit
 
-<i class="fa-solid fa-lock fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Sicherheitsrisiken
+<i class="fa-solid fa-lock fa-2xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 35px"></i> Sicherheitsrisiken
 
 Ein nicht aufgeräumter Arbeitsplatz kann Sicherheitsrisiken bergen:
 
 - Benutzung eines eingeloggten Nutzerkontos
 - Einblick in vertrauliche Unterlagen
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -2131,9 +2625,21 @@ Verhindert Spionage durch:
 - Anheuerung von Drittpersonen (z.B. Putzfrauen)
 - Identitätsmissbrauch
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
+
 ---
 
 ![bg center: 100%](assets/lock_screen.png)
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -2143,6 +2649,12 @@ _color: white
 -->
 
 # Dritter Block - Fazit
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -2190,6 +2702,25 @@ Die Clean Desk Policy hilft bei der Wahrung der VIV-Prinzipien
 <!-- 5 Minuten Pause
  -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
+
+---
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+# Dritter Block - Quiz
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -2211,6 +2742,11 @@ https://haveibeenpwned.com/passwords
 - Phishing quiz 
 https://phishingquiz.withgoogle.com/
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
