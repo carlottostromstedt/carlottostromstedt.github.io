@@ -136,9 +136,14 @@ Prüfe verdächtige E-Mails auf korrekte Absenderadressen und Domänennamen. Imp
 <a href="https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/">https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/</a> 
 - Phishing quiz: 
 <a href="https://phishingquiz.withgoogle.com/">https://phishingquiz.withgoogle.com/</a>
+- Passwort-Manager Open-Circle:
+<a href="https://www.open-circle.ch/loesungen/passwort-manager/">https://www.open-circle.ch/loesungen/passwort-manager/</a>
+- Passwort-Manager 1Password: 
+<a href="https://1password.com/de">https://1password.com/de</a>
 
-<p style="margin-bottom: 252px"></p>
-<p style="margin-left: 360px; margin-top: 60px; margin-bottom: 74px">3</p>
+
+<p style="margin-bottom: 192px"></p>
+<p style="margin-left: 360px; margin-top: 60px; margin-bottom: 70px">3</p>
 </body>
 
 

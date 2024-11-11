@@ -452,6 +452,130 @@ _color: white
 - Verbessern der Marktstellung
 
 </div>
+<div style="visibility: hidden;">
+<h2>
+  Politisch <i class="fa-solid fa-check-to-slot fa-xl" style="margin-left: 15px"></i> 
+</h2>
+
+- Beeinflussung von Wahlen
+- Imageschaden eines Konkurrenten
+- Verbreitung von religiösen oder politischen Inhalten.
+
+</div>
+<div style="visibility: hidden;">
+
+<h2>
+  Persönlich <i class="fa-solid fa-user fa-xl" style="margin-left: 15px;"></i> 
+</h2>
+
+- Bestätigung
+- „For the LULZ“ (Amüsierung)
+
+</div>
+</div>
+
+
+<!--
+
+Die Motivationen können aber verschieden sein
+
+Wir haben definitiv den Finanziellen aspekt, mit eigener Bereicherung und aber auch Schaden finanziell anrichten
+
+Aber es gibt auch die politische Motivation, soziale medien spielen hier auch eine grosse Rolle
+
+Und wir haben persönliche Motivation
+-->
+
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Motivation Angreifer
+
+<div class="columns" style="margin-bottom:40px;">
+<div>
+
+<h2>
+  Wirtschaftlich <i class="fa-solid fa-sack-dollar fa-xl" style="margin-left: 15px"></i> 
+</h2>
+
+- Eigene Bereicherung
+- Elimination der Konkurrenz
+- Verbessern der Marktstellung
+
+</div>
+<div>
+<h2>
+  Politisch <i class="fa-solid fa-check-to-slot fa-xl" style="margin-left: 15px"></i> 
+</h2>
+
+- Beeinflussung von Wahlen
+- Imageschaden eines Konkurrenten
+- Verbreitung von religiösen oder politischen Inhalten.
+
+</div>
+<div style="visibility: hidden;">
+
+<h2>
+  Persönlich <i class="fa-solid fa-user fa-xl" style="margin-left: 15px;"></i> 
+</h2>
+
+- Bestätigung
+- „For the LULZ“ (Amüsierung)
+
+</div>
+</div>
+
+
+<!--
+
+Die Motivationen können aber verschieden sein
+
+Wir haben definitiv den Finanziellen aspekt, mit eigener Bereicherung und aber auch Schaden finanziell anrichten
+
+Aber es gibt auch die politische Motivation, soziale medien spielen hier auch eine grosse Rolle
+
+Und wir haben persönliche Motivation
+-->
+
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Informationssicherheit</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Motivation Angreifer
+
+<div class="columns" style="margin-bottom:40px;">
+<div>
+
+<h2>
+  Wirtschaftlich <i class="fa-solid fa-sack-dollar fa-xl" style="margin-left: 15px"></i> 
+</h2>
+
+- Eigene Bereicherung
+- Elimination der Konkurrenz
+- Verbessern der Marktstellung
+
+</div>
 <div>
 <h2>
   Politisch <i class="fa-solid fa-check-to-slot fa-xl" style="margin-left: 15px"></i> 
@@ -1146,104 +1270,6 @@ Eine art von Virus, könnte man fast schon sagen, sind Würmer. Diese bewegen si
   <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
 </div>
 
- ---
-
- <!--
-_backgroundColor: #e74c3c
-_color: white
--->
-<h1>
-  <i class="fa-solid fa-biohazard fa-xl" style="margin-right: 15px"></i> Beispiel: Stuxnet-Virus
-</h1>
-
-<i class="fa-solid fa-virus-slash fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Stuxnet-Virus
-
-- Entdeckt im Jahr 2010
-- Ein komplexer Computerwurm, der Industrieanlagen und -systeme angreift.
-
-<i class="fa-solid fa-tools fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Ziel und Auswirkungen
-
-- Hauptsächlich auf iranische Atomreaktoren ausgerichtet
-- Manipulierte Steuerungssysteme und führte zu physischen Schäden
-
-
-<!-- 
-Ein Beispiel dafür wäre das Stuxnet virus
-
-Stuxnet, discovered by Sergey Ulasen, initially spread via Microsoft Windows, and targeted Siemens industrial control systems.
-
-Stuxnet has three modules: a worm that executes all routines related to the main payload of the attack; 
-
-a link file that automatically executes the propagated copies of the worm; 
-
-and a rootkit component responsible for hiding all malicious files and processes, to prevent detection of Stuxnet.[11] 
-
-It is typically introduced to the target environment via an infected USB flash drive, thus crossing any air gap. The worm then propagates across the network, scanning for Siemens Step7 software on computers controlling a PLC
-
-Stuxnet reportedly compromised Iranian PLCs, collecting information on industrial systems and causing the fast-spinning centrifuges to tear themselves apart.
-
-PLC (Programmable Logic Controllers)
--->
-
- <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
-</div>
-
----
-
- <!--
-_backgroundColor: #e74c3c
-_color: white
--->
-
-<i class="fa-solid fa-user-secret fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Komplexität
-
-- Verwendete Zero-Day-Schwachstellen
-- Nutzte mehrere Angriffsvektoren
-
-<i class="fa-solid fa-shield-alt fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Lehren
-
-- Zeigt die Möglichkeit gezielter Angriffe auf kritische Infrastrukturen
-- Betont die Bedeutung von Sicherheitsbewusstsein und Schutzmaßnahmen
-
-<!-- 
-Stuxnet, discovered by Sergey Ulasen, initially spread via Microsoft Windows, and targeted Siemens industrial control systems.
-
-Stuxnet has three modules: a worm that executes all routines related to the main payload of the attack; 
-
-a link file that automatically executes the propagated copies of the worm; 
-
-and a rootkit component responsible for hiding all malicious files and processes, to prevent detection of Stuxnet.[11] 
-
-It is typically introduced to the target environment via an infected USB flash drive, thus crossing any air gap. The worm then propagates across the network, scanning for Siemens Step7 software on computers controlling a PLC
-
-Stuxnet reportedly compromised Iranian PLCs, collecting information on industrial systems and causing the fast-spinning centrifuges to tear themselves apart.
-
-PLC (Programmable Logic Controllers)
--->
-
- <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
-</div>
-
-
-<!-- ---
-
-<iframe width="1100" height="800" src="https://www.youtube.com/embed/lWGijAHAv6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<!-- 
-Wir werden uns einen kurzen Trailer anschauen zu einem Dokumentarfilm über Stuxnet. Der Trailer und der Film ist ein bisschen Hollywoodig / Sensationalistisch aber ich denke es ist trotzdem wert einen kurzen Blick darauf zu werfen.
---> -->
-
- <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
-</div>
 
 ---
 
@@ -1347,10 +1373,88 @@ Datenverlust, finanzielle Verluste, Betriebsunterbrechungen.
   <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
 </div>
 
+ ---
+
+ <!--
+_backgroundColor: #e74c3c
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-biohazard fa-xl" style="margin-right: 15px"></i> Beispiel: WannaCry-Virus
+</h1>
+
+
+
+- Ausbruch im Mai 2017
+- Ransomware, die weltweit Windows-Systeme befiel.
+
+<i class="fa-solid fa-tools fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Ziel und Auswirkungen
+
+- Ausnutzung der Windows-Schwachstelle "EternalBlue"
+- Betraf Organisationen wie die NHS (UK) und FedEx
+
+
+<!-- 
+Global Impact: WannaCry infected over 230,000 computers across 150 countries within days. It spread by exploiting a vulnerability in the Windows operating system called EternalBlue (a flaw that had already been patched by Microsoft but was unpatched in many systems).
+
+Behavior: The ransomware encrypted users' files, demanding a ransom in Bitcoin to restore access. If users failed to pay the ransom, their data remained inaccessible.
+
+Notable Targets: Several major institutions were severely impacted. For example:
+
+The UK’s National Health Service (NHS) had to cancel surgeries and medical appointments because WannaCry disabled their computer systems.
+Large corporations such as FedEx and Telefonica also faced major disruptions.
+
+Prevention & Aftermath: The attack highlighted the importance of keeping systems updated with security patches, as well as implementing backup and recovery plans. It also showcased the need for increased international cooperation to combat cybercrime.
+-->
+
+ <div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
-![bg center: 80%](assets/blackcat.png)
+ <!--
+_backgroundColor: #e74c3c
+_color: white
+-->
+
+<i class="fa-solid fa-user-secret fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Verbreitung und Komplexität
+
+- Schnell weltweit verbreitet, über 230.000 Systeme in 150 Ländern
+- Verschlüsselte Daten und forderte Bitcoin-Lösegeld
+
+<i class="fa-solid fa-shield-alt fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Lehren
+
+- Bedeutung von regelmässigen Updates und Backups
+- Zeigt die Verwundbarkeit von Systemen ohne Sicherheits-Patches
+
+<!-- 
+Global Impact: WannaCry infected over 230,000 computers across 150 countries within days. It spread by exploiting a vulnerability in the Windows operating system called EternalBlue (a flaw that had already been patched by Microsoft but was unpatched in many systems).
+
+Behavior: The ransomware encrypted users' files, demanding a ransom in Bitcoin to restore access. If users failed to pay the ransom, their data remained inaccessible.
+
+Notable Targets: Several major institutions were severely impacted. For example:
+
+The UK’s National Health Service (NHS) had to cancel surgeries and medical appointments because WannaCry disabled their computer systems.
+Large corporations such as FedEx and Telefonica also faced major disruptions.
+
+Prevention & Aftermath: The attack highlighted the importance of keeping systems updated with security patches, as well as implementing backup and recovery plans. It also showcased the need for increased international cooperation to combat cybercrime.
+-->
+
+ <div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
+
+---
+
+
+
+![bg center: 70%](assets/wannacry.png)
 
 <!-- link: https://www.microsoft.com/en-us/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware/
  
@@ -1844,6 +1948,15 @@ _color: white
 ![bg center: 90%](assets/paypal_2.png)
 
 ---
+<!--
+_backgroundColor: #f4f1ec
+_color: white
+-->
+
+
+![bg center: 90%](assets/ncsc_de.png)
+
+---
 
 <!--
 _backgroundColor: #c78928
@@ -2108,6 +2221,8 @@ _color: white
 _backgroundColor: #3498db
 _color: white
 -->
+
+<!--
 <h1>
   <i class="fa-solid fa-envelope fa-xl" style="margin-right: 15px"></i> E-Mails & Postkarten
 </h1>
@@ -2121,6 +2236,37 @@ _color: white
 
 - Verschlüsselung macht E-Mails zu einer persönlichen Lieferung
 - Kontrolle der Identität bevor Inhalt eingesehen werden kann
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
+---
+-->
+
+<!--
+_backgroundColor: #3498db
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-key fa-xl" style="margin-right: 15px"></i> Verschlüsselung - Anwendungsbereiche
+</h1>
+
+
+<h2>
+<i class="fa-solid fa-lock fa-xl" style="margin-right:20px; margin-top: 50px; margin-bottom: 50px"></i> SSL / TLS
+</h2>
+
+<h2>
+  <i class="fa-solid fa-envelope fa-xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 50px"></i> Verschlüsselte E-Mails
+</h2>
+
+<h2>
+  <i class="fa-solid fa-car-tunnel fa-xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 15px"></i> SSL / TLS
+</h2>
+
 
 <div class="footer-outer">
   <p class="footer-passive">Block 1 - Informationssicherheit |</p>
@@ -2489,22 +2635,6 @@ _color: white
 ---
 
 
-
-<iframe width="1100" height="800" src="https://www.youtube.com/embed/opRMrEfAIiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-<!--
-Relating to passwords and also phishing and social engineering i have this short video from jimmy kimmel where they try and social engineer people
--->
-
-<div class="footer-outer">
-  <p class="footer-passive">Block 1 - Informationssicherheit | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
-  <p class="footer-passive" ></p>
-</div>
-
----
-
 <!--
 _backgroundColor: #0d3862
 _color: white
@@ -2719,7 +2849,7 @@ _color: white
 https://haveibeenpwned.com
 - Passwort prüfen 
 https://haveibeenpwned.com/passwords
-- Nationales Zentrum für Cybersicherheit: https://www.melani.admin.ch/melani/de/home.html
+- Nationales Zentrum für Cybersicherheit: https://www.ncsc.admin.ch/ncsc/de/home.html
 - Information is beautiful https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
 - Phishing quiz 
 https://phishingquiz.withgoogle.com/
