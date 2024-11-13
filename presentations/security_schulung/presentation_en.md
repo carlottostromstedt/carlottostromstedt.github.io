@@ -16,6 +16,25 @@ style: |
   section ol {
     font-size: 25px;
   }
+
+  .footer-passive {
+    color: grey;
+  }
+  
+  .footer-outer {
+    display: flex;
+    flex-direction: row;
+    font-size: 22px; 
+    justify-content: center;
+    position: absolute; 
+    top: 665px; 
+    right: 160px;
+  }
+
+  .text-dark {
+    color: #5e5e5c;
+  }
+
   @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css'
 paginate: true  
 ---
@@ -45,21 +64,41 @@ Carl Strömstedt
 ![bg](assets/titelbild.jpg)
 
 
+
+
 ---
 
 ![bg center: 70%](assets/dhl.jpeg)
+
+<!--
+Some of you have probably received an SMS like this or similar
+-->
+
 
 ---
 
 ![bg center: 48%](assets/amaazon_1.PNG)
 
+<!--
+Many of you have probably received an email like this or similar
+-->
+
+
 ---
 
 ![bg center: 80%](assets/guardian.png)
 
+<!--
+And have probably also read about ransomware or other cyber attacks online or in the newspaper
+-->
+
 ---
 
 ![bg center: 70%](assets/attack.gif)
+
+<!--
+Fact is: There are thousands of cyber attacks happening every day
+-->
 
 ---
 
@@ -74,6 +113,16 @@ _color: white -->
 - ### Information Security
 - ### Malware & Phishing
 - ### Authentication & Behaviors
+
+<!--
+Today we will take a look behind these attacks.
+
+We will look at the theoretical parts of information sercurity in the first part
+
+We will then look at malware and phishing with technical processes including social aspects
+
+And to finishour training we will look at authentication & behaviours in digital spaces and in the workplace
+-->
 
 ---
 
@@ -102,6 +151,12 @@ _color: white
 # Part 1
 ## Information Security
 
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors </p>
+</div>
+
 ---
 
 <!--
@@ -115,6 +170,13 @@ _color: white
 <!--
 What do we actually mean when we are talking about information security?
 -->
+
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 
@@ -140,6 +202,12 @@ You as individuals however, also have a big influence on information security.
 
 The goal of todays training is that you should at least be able to ensure information security and maybe even improve it?
 -->
+
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -167,6 +235,12 @@ We can provice confidentiality if we protcet our information against unauthorize
 A concrete example would be that only employees that work for the financial department should have access to all financial documents.
 -->
 
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 <!--
@@ -190,6 +264,12 @@ Integrity of Information is focuse on ensuring accuracy and consistenc of data, 
 
 We want to ensure that Documents are in an origianl state and if they are changed, then we should be able to trace these changes
 -->
+
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -217,30 +297,11 @@ This does not have to be 24/7,but inside of the promised timeframe, we should be
 An example is that we as an IT provider have regular maintenance and redundant infrastructure so that our customers have access to all their services
 -->
 
----
-
-<!--
-_backgroundColor: #0d3862
-_color: white
--->
-
-<h1 style="margin-bottom: -20px">
- Case studies
-</h1>
-
-1. An employee discovers an error in an approved protocol after a meeting. Rectifying this error would alter the content of the decision. Despite this, the employee makes the change, saves the modified protocol without informing colleagues, and without noting the change in the company repository.
-
-2. A sales employee talks loudly about the details of an offer on a train. This discussion makes it possible for fellow passengers to know the affected company, key individuals, the scope, and the costs of the project.
-
-3. Important business data becomes inaccessible due to an unplanned, short-notice maintenance window carried out by the IT service provider for software updates.
-
-4. An employee clicks on a link in a message claiming they've won a lottery prize. They confirm the installation of a certificate in their browser to access the desired page. All data they send and receive is now decrypted, accessed, and altered by a third party for fraudulent purposes.
-
-<!--
-So for practice i have 4 case studies. I will give you a few minutes time to read through the case studies and then i will start an anonymous zoom poll. 
-
-You should answer based on which of our 3 security goals are violated in each of the 4 cases. There is the possiblity of more than one violation.
--->
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -249,13 +310,28 @@ _backgroundColor: #0d3862
 _color: white
 -->
 
+<h2 style="margin-bottom: -20px">
+Confidentiality / Integrity / Availability - Quiz
+</h2>
+
+
+
+<!-- # Zoom Poll / Quiz
+-->
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+<!-- 
 # Zoom Poll / Quiz
+-->
 
 <!--
 So we will now go through each of the case studies and have look at what the answers would be
 -->
-
----
 
 ![bg](assets/case_study_1.png)
 
@@ -302,21 +378,21 @@ Examples of sensitive and valuable data
 <div class="columns2" style="margin-left: 0px; padding-top: 75px">
 <div>
 
-<i class="fa-solid fa-credit-card fa-xl" style="font-size:100px"></i> 
-<p style="margin-top: 40px; font-size: 40px">Payment data</p>
+<i class="fa-solid fa-credit-card fa-xl" style="font-size:80px"></i> 
+<p style="margin-top: 40px; font-size: 30px">Payment data</p>
 
 
 </div>
 <div>
-<i class="fa-solid fa-people-roof fa-xl" style="font-size:100px"></i>
-<p style="margin-top: 40px; font-size: 40px">Personal data</p>
+<i class="fa-solid fa-people-roof fa-xl" style="font-size:80px"></i>
+<p style="margin-top: 40px; font-size: 30px">Personal data</p>
 
 
 </div>
 <div>
 
-<i class="fa-solid fa-laptop-medical fa-xl" style="font-size: 100px"></i>
-<p style="margin-top: 40px; font-size: 40px">Health data</p>
+<i class="fa-solid fa-laptop-medical fa-xl" style="font-size: 80px"></i>
+<p style="margin-top: 40px; font-size: 30px">Health data</p>
 
 </div>
 <div>
@@ -341,6 +417,73 @@ So this can be for example:
 
 The value of this data naturally provides an incentive and motivation
 -->
+
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Motivation of Attackers
+
+<div class="columns" style="margin-bottom:40px;">
+<div>
+
+<h2>
+  Economic <i class="fa-solid fa-sack-dollar fa-xl" style="margin-left: 15px"></i> 
+</h2>
+
+- Personal Enrichment
+- Elimination of Competitors
+- Enhancement of Market Position
+
+</div>
+<div style="visibility: hidden;">
+<h2>
+  Political <i class="fa-solid fa-check-to-slot fa-xl" style="margin-left: 15px"></i> 
+</h2>
+
+- Influencing Elections
+- Causing Reputation Damage
+- Spreading Religious or Political Content
+
+</div>
+<div style="visibility: hidden;">
+
+<h2>
+  Personal <i class="fa-solid fa-user fa-xl" style="margin-left: 15px"></i> 
+</h2>
+
+- Validation
+- "For the LULZ" (Amusement)
+
+</div>
+</div>
+
+
+<!--
+
+So we can defintely understand that there many incentives to conduct and attack
+
+We have the economical motivators
+
+And then especially with social media as well have political motivations
+
+and personal motivations
+-->
+
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -369,11 +512,59 @@ _color: white
 </h2>
 
 - Influencing Elections
-- Causing Reputation Damage to Competitors
+- Causing Reputation Damage
 - Spreading Religious or Political Content
 
 </div>
+<div style="visibility: hidden;">
+
+<h2>
+  Personal <i class="fa-solid fa-user fa-xl" style="margin-left: 15px"></i> 
+</h2>
+
+- Validation
+- "For the LULZ" (Amusement)
+
+</div>
+
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+# Motivation of Attackers
+
+<div class="columns">
+<div style="margin-bottom:-20px;">
+
+<h2>
+  Economic <i class="fa-solid fa-sack-dollar fa-xl" style="margin-left: 15px"></i> 
+</h2>
+
+- Personal Enrichment
+- Elimination of Competitors
+- Enhancement of Market Position
+
+</div>
 <div>
+<h2>
+  Political <i class="fa-solid fa-check-to-slot fa-xl" style="margin-left: 15px"></i> 
+</h2>
+
+- Influencing Elections
+- Causing Reputation Damage
+- Spreading Religious or Political Content
+
+</div>
+<div style="margin-bottom:40px;">
 
 <h2>
   Personal <i class="fa-solid fa-user fa-xl" style="margin-left: 15px"></i> 
@@ -396,6 +587,13 @@ And then especially with social media as well have political motivations
 
 and personal motivations
 -->
+
+<div class="footer-outer">
+  <p class="text-dark"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 
@@ -412,6 +610,12 @@ So these attackers have their motivations and we have our information / our data
 The attackers try find vulnerabilities which they can exploit
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 <!--
@@ -426,6 +630,13 @@ So these attackers have their motivations and we have our information / our data
 
 The attackers try find vulnerabilities which they can exploit
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 <!--
@@ -439,6 +650,11 @@ _color: black
 We then take protective measurements to patch or to protect these vulnerabilities.
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -459,6 +675,12 @@ What should be noted is that we try to deploy protective measurements proportion
 And to help us with this we have classifications
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 <!--
@@ -473,6 +695,12 @@ _color: white
 It helps us group data based on different factors
 
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -495,6 +723,12 @@ And once again we meet our lovely trio / triad CIA
 
 We can apply these properties to help us define our requirements when it comes to classification
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 <!--
@@ -541,6 +775,12 @@ All data and assets
 Today we will focus on 3 classifications according to ISO-Standards: Confidential Internal & Public. There is also the classification top secret, but that is mainly used in pharmaceutical companies and the military industy so we will not discuss that today.
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 <!--
@@ -571,8 +811,14 @@ And this is based on our classifcation
 
 so for confidential:...
 
-Printin is allowed butcopying is not. And when we print, the printing should be monitored.
+Printing is allowed but copying is not. And when we print, the printing should be monitored.
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -605,6 +851,13 @@ And to note for processing is that it should be comprehensible and traceable
 
 
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 <!--
@@ -629,6 +882,11 @@ _color: white
 
 <i class="fa-solid fa-binoculars fa-check" style="margin-right:20px"></i> Changes should be comprehensible and traceable
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -643,6 +901,12 @@ _color: white
 So what happens when we are actually attacked and 
 have a security incident?
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -659,6 +923,12 @@ We can define a compromise of information security based on our CIA triad / our 
 It can be a compromise of one area or multiple of these three areas at the same time
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 <!--
@@ -667,6 +937,12 @@ _color: black
 -->
 
 ![bg center: 99%](assets/incident_2.png)
+
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -677,6 +953,12 @@ _color: black
 
 ![bg center: 99%](assets/incident_3.png)
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 <!--
@@ -685,6 +967,12 @@ _color: black
 -->
 
 ![bg center: 99%](assets/incident_4.png)
+
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -698,6 +986,13 @@ _color: white
 <!--
 And if we have a Security incident, how do we respond?
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 <!--
@@ -726,6 +1021,11 @@ Our experts will take the necessary actions to deal with the incident
 You can also add screenshots to a ticket to provide us with more information
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -758,6 +1058,12 @@ This is also the reason why we're having this training today:
 To raise your awareness as a user and to give an understanding of some of the threats that exist.
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
+
 
 ---
 
@@ -772,6 +1078,12 @@ _color: white
 So we are concluding the first part
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 <!--
@@ -781,7 +1093,7 @@ _color: white
 
 # Part 1 - Conclusions
 
-<div class="columns">
+<div class="columns" style="margin-bottom: 30px">
 <div>
 
 ## 3 security objectives
@@ -823,6 +1135,11 @@ Feeling Uncertain? Suspicious?
 <!-- 5 Minuten Pause
  -->
 
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -832,11 +1149,17 @@ _color: white
 -->
 
 
-# Questions?
+# First part - Quiz
 
 <!--
 Do you have any questions for this first part of our training?
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive"></p>
+  <p class="footer-active">Block 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -854,6 +1177,12 @@ In our second part of this training we will look at technologies leveraged by at
 
 What do they use? How does itwork and this also helps us to understand what we need to do to protect ourselves
 -->
+
+ <div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -896,7 +1225,13 @@ _color: white
 So we will look at four groups of malware today. There are many subgroups and variants but we will focus on these as they are some of the most important ones to know
 -->
 
- ---
+ <div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
+
+---
 
  <!--
 _backgroundColor: #0d3862
@@ -925,89 +1260,13 @@ Damage: Data destruction, system crashes, network propagation.
 
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
-
- <!--
-_backgroundColor: #e74c3c
-_color: white
--->
-<h1>
-  <i class="fa-solid fa-biohazard fa-xl" style="margin-right: 15px"></i> Case study: Stuxnet Virus
-</h1>
-
-<i class="fa-solid fa-virus-slash fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Stuxnet Virus
-
-- Discovered in 2010
-- A complex computer worm targeting industrial systems.
-
-<i class="fa-solid fa-tools fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Effects
-
-- Mainly targeted Iranian nuclear reactors
-- Manipulated control systems and caused damage to 1/5 of Irans reactors
-
-
-<!-- 
-Stuxnet, discovered by Sergey Ulasen, initially spread via Microsoft Windows, and targeted Siemens industrial control systems.
-
-Stuxnet has three modules: a worm that executes all routines related to the main payload of the attack; 
-
-a link file that automatically executes the propagated copies of the worm; 
-
-and a rootkit component responsible for hiding all malicious files and processes, to prevent detection of Stuxnet.[11] 
-
-It is typically introduced to the target environment via an infected USB flash drive, thus crossing any air gap. The worm then propagates across the network, scanning for Siemens Step7 software on computers controlling a PLC
-
-Stuxnet reportedly compromised Iranian PLCs, collecting information on industrial systems and causing the fast-spinning centrifuges to tear themselves apart.
-
-PLC (Programmable Logic Controllers)
--->
-
-
----
-
- <!--
-_backgroundColor: #e74c3c
-_color: white
--->
-
-<i class="fa-solid fa-user-secret fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Complexity
-
-- Exploited zero-day vulnerabilities
-- Utilized multiple attack vectors
-
-<i class="fa-solid fa-shield-alt fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Lessons learned
-
-- Demonstrates the potential for targeted attacks on critical infrastructure
-- Emphasizes the importance of security awareness and protective measures
-
-<!-- 
-Stuxnet, discovered by Sergey Ulasen, initially spread via Microsoft Windows, and targeted Siemens industrial control systems.
-
-Stuxnet has three modules: a worm that executes all routines related to the main payload of the attack; 
-
-a link file that automatically executes the propagated copies of the worm; 
-
-and a rootkit component responsible for hiding all malicious files and processes, to prevent detection of Stuxnet.[11] 
-
-It is typically introduced to the target environment via an infected USB flash drive, thus crossing any air gap. The worm then propagates across the network, scanning for Siemens Step7 software on computers controlling a PLC
-
-Stuxnet reportedly compromised Iranian PLCs, collecting information on industrial systems and causing the fast-spinning centrifuges to tear themselves apart.
-
-PLC (Programmable Logic Controllers)
--->
-
-
----
-
-<iframe width="1100" height="800" src="https://www.youtube.com/embed/7VgIayOpjEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<!-- 
-To give some visual context we'll look at a short movie trailer for a documentary about stuxnet. It may be a bit hollywody / sensationalized but i still think it is interesting to have a look at
--->
-
----
-
  <!--
 _backgroundColor: #0d3862
 _color: white
@@ -1032,6 +1291,12 @@ And as the name indicates, its about disguising an attack.
 Data theft, identity theft, complete system takeovers
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
  <!--
@@ -1052,6 +1317,12 @@ Through software bundling, infected links, or drive-by downloads.
 <!--
 Privacy breaches, identity theft, financial losses.
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -1074,13 +1345,94 @@ Through infected email attachments, exploit kits, or malicious downloads.
 Data loss, financial losses, business interruptions.
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
-![bg center: 80%](assets/blackcat.png)
+ <!--
+_backgroundColor: #e74c3c
+_color: white
+-->
+
+
+<h1> <i class="fa-solid fa-biohazard fa-xl" style="margin-right: 15px"></i> Example: WannaCry Virus </h1>
+
+- Outbreak in May 2017
+- Ransomware that infected Windows systems worldwide.
+
+<i class="fa-solid fa-tools fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Purpose and Impact
+
+- Exploitation of the Windows vulnerability "EternalBlue"
+- Affected organizations such as the NHS (UK) and FedEx
+
+<!-- 
+Global Impact: WannaCry infected over 230,000 computers across 150 countries within days. It spread by exploiting a vulnerability in the Windows operating system called EternalBlue (a flaw that had already been patched by Microsoft but was unpatched in many systems).
+
+Behavior: The ransomware encrypted users' files, demanding a ransom in Bitcoin to restore access. If users failed to pay the ransom, their data remained inaccessible.
+
+Notable Targets: Several major institutions were severely impacted. For example:
+
+The UK’s National Health Service (NHS) had to cancel surgeries and medical appointments because WannaCry disabled their computer systems.
+Large corporations such as FedEx and Telefonica also faced major disruptions.
+
+Prevention & Aftermath: The attack highlighted the importance of keeping systems updated with security patches, as well as implementing backup and recovery plans. It also showcased the need for increased international cooperation to combat cybercrime.
+-->
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
+
+---
+
+ <!--
+_backgroundColor: #e74c3c
+_color: white
+-->
+
+<i class="fa-solid fa-user-secret fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Spread and Complexity
+
+- Spread rapidly worldwide, affecting over 230,000 systems in 150 countries
+- Encrypted data and demanded Bitcoin ransom
+
+<i class="fa-solid fa-shield-alt fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Lessons Learned
+
+- Importance of regular updates and backups
+- Highlights the vulnerability of systems without security patches
+
+<!-- 
+Global Impact: WannaCry infected over 230,000 computers across 150 countries within days. It spread by exploiting a vulnerability in the Windows operating system called EternalBlue (a flaw that had already been patched by Microsoft but was unpatched in many systems).
+
+Behavior: The ransomware encrypted users' files, demanding a ransom in Bitcoin to restore access. If users failed to pay the ransom, their data remained inaccessible.
+
+Notable Targets: Several major institutions were severely impacted. For example:
+
+The UK’s National Health Service (NHS) had to cancel surgeries and medical appointments because WannaCry disabled their computer systems.
+Large corporations such as FedEx and Telefonica also faced major disruptions.
+
+Prevention & Aftermath: The attack highlighted the importance of keeping systems updated with security patches, as well as implementing backup and recovery plans. It also showcased the need for increased international cooperation to combat cybercrime.
+-->
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
+
+---
+
+
+
+![bg center: 70%](assets/wannacry.png)
 
 <!-- link: https://www.microsoft.com/en-us/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware/
-
-This is an example of a message which is sent after black cat ransomware, which is a type of ransomware, was used for an attack
+ 
+Die ist ein Beispiel einer Nachricht die von einer Ransomware gruppe eingebelendet wird wenn mit black cat, Ransomware, was eine variante von Ransomware ist
 -->
 
 ---
@@ -1101,6 +1453,12 @@ So we talked about malware and i commented on the spread of it.
 So attackers use different attack components to get malware on systems
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 
@@ -1118,7 +1476,11 @@ _color: white
   Social aspects <i class="fa-solid fa-users-line fa-xl" style="margin-right: 15px; margin-left: 20px"></i> 
 </h1>
 
-
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -1134,6 +1496,13 @@ _color: white
 - Drive-by-Download <i class="fa-solid fa-globe fa-xl" style="margin-left: 15px"></i>
 - Email Attachments <i class="fa-solid fa-envelope fa-xl" style="margin-left: 15px"></i>
 - Software Bundling <i class="fa-solid fa-box fa-xl" style="margin-left: 15px"></i>
+
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -1161,7 +1530,11 @@ Leveraging javascript
 Unnoticed infection, propagation of viruses, trojans, or ransomware.
 -->
 
-
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 <!--
@@ -1176,6 +1549,12 @@ _color: black
 <!-- link: https://us.norton.com/blog/malware/what-are-drive-by-downloads
  -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 <!--
@@ -1188,8 +1567,13 @@ _color: black
 
 <!--
 So the recommendation here for unauthorized drive by downloads, since they work without direct interactions, is to update and especially update the browser as often as possible or at least as often as it prompts you to
-
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 <!--
@@ -1206,6 +1590,11 @@ Attachments that exploit vulnerabilities in software (such as document readers) 
 
 Exploiting software vulnerabilities, executing macros.
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
 ---
 
 <!--
@@ -1222,6 +1611,11 @@ Malware is bundled with legitimate software and installed alongside it.
 
 Users often do not notice the malware as it uses trusted software as a disguise.
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -1248,6 +1642,12 @@ They basically use the different levels of access which come with different user
 It is often used to disguised, to hide other malware and their action
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 <!--
@@ -1265,27 +1665,34 @@ _backgroundColor: #187d4d
 _color: white
 -->
 
+<div style="margin-bottom: 40px;">
 <h1>
   <i class="fa-solid fa-shield-alt fa-xl" style="margin-right: 15px"></i> Protection against Malware
 </h1>
 
-<i class="fa-solid fa-arrow-rotate-left fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Software updates
+<i class="fa-solid fa-arrow-rotate-left fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 35px"></i> Software updates
 
-Keep your operating system and all software up to date to protect against known security vulnerabilities.
+<p style="margin-top: -15"> Keep your operating system and all software up to date to protect against known security vulnerabilities.</p>
 
-<i class="fa-solid fa-envelope fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Caution with emails
+<i class="fa-solid fa-envelope fa-2xl" style="margin-right:20px; margin-top: 20px; margin-bottom: 35px"></i> Caution with emails
 
-Do not open email attachments or click on links from unknown or suspicious senders.
+<p style="margin-top: -15">Do not open email attachments or click on links from unknown or suspicious senders. </p>
 
-<i class="fa-solid fa-user-shield fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Behavioral Awareness
+<i class="fa-solid fa-user-shield fa-2xl" style="margin-right:20px; margin-top: 20px; margin-bottom: 35px"></i> Behavioral Awareness
 
-Be cautious when downloading files from the internet and avoid questionable websites.
+<p style="margin-top: -15px"> Be cautious when downloading files from the internet and avoid questionable websites.</p>
 
 <!--
 What can we do to protcet ourselves
 
 As i said before with the browsers, but also for other software and the os in general.
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -1300,6 +1707,12 @@ _color: white
 Also used by attackers are social tactics which are pretty much equally as important and dangerous.
 
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -1321,6 +1734,12 @@ Manipulation of individuals by exploiting trust, curiosity, or pressure to revea
 We see this with phishing and with vishing which is phishing but with voice so by telephone
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 <!--
@@ -1340,6 +1759,12 @@ Fake emails, websites, or social media that appear genuine to build trust.
 <!--
 Identity theft, financial losses, unauthorized access to personal accounts.
 -->
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -1438,6 +1863,16 @@ _color: white
 ---
 
 <!--
+_backgroundColor: #f4f1ec
+_color: white
+-->
+
+
+![bg center: 90%](assets/ncsc_en.png)
+
+---
+
+<!--
 _backgroundColor: #c78928
 _color: white
 -->
@@ -1455,6 +1890,11 @@ Vishing, short for "Voice Phishing," involves scammers impersonating legitimate 
 - Verify the caller's identity.
 - Avoid revealing sensitive information over the phone.
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -1481,6 +1921,12 @@ Dispose old hardware and documents according to company standards
 Potential theft of confidential data, risk of identity theft.
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 <!--
@@ -1504,6 +1950,12 @@ If an offer seems too good to be true, it's likely not genuine.
 
 Never share sensitive information in response to email requests. Legitimate institutions typically don't ask for such details through email.
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 <!--
@@ -1523,6 +1975,12 @@ Exercise caution with emails that pressure you for urgent actions. Scammers ofte
 
 Inspect suspicious emails for accurate sender addresses and domain names. Acting impulsively might cause you to overlook subtle details.
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 <!--
@@ -1531,6 +1989,7 @@ _color: white
 -->
 
 ![bg center: 85%](assets/bank_en_1.png)
+
 
 ---
 
@@ -1563,6 +2022,12 @@ _color: white
 
 - Guards against unauthorized changes to the message.
 - Ensures the message remains unaltered for recipients.
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -1612,6 +2077,12 @@ Handshake process
 In SSL, the hash calculation also comprises the master secret and pad while in TLS, the hashes are calculated over handshake message.
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
+
 ---
 
 ![bg center: 100%](assets/ssl.png)
@@ -1638,7 +2109,11 @@ _color: white
 - Symmetric Encryption: Same key for encrypting and decrypting.
 - Asymmetric Encryption: Two keys, public and private.
 
-
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -1649,6 +2124,7 @@ _color: white
 
 ![bg center 65%](assets/symmetric_asymmetric.png)
 
+
 ---
 
 <!--
@@ -1656,39 +2132,28 @@ _backgroundColor: #3498db
 _color: white
 -->
 <h1>
-  <i class="fa-solid fa-envelope fa-xl" style="margin-right: 15px"></i> Emails & Postcards
+  <i class="fa-solid fa-key fa-xl" style="margin-right: 15px"></i> Use cases for encryption
 </h1>
 
-<i class="fa-solid fa-envelope-open-text fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Standard Emails
 
-- Similar to postcards: Contents can be accessed by third parties.
-- Unencrypted emails can be intercepted and read during transmission.
+<h3>
+<i class="fa-solid fa-lock fa-xl" style="margin-right:20px; margin-top: 50px; margin-bottom: 50px"></i> SSL / TLS
+</h3>
 
-<i class="fa-solid fa-lock fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Encrypted Emails
+<h3>
+  <i class="fa-solid fa-envelope fa-xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 50px"></i> Encrypted E-Mails
+</h3>
 
-- Encrypted mails comparable to personal deliveries.
-- Ensures identity verification before content is accessed.
-
----
-<!--
-_backgroundColor: black
-_color: white
--->
-
-<img src="assets/white_color_occ.png" style="height:80px"></img> 
-
-<h1 style="margin-bottom: -20px" > Secure-E-Mail </h1>
-<h3> Communicate Securely via Email </h3>
+<h3>
+  <i class="fa-solid fa-car-tunnel fa-xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 15px"></i> VPN
+</h3>
 
 
-With Secure Email, you can easily send signed and encrypted emails.
-
-- Email Signing
-- Spam Filter
-- Outlook Add-In
-
-![bg right:40%](assets/secure.svg)
-
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
 
 ---
 
@@ -1697,7 +2162,13 @@ _backgroundColor: #187d4d
 _color: white
 -->
 
-# Part 2- Conclusions
+# Part 2 - Conclusions
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
 
 ---
 
@@ -1748,6 +2219,13 @@ Manipulation of people through exploitation of emotions
 </div>
 </div>
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
+
+
 ---
 
 <!--
@@ -1755,10 +2233,24 @@ _backgroundColor: #187d4d
 _color: white
 -->
 
-# Questions ?
+<!-- # Zoom Poll / Quiz
+-->
+
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+# Part 2 - Quiz
 
 <!-- 5 Minuten Pause
  -->
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+</div>
 
 
 ---
@@ -1770,6 +2262,12 @@ _color: white
 
 # Part 3
 ## Authentication & Behaviors
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -1797,6 +2295,11 @@ There is also authorization after they have been authenticated.
 It defines the permissions and privileges associated with a specific identity. 
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -1805,24 +2308,34 @@ It defines the permissions and privileges associated with a specific identity.
 _backgroundColor: #2c3e50
 _color: white
 -->
+<div style="margin-bottom: 50px;">
 <h1>
-  <i class="fa-solid fa-fingerprint fa-xl" style="margin-right: 15px"></i> Forms of Authentication
+  <i class="fa-solid fa-fingerprint fa-md" style="margin-right: 15px"></i> Forms of Authentication
 </h1>
 
-<i class="fa-solid fa-brain fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Knowledge (Passwords)
+<i class="fa-solid fa-brain fa-xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 35px"></i> Knowledge (Passwords)
 
 - Username and secret password
 - Vulnerable to phishing and social engineering techniques
 
-<i class="fa-solid fa-key fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Possession (Physical Keys)
+<i class="fa-solid fa-key fa-xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 35px"></i> Possession (Physical Keys)
 
 - Hardware tokens, smartcards, USB keys
 - Enhanced security, requires physical access
 
-<i class="fa-solid fa-eye-slash fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Biometrics
+<i class="fa-solid fa-eye-slash fa-xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 35px"></i> Biometrics
 
 - Fingerprint, facial recognition, iris scan
 - Unique physical characteristics for identification
+
+</div>
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
+
 ---
 
 <!--
@@ -1833,17 +2346,23 @@ _color: white
   <i class="fa-solid fa-hammer fa-xl" style="margin-right: 15px"></i> Brute Forcing
 </h1>
 
-<i class="fa-solid fa-clock fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> What is Brute Forcing?
+<i class="fa-solid fa-clock fa-2xl" style="margin-right:20px; margin-top: 45px; margin-bottom: 35px"></i> What is Brute Forcing?
 
 - Method of trying all possible combinations
 - Objective: Guessing passwords or secret information
 
-<i class="fa-solid fa-hourglass-half fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Example
+<i class="fa-solid fa-hourglass-half fa-2xl" style="margin-right:20px; margin-top: 35px; margin-bottom: 35px"></i> Example
 
 - Password: "Secure123-"
 - Estimated time to crack: Seconds
 
 <i class="fa-solid fa-triangle-exclamation fa-2xl" style="margin-top:25px; margin-left:25px; margin-right:15px"></i> Wordlists significantly reduce brute force time
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 <!--
 
@@ -1885,6 +2404,11 @@ _color: white
 - Attackers exploit this vulnerability.
 - A cracked password grants access to multiple accounts.
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -1907,7 +2431,7 @@ _color: white
 -->
 
 <h1>
-<i class="fa-solid fa-circle-check fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Password recommendations
+<i class="fa-solid fa-circle-check fa-2xl" style="margin-right:20px; margin-top: 25px; margin-bottom: 35px"></i> Password recommendations
 </h1>
 
 <i class="fa-solid fa-1 fa-2xl" style="margin-right:4px; margin-top: 40px; margin-bottom: 25px"></i><i class="fa-solid fa-2 fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Use at least 12 characters
@@ -1932,6 +2456,11 @@ MYFMITG2F2023+tc
 a device such as a pattern of letters, ideas, or associations that assists in remembering something, for example Richard Of York Gave Battle In Vain for the colours of the spectrum (red, orange, yellow, green, blue, indigo, violet).
 -->
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -1942,57 +2471,37 @@ _color: white
 -->
 
 <h1>
-  <i class="fa-solid fa-key fa-xl" style="margin-right: 15px"></i> Passwort-Manager
+  <i class="fa-solid fa-key fa-md" style="margin-right: 15px"></i> Passwort-Manager
 </h1>
 
-<i class="fa-solid fa-question fa-2xl" style="margin-right:20px; margin-top: 35px; margin-bottom: 25px"></i> What is a Password Manager?
+<i class="fa-solid fa-question fa-2xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 25px"></i> What is a Password Manager?
 
 - Stores and manages secure passwords
 - Generates random, complex passwords
 
-<i class="fa-solid fa-plus fa-2xl" style="margin-right:20px; margin-top: 35px; margin-bottom: 25px"></i> Benefits
+<i class="fa-solid fa-plus fa-2xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 25px"></i> Benefits
 
 - No need to memorize
 - Prevents password reuse
 
-<i class="fa-solid fa-gears fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 25px"></i> How They Work
+<i class="fa-solid fa-gears fa-2xl" style="margin-right:20px; margin-top: 10px; margin-bottom: 25px"></i> How They Work
 
 - Master password for access
 - Secure storage of encrypted password data
 
----
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
-<!--
-_backgroundColor: black
-_color: white
--->
-
-<img src="assets/white_color_occ.png" style="height:80px"></img> 
-
-# Password-Manager
-
-With the Password Manager Safe, you can save, manage, and share logins, passwords, and other sensitive data.
-
-- Browser Plugin
-
-- Hosted in Switzerland
-
-- 2-Factor Authentication
-
-![bg right:40%](assets/vault.png)
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
-
-
-
-<iframe width="1100" height="800" src="https://www.youtube.com/embed/opRMrEfAIiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<!--
-Relating to passwords and also phishing and social engineering i have this short video from jimmy kimmel where they try and social engineer people
--->
-
----
-
 
 <!--
 _backgroundColor: #0d3862
@@ -2005,6 +2514,12 @@ _color: white
 
 ## Clean Desk Policy <i class="fa-solid fa-spray-can-sparkles fa-xl" style="margin-left: 15px"></i>
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
+
 ---
 
 <!--
@@ -2015,23 +2530,26 @@ _color: white
   <i class="fa-solid fa-wifi fa-xl" style="margin-right: 15px"></i> Behavior in public networks
 </h1>
 
-<i class="fa-solid fa-lock fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Using Public Networks
+<i class="fa-solid fa-lock fa-2xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 25px"></i> Using Public Networks
 
 - Risk of Man-in-the-Middle attacks and data snooping.
 - Avoid online banking and sensitive activities.
 
-<i class="fa-solid fa-user-shield fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Tips
+<i class="fa-solid fa-user-shield fa-2xl" style="margin-right:20px; margin-top: 20px; margin-bottom: 25px"></i> Tips
 
 - Disable file and network sharing.
 - Use secure websites (HTTPS).
 - Employ VPN for encrypted connection.
 
-<i class="fa-solid fa-car-tunnel fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Virtual Private Network (VPN)
+<i class="fa-solid fa-car-tunnel fa-2xl" style="margin-right:20px; margin-top: 20px; margin-bottom: 25px"></i> Virtual Private Network (VPN)
 
 - Encrypts internet traffic through a secure tunnel.
 
-
-
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -2043,7 +2561,7 @@ _color: white
   <i class="fa-solid fa-spray-can-sparkles fa-xl" style="margin-right: 15px"></i> Clean Desk Policy
 </h1>
 
-<i class="fa-solid fa-question-circle fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Purpose of a Clean Desk Policy
+<i class="fa-solid fa-question-circle fa-2xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 35px"></i> Purpose of a Clean Desk Policy
 
 The Clean Desk Policy upholds the CIA principles:
 
@@ -2051,12 +2569,18 @@ The Clean Desk Policy upholds the CIA principles:
 - Integrity
 - Availability
 
-<i class="fa-solid fa-lock fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Security Concerns
+<i class="fa-solid fa-lock fa-2xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 35px"></i> Security Concerns
 
 An unorganized workspace can pose security risks:
 
 - Unauthorized use of logged-in user accounts
 - Access to sensitive documents
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -2065,7 +2589,7 @@ _backgroundColor: #5f8f9e
 _color: white
 -->
 
-<i class="fa-solid fa-trash fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Implementation
+<i class="fa-solid fa-trash fa-2xl" style="margin-right:20px; margin-top: 20px; margin-bottom: 35px"></i> Implementation
 
 The policy encompasses:
 
@@ -2081,9 +2605,21 @@ Safeguards against:
 - Third-party personnel
 - Misuse of identities
 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
+
 ---
 
 ![bg center: 100%](assets/lock_screen.png)
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -2093,6 +2629,12 @@ _color: white
 -->
 
 # Part 3 - Conclusion
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 ---
 
@@ -2131,17 +2673,37 @@ _color: white
 <!-- 5 Minuten Pause
  -->
 
---- 
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
-# Questions?
+---
 
 <!--
 _backgroundColor: #187d4d
 _color: white
 -->
 
----
+<!--
+# Zoom Poll / Quiz
+-->
 
+# Part 3 - Quiz
+
+<!--
+_backgroundColor: #187d4d
+_color: white
+-->
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
+
+---
 
 <!--
 _backgroundColor: #187d4d
@@ -2156,21 +2718,17 @@ https://haveibeenpwned.com
 - Check Password
 https://haveibeenpwned.com/passwords
 - National Cybersecurity Centre:
-https://www.melani.admin.ch/melani/en/home.html
-- Password Safe
-https://www.open-circle.ch/passwort-manager/
+https://www.ncsc.admin.ch/ncsc/en/home.html
 - Information is Beautiful
     https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
-
----
-
-<!--
-_backgroundColor: #187d4d
-_color: white
--->
-
 - Phishing quiz 
 https://phishingquiz.withgoogle.com/
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" ></p>
+</div>
 
 --- 
 
