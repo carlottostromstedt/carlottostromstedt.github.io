@@ -2152,7 +2152,7 @@ _color: white
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Informationssicherheit |</p>
   <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -2265,7 +2265,7 @@ _color: white
 
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-active">&nbsp Part 3 - Authentication & Behaviors</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2297,7 +2297,7 @@ It defines the permissions and privileges associated with a specific identity.
 
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-active">&nbsp Part 3 - Authentication & Behaviors</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2332,7 +2332,7 @@ _color: white
 
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-active">&nbsp Part 3 - Authentication & Behaviors</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2360,7 +2360,7 @@ _color: white
 
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-active">&nbsp Part 3 - Authentication & Behaviors</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2406,7 +2406,7 @@ _color: white
 
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-active">&nbsp Part 3 - Authentication & Behaviors</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2458,7 +2458,7 @@ a device such as a pattern of letters, ideas, or associations that assists in re
 
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-active">&nbsp Part 3 - Authentication & Behaviors</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2491,13 +2491,13 @@ _color: white
 
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-active">&nbsp Part 3 - Authentication & Behaviors</p>
   <p class="footer-passive" ></p>
 </div>
 
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-active">&nbsp Part 3 - Authentication & Behaviors</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2516,7 +2516,7 @@ _color: white
 
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-active">&nbsp Part 3 - Authentication & Behaviors</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2547,7 +2547,7 @@ _color: white
 
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-active">&nbsp Part 3 - Authentication & Behaviors</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2578,7 +2578,7 @@ An unorganized workspace can pose security risks:
 
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-active">&nbsp Part 3 - Authentication & Behaviors</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2607,7 +2607,7 @@ Safeguards against:
 
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-active">&nbsp Part 3 - Authentication & Behaviors</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2617,7 +2617,7 @@ Safeguards against:
 
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-active">&nbsp Part 3 - Authentication & Behaviors</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2632,7 +2632,7 @@ _color: white
 
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-active">&nbsp Part 3 - Authentication & Behaviors</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2675,7 +2675,7 @@ _color: white
 
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-active">&nbsp Part 3 - Authentication & Behaviors</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2699,7 +2699,7 @@ _color: white
 
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-active">&nbsp Part 3 - Authentication & Behaviors</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2726,7 +2726,7 @@ https://phishingquiz.withgoogle.com/
 
 <div class="footer-outer">
   <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-active">&nbsp Part 3 - Authentication & Behaviors</p>
   <p class="footer-passive" ></p>
 </div>
 
