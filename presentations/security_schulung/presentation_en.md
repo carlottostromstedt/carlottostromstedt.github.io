@@ -153,8 +153,8 @@ _color: white
 
 <div class="footer-outer">
   <p class="text-dark"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors </p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors </p>
 </div>
 
 ---
@@ -173,8 +173,8 @@ What do we actually mean when we are talking about information security?
 
 <div class="footer-outer">
   <p class="text-dark"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -205,8 +205,8 @@ The goal of todays training is that you should at least be able to ensure inform
 
 <div class="footer-outer">
   <p class="text-dark"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -237,8 +237,8 @@ A concrete example would be that only employees that work for the financial depa
 
 <div class="footer-outer">
   <p class="text-dark"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -267,8 +267,8 @@ We want to ensure that Documents are in an origianl state and if they are change
 
 <div class="footer-outer">
   <p class="text-dark"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -299,8 +299,8 @@ An example is that we as an IT provider have regular maintenance and redundant i
 
 <div class="footer-outer">
   <p class="text-dark"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -420,8 +420,8 @@ The value of this data naturally provides an incentive and motivation
 
 <div class="footer-outer">
   <p class="text-dark"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -481,8 +481,8 @@ and personal motivations
 
 <div class="footer-outer">
   <p class="text-dark"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -529,8 +529,8 @@ _color: white
 
 <div class="footer-outer">
   <p class="text-dark"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -590,8 +590,8 @@ and personal motivations
 
 <div class="footer-outer">
   <p class="text-dark"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="text-dark" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="text-dark" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -612,8 +612,8 @@ The attackers try find vulnerabilities which they can exploit
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -633,8 +633,8 @@ The attackers try find vulnerabilities which they can exploit
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -652,8 +652,8 @@ We then take protective measurements to patch or to protect these vulnerabilitie
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -677,8 +677,8 @@ And to help us with this we have classifications
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -698,8 +698,8 @@ It helps us group data based on different factors
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -726,8 +726,8 @@ We can apply these properties to help us define our requirements when it comes t
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -777,8 +777,8 @@ Today we will focus on 3 classifications according to ISO-Standards: Confidentia
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -816,8 +816,8 @@ Printing is allowed but copying is not. And when we print, the printing should b
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -854,8 +854,8 @@ And to note for processing is that it should be comprehensible and traceable
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -884,8 +884,8 @@ _color: white
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -904,8 +904,8 @@ have a security incident?
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -925,8 +925,8 @@ It can be a compromise of one area or multiple of these three areas at the same 
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -940,8 +940,8 @@ _color: black
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -955,8 +955,8 @@ _color: black
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -970,8 +970,8 @@ _color: black
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -989,8 +989,8 @@ And if we have a Security incident, how do we respond?
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1023,8 +1023,8 @@ You can also add screenshots to a ticket to provide us with more information
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1060,8 +1060,8 @@ To raise your awareness as a user and to give an understanding of some of the th
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 
@@ -1080,8 +1080,8 @@ So we are concluding the first part
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1137,8 +1137,8 @@ Feeling Uncertain? Suspicious?
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1157,8 +1157,8 @@ Do you have any questions for this first part of our training?
 
 <div class="footer-outer">
   <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Information Security</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-active">Part 1 - Information Security</p>
+  <p class="footer-passive" >&nbsp | Part 2 - Malware & Phishing | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1179,9 +1179,9 @@ What do they use? How does itwork and this also helps us to understand what we n
 -->
 
  <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1226,9 +1226,9 @@ So we will look at four groups of malware today. There are many subgroups and va
 -->
 
  <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1261,9 +1261,9 @@ Damage: Data destruction, system crashes, network propagation.
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1292,9 +1292,9 @@ Data theft, identity theft, complete system takeovers
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1319,9 +1319,9 @@ Privacy breaches, identity theft, financial losses.
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1346,9 +1346,9 @@ Data loss, financial losses, business interruptions.
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1383,9 +1383,9 @@ Prevention & Aftermath: The attack highlighted the importance of keeping systems
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1419,9 +1419,9 @@ Prevention & Aftermath: The attack highlighted the importance of keeping systems
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1454,9 +1454,9 @@ So attackers use different attack components to get malware on systems
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1477,9 +1477,9 @@ _color: white
 </h1>
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1499,9 +1499,9 @@ _color: white
 
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1531,9 +1531,9 @@ Unnoticed infection, propagation of viruses, trojans, or ransomware.
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1550,9 +1550,9 @@ _color: black
  -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1570,9 +1570,9 @@ So the recommendation here for unauthorized drive by downloads, since they work 
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1591,9 +1591,9 @@ Attachments that exploit vulnerabilities in software (such as document readers) 
 Exploiting software vulnerabilities, executing macros.
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 ---
 
@@ -1612,9 +1612,9 @@ Malware is bundled with legitimate software and installed alongside it.
 Users often do not notice the malware as it uses trusted software as a disguise.
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1643,9 +1643,9 @@ It is often used to disguised, to hide other malware and their action
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1689,9 +1689,9 @@ As i said before with the browsers, but also for other software and the os in ge
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1709,9 +1709,9 @@ Also used by attackers are social tactics which are pretty much equally as impor
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1735,9 +1735,9 @@ We see this with phishing and with vishing which is phishing but with voice so b
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1761,9 +1761,9 @@ Identity theft, financial losses, unauthorized access to personal accounts.
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1891,9 +1891,9 @@ Vishing, short for "Voice Phishing," involves scammers impersonating legitimate 
 - Avoid revealing sensitive information over the phone.
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1922,9 +1922,9 @@ Potential theft of confidential data, risk of identity theft.
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1951,9 +1951,9 @@ If an offer seems too good to be true, it's likely not genuine.
 Never share sensitive information in response to email requests. Legitimate institutions typically don't ask for such details through email.
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -1976,9 +1976,9 @@ Exercise caution with emails that pressure you for urgent actions. Scammers ofte
 Inspect suspicious emails for accurate sender addresses and domain names. Acting impulsively might cause you to overlook subtle details.
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -2024,9 +2024,9 @@ _color: white
 - Ensures the message remains unaltered for recipients.
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -2078,9 +2078,9 @@ In SSL, the hash calculation also comprises the master secret and pad while in T
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -2110,9 +2110,9 @@ _color: white
 - Asymmetric Encryption: Two keys, public and private.
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -2150,9 +2150,9 @@ _color: white
 
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Passwörter & Verhaltensweisen</p>
 </div>
 
 ---
@@ -2165,9 +2165,9 @@ _color: white
 # Part 2 - Conclusions
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 ---
@@ -2220,9 +2220,9 @@ Manipulation of people through exploitation of emotions
 </div>
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 
@@ -2247,9 +2247,9 @@ _color: white
  -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Authentication & Behaviors</p>
+  <p class="footer-passive">Part 1 - Information Security |</p>
+  <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
 
 
@@ -2264,8 +2264,8 @@ _color: white
 ## Authentication & Behaviors
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2296,8 +2296,8 @@ It defines the permissions and privileges associated with a specific identity.
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2331,8 +2331,8 @@ _color: white
 </div>
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2359,8 +2359,8 @@ _color: white
 <i class="fa-solid fa-triangle-exclamation fa-2xl" style="margin-top:25px; margin-left:25px; margin-right:15px"></i> Wordlists significantly reduce brute force time
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2405,8 +2405,8 @@ _color: white
 - A cracked password grants access to multiple accounts.
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2457,8 +2457,8 @@ a device such as a pattern of letters, ideas, or associations that assists in re
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2471,7 +2471,7 @@ _color: white
 -->
 
 <h1>
-  <i class="fa-solid fa-key fa-md" style="margin-right: 15px"></i> Passwort-Manager
+  <i class="fa-solid fa-key fa-md" style="margin-right: 15px"></i> Password-Manager
 </h1>
 
 <i class="fa-solid fa-question fa-2xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 25px"></i> What is a Password Manager?
@@ -2490,14 +2490,14 @@ _color: white
 - Secure storage of encrypted password data
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2515,8 +2515,8 @@ _color: white
 ## Clean Desk Policy <i class="fa-solid fa-spray-can-sparkles fa-xl" style="margin-left: 15px"></i>
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2546,8 +2546,8 @@ _color: white
 - Encrypts internet traffic through a secure tunnel.
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2577,8 +2577,8 @@ An unorganized workspace can pose security risks:
 - Access to sensitive documents
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2606,8 +2606,8 @@ Safeguards against:
 - Misuse of identities
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2616,8 +2616,8 @@ Safeguards against:
 ![bg center: 100%](assets/lock_screen.png)
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2631,8 +2631,8 @@ _color: white
 # Part 3 - Conclusion
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2674,8 +2674,8 @@ _color: white
  -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2698,8 +2698,8 @@ _color: white
 -->
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
 
@@ -2725,8 +2725,8 @@ https://www.ncsc.admin.ch/ncsc/en/home.html
 https://phishingquiz.withgoogle.com/
 
 <div class="footer-outer">
-  <p class="footer-passive">Block 1 - Information Security  | Block 2 - Malware & Phishing |</p>
-  <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
+  <p class="footer-passive">Part 1 - Information Security  | Part 2 - Malware & Phishing |</p>
+  <p class="footer-active">&nbsp Part 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
 
