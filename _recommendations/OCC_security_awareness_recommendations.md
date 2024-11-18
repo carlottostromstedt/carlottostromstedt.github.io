@@ -59,7 +59,7 @@ Exercise caution with emails that pressure you for urgent actions. Scammers ofte
 <i class="fa-solid fa-at fa-2xl" style="margin-right:20px; margin-top: 20px; margin-bottom: 15px"></i> Incorrect Email Addresses and Domain Names
 
 Inspect suspicious emails for accurate sender addresses and domain names. Acting impulsively might cause you to overlook subtle details.
-<p style="margin-left: 360px; margin-top: 70px">1</p>
+<p style="margin-left: 320px; margin-top: 35px; margin-bottom: 30px">1</p>
 </div>
 <div class="page2">
 <h1>
@@ -95,8 +95,8 @@ Inspect suspicious emails for accurate sender addresses and domain names. Acting
 
 <i class="fa-solid fa-list-check fa-2xl" style="margin-right:33px; margin-top: 20px; margin-bottom: 10px"></i> Use password managers for effective management.
 
-<i class="fa-solid fa-key fa-xl" style="margin-right:1px; margin-top: 20px; margin-bottom: 20px"></i><i class="fa-solid fa-key fa-xl" style="margin-right:18px; margin-top: 20px; margin-bottom: 50px"></i> Use Multi-Factor Authentication (MFA) if available.
-<p style="margin-left: 360px; margin-top: 50px; margin-bottom: 20px">2</p>
+<i class="fa-solid fa-key fa-xl" style="margin-right:1px; margin-top: 20px; margin-bottom: 20px"></i><i class="fa-solid fa-key fa-xl" style="margin-right:18px; margin-top: 20px; margin-bottom: 20px"></i> Use Multi-Factor Authentication (MFA) if available.
+<p style="margin-left: 320px; margin-top: 50px; margin-bottom: 20px">2</p>
 </div>
 <div class="page3">
 <h1>
@@ -123,20 +123,21 @@ Inspect suspicious emails for accurate sender addresses and domain names. Acting
   <i class="fa-solid fa-link fa-xl" style="margin-right: 15px; margin-top: 50px"></i> Links
 </h1>
 
+- Open Circle Password manager
+<a href="https://www.open-circle.ch/en/solutions/password-manager">https://www.open-circle.ch/en/solutions/password-manager</a>
 - Check Email Address: 
 <a href="https://haveibeenpwned.com">https://haveibeenpwned.com</a>
-
 - Check password:
 <a href="https://haveibeenpwned.com/passwords">https://haveibeenpwned.com/passwords</a>
 - National Cyber Security Center: 
-<a href="https://www.melani.admin.ch/melani/en/home.html">https://www.melani.admin.ch/melani/en/home.html</a>
+<a href="https://www.melani.admin.ch/melani/en/home.html">https://www.ncsc.admin.ch/ncsc/en/home.html</a>
 - Information is beautiful:
 <a href="https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/">https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/</a> 
 - Phishing quiz: 
 <a href="https://phishingquiz.withgoogle.com/">https://phishingquiz.withgoogle.com/</a>
 
-<p style="margin-bottom: 252px"></p>
-<p style="margin-left: 360px; margin-top: 60px; margin-bottom: 74px">3</p>
+<p style="margin-bottom: 202px"></p>
+<p style="margin-left: 320px; margin-top: 60px; margin-bottom: 24px">3</p>
 </body>
 
 
