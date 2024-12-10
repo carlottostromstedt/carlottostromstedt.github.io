@@ -1030,6 +1030,15 @@ You can also add screenshots to a ticket to provide us with more information
 ---
 
 <!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+![bg center: 90%](assets/cyber_threats.png)
+
+---
+
+<!--
 _backgroundColor: #187d4d
 _color: white
 -->
