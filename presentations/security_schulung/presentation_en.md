@@ -1246,7 +1246,9 @@ Malicious programs that attach to other files and can replicate themselves.
 
 <i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Spread
 
-Through infected files, email attachments, or infected websites.
+- infected files
+- email attachments
+- infected websites
 
 
 <!--
@@ -1280,7 +1282,8 @@ Malicious programs that disguise themselves as legitimate software to infiltrate
 
 <i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Spread
 
-Can spread through fake email attachments, infected downloads, or drive-by downloads.
+- infected downloads
+- drive-by downloads
 
 
 <!--
@@ -1312,7 +1315,8 @@ Secretly gathers information about users and their activities.
 
 <i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Spread
 
-Through software bundling, infected links, or drive-by downloads.
+- software bundling
+- drive-by downloads
 
 <!--
 Privacy breaches, identity theft, financial losses.
@@ -1339,7 +1343,9 @@ Locks or encrypts data, demands ransom for restoration.
 
 <i class="fa-solid fa-viruses fa-2xl" style="margin-right:20px; margin-top: 75px; margin-bottom: 35px"></i> Spread
 
-Through infected email attachments, exploit kits, or malicious downloads.
+- infected email attachments
+- exploit kits
+- infected downloads
 
 <!--
 Data loss, financial losses, business interruptions.
@@ -1576,10 +1582,12 @@ So the recommendation here for unauthorized drive by downloads, since they work 
 </div>
 
 ---
+
 <!--
 _backgroundColor: #0d3862
 _color: white
 -->
+
 <h1>
   <i class="fa-solid fa-envelope fa-xl" style="margin-right: 15px"></i> Email Attachments
 </h1>
@@ -1595,6 +1603,7 @@ Exploiting software vulnerabilities, executing macros.
   <p class="footer-active">&nbsp Part 2 - Malware & Phishing</p>
   <p class="footer-passive" >&nbsp | Part 3 - Authentication & Behaviors</p>
 </div>
+
 ---
 
 <!--
@@ -1828,6 +1837,21 @@ _backgroundColor: #f4f1ec
 _color: white
 -->
 
+![bg center: 90%](assets/phictionary_6.png)
+
+---
+
+![bg center: 70%](assets/paypal_suspicious.png)
+
+
+
+---
+
+<!--
+_backgroundColor: #f4f1ec
+_color: white
+-->
+
 ![bg center: 90%](assets/phictionary_4.png)
 
 ---
@@ -1846,19 +1870,6 @@ _color: white
 ---
 
 ![bg center: 80%](assets/dhl.jpeg)
-
----
-
-<!--
-_backgroundColor: #f4f1ec
-_color: white
--->
-
-![bg center: 90%](assets/phictionary_6.png)
-
----
-
-![bg center: 70%](assets/paypal_suspicious.png)
 
 ---
 
@@ -2096,13 +2107,13 @@ _color: white
 
 <i class="fa-solid fa-lock fa-xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 15px"></i> Encryption
 
-- Safeguards confidential data from unauthorized access.
-- Messages are converted into an unreadable format.
+- Safeguards confidential data
+- Conversion into unreadable format
 
 <i class="fa-solid fa-key fa-2xl" style="margin-right:20px; margin-top: 25px; margin-bottom: 15px"></i> Keys
 
-- A decryption key is required to revert encrypted messages.
-- Public keys for encryption, private keys for decryption.
+- Encryption: Public key
+- Decryption: Private key
 
 <i class="fa-solid fa-code fa-2xl" style="margin-right:20px; margin-top: 25px; margin-bottom: 15px"></i> Techniques
 
@@ -2313,12 +2324,12 @@ _color: white
   <i class="fa-solid fa-fingerprint fa-md" style="margin-right: 15px"></i> Forms of Authentication
 </h1>
 
-<i class="fa-solid fa-brain fa-xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 35px"></i> Knowledge (Passwords)
+<i class="fa-solid fa-brain fa-xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 35px"></i> Passwords
 
 - Username and secret password
 - Vulnerable to phishing and social engineering techniques
 
-<i class="fa-solid fa-key fa-xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 35px"></i> Possession (Physical Keys)
+<i class="fa-solid fa-key fa-xl" style="margin-right:20px; margin-top: 15px; margin-bottom: 35px"></i> Physical Keys
 
 - Hardware tokens, smartcards, USB keys
 - Enhanced security, requires physical access
@@ -2385,6 +2396,21 @@ What i will say, is that wordlists have a significant influence on the time it t
 ---
 
 
+![bg center: 110%](assets/773.png)
+
+<!--
+in January 2019, a large collection of credential stuffing lists (combinations of email addresses and passwords used to hijack accounts on other services) was discovered being distributed on a popular hacking forum. The data contained almost 2.7 billion records including 773 million unique email addresses alongside passwords
+
+Some Passwordmanagers have a function built in which lets you check if your password is in a leaked list.
+-->
+
+---
+
+![bg center: 80%](assets/pwned.png)
+
+---
+
+
 <!--
 _backgroundColor: #d16258
 _color: white
@@ -2412,19 +2438,6 @@ _color: white
 
 ---
 
-![bg center: 80%](assets/pwned.png)
-
----
-
-![bg center: 110%](assets/773.png)
-
-<!--
-in January 2019, a large collection of credential stuffing lists (combinations of email addresses and passwords used to hijack accounts on other services) was discovered being distributed on a popular hacking forum. The data contained almost 2.7 billion records including 773 million unique email addresses alongside passwords
-
-Some Passwordmanagers have a function built in which lets you check if your password is in a leaked list.
--->
-
----
 <!--
 _backgroundColor: #187d4d
 _color: white
