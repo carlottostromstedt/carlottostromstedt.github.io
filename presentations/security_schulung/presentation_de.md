@@ -2734,7 +2734,7 @@ Die Policy beinhaltet:
 Verhindert Spionage durch:
 
 - Eigene Angestellte
-- Anheuerung von Drittpersonen (z.B. Putzfrauen)
+- Anheuerung von Drittpersonen
 - Identitätsmissbrauch
 
 <div class="footer-outer">
