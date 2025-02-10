@@ -2764,4 +2764,4 @@ https://phishingquiz.withgoogle.com/
 
 --- 
 
-![bg](assets/open_circle_end.png)
+![bg](assets/last_slide_en.png)
