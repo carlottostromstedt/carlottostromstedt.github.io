@@ -43,7 +43,7 @@ paginate: true
 
 <!--
 _backgroundColor: #black
-_color: white
+_color: white 
 -->
 <!-- _paginate: skip -->
 
@@ -667,11 +667,7 @@ Schwachstellen durch Schutzmassnahmen sichern
 </div>
 <div style="margin-top: -20px">
 
-## 3 Klassifizierungen
 
-- Vertraulich
-- Intern
-- Öffentlich
 
 </div>
 <div style="margin-top: -20px">
@@ -695,21 +691,6 @@ Unsicher? Misstrauisch?
   <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
 </div>
 
-
----
-
-<!--
-_backgroundColor: #006951
-_color: white
--->
-
-# Erster Block - Quiz
-
-<div class="footer-outer">
-  <p class="footer-passive"></p>
-  <p class="footer-active">Block 1 - Informationssicherheit</p>
-  <p class="footer-passive" >&nbsp | Block 2 - Malware & Phishing | Block 3 - Passwörter & Verhaltensweisen</p>
-</div>
 
 ---
 
@@ -807,9 +788,9 @@ _color: white
   <i class="fa-solid fa-viruses fa-xl" style="margin-right: 15px"></i> Verbreitung
 </h1>
 
-- Infiszierte Dateien
+- Infizierte Dateien
 - E-Mail-Anhänge
-- Infiszierte Webseiten
+- Infizierte Webseiten
 
 <!--
 Viren, wie der name schon Hindeutet, sind software die im "Verhalten" ähnlichkeiten zu biologischen Viren besitzen.
