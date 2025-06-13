@@ -181,6 +181,31 @@ _color: black
 ---
 
 
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+
+# 3 Blöcke
+
+- ### Informationssicherheit
+- ### Malware & Phishing
+- ### Passwörter & Verhaltensweisen
+
+<!--
+Heute in dieser Schulung werden wir mal hinter die Kulissen von Cyber Attacken und Informationssicherheit schauen. 
+
+Wir werdend die theoretischen Hintergründe von Informationssicherheit kennenlernen
+
+Wir werden Malware und Phishing thematisieren
+
+Und wir werden uns auch mit Passwörter und Empfehlungenen bezüglich Verhaltensweisen am Arbeitsplatz und im digitalen Umfeld beschäftigen
+-->
+
+---
+
 <!--
 _backgroundColor: #0d3862
 _color: white
@@ -660,23 +685,21 @@ Erster Block - Fazit
 </div>
 <div>
 
-## Risiko
-
-Schwachstellen durch Schutzmassnahmen sichern
-
-</div>
-<div style="margin-top: -20px">
-
-
-
-</div>
-<div style="margin-top: -20px">
-
 ## Sicherheitsvorfall
 
 Unsicher? Misstrauisch?
 
 <i class="fa-solid fa-arrow-right fa-xl" style="margin-right: 10px"></i> Melden
+
+</div>
+<div style="margin-top: -20px">
+
+
+
+</div>
+<div style="margin-top: -20px">
+
+
 
 
 </div>
@@ -1045,10 +1068,10 @@ _color: white
   - Browser
   - Dokumentenlesern
   - Office-Software
-  -> Regelmässige Updates
+
 
 - Infizierte Downloads / Software-Bündelung
-  -> Bewusstsein: Was lade ich von wo herunter?
+
 <!--
 Driveby downloads wurden vorher als eine Verbreitungstechnik kurz erwähnt.
 
@@ -1433,36 +1456,6 @@ _color: white
 
 ---
 
-
-<!--
-_backgroundColor: #c78928
-_color: white
--->
-<h1>
-  <i class="fa-solid fa-phone-volume fa-xl" style="margin-right: 15px"></i> Vishing
-</h1>
-
-<i class="fa-solid fa-info-circle fa-2xl" style="margin-right:20px; margin-top: 45px; margin-bottom: 30px"></i> Was ist Vishing?
-
-- Vishing steht für "Voice Phishing"
-- Eine Betrugsmethode, bei der Betrüger sich am Telefon als legitime Organisationen ausgeben, um vertrauliche Informationen zu erlangen.
-
-
-
-<i class="fa-solid fa-shield-alt fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 30px"></i> Schutz
-
-- Sei misstrauisch gegenüber unerwarteten Anrufen
-- Verifiziere die Identität des Anrufers
-- Gib niemals vertrauliche Informationen am Telefon preis
-
-<div class="footer-outer">
-  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
-  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
-  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
-</div>
-
----
-
 <!--
 _backgroundColor: #cf7030
 _color: white
@@ -1510,6 +1503,39 @@ Sei misstrauisch bei E-Mails, die dringendes Handeln erfordern. Betrüger erzeug
 <i class="fa-solid fa-at fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 35px"></i> Falsche E-Mail-Adressen und Domänennamen
 
 Prüfe verdächtige E-Mails auf korrekte Absenderadressen und Domänennamen. Impulsives Handeln könnte dazu führen, subtile Details zu übersehen.
+
+<div class="footer-outer">
+  <p class="footer-passive">Block 1 - Informationssicherheit |</p>
+  <p class="footer-active">&nbsp Block 2 - Malware & Phishing</p>
+  <p class="footer-passive" >&nbsp | Block 3 - Passwörter & Verhaltensweisen</p>
+</div>
+
+---
+
+![bg center: 90%](assets/email_domain.jpeg)
+
+---
+
+<!--
+_backgroundColor: #c78928
+_color: white
+-->
+<h1>
+  <i class="fa-solid fa-phone-volume fa-xl" style="margin-right: 15px"></i> Vishing
+</h1>
+
+<i class="fa-solid fa-info-circle fa-2xl" style="margin-right:20px; margin-top: 45px; margin-bottom: 30px"></i> Was ist Vishing?
+
+- Vishing steht für "Voice Phishing"
+- Eine Betrugsmethode, bei der Betrüger sich am Telefon als legitime Organisationen ausgeben, um vertrauliche Informationen zu erlangen.
+
+
+
+<i class="fa-solid fa-shield-alt fa-2xl" style="margin-right:20px; margin-top: 30px; margin-bottom: 30px"></i> Schutz
+
+- Sei misstrauisch gegenüber unerwarteten Anrufen
+- Verifiziere die Identität des Anrufers
+- Gib niemals vertrauliche Informationen am Telefon preis
 
 <div class="footer-outer">
   <p class="footer-passive">Block 1 - Informationssicherheit |</p>
@@ -1752,9 +1778,6 @@ _color: white
 
 <i class="fa-solid fa-dice-one fa-2xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Verwende für jedes Konto ein einzigartiges Passwort
 
-
-<i class="fa-solid fa-key fa-xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i><i class="fa-solid fa-key fa-xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Multi-Faktor-Authentifizierung (MFA) verwenden
-
 <!--
 mnemonic
 
@@ -1826,6 +1849,16 @@ _color: white
   <p class="footer-active">&nbsp Block 3 - Passwörter & Verhaltensweisen</p>
   <p class="footer-passive" ></p>
 </div>
+
+---
+
+<!--
+_backgroundColor: #0d3862
+_color: white
+-->
+
+
+## <i class="fa-solid fa-key fa-xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i><i class="fa-solid fa-key fa-xl" style="margin-right:20px; margin-top: 40px; margin-bottom: 25px"></i> Multi-Faktor-Authentifizierung (MFA) verwenden!
 
 ---
 
